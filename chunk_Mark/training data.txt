@@ -1,0 +1,87 @@
+data = [
+    {
+        "category": "Event",
+        "questions": [
+            "When is the next graduation ceremony?",
+            "Can I attend the graduation ceremony as a guest?",
+            "Is there a live stream available for the graduation ceremony?"
+        ],
+        "answers": [
+            "The next graduation ceremony is scheduled for 17 Nov, 2023, from 8:30 am to 1:00 pm at Visa Oshwal Community Centre.",
+            "Yes, we invite all stakeholders, friends, and family to join us in celebrating the achievements of our graduates.",
+            "Yes, we will provide a live stream link for those unable to attend in person."
+        ]
+    },
+    {
+        "category": "Course",
+        "questions": [
+            "What programming languages are covered in the Full Stack Software Engineering Curriculum?",
+            "Are there any prerequisites for enrolling in the Software Engineering program?",
+            "How much time should I dedicate to learning each week?"
+        ],
+        "answers": [
+            "The curriculum covers HTML, CSS, JavaScript, React, SQL, Python, JSON, and Redux Frameworks.",
+            "No prior coding knowledge is required. The program is designed for beginners and experienced learners alike.",
+            "Students are required to dedicate 6 days to learning, with 20-25 hours per week, including 3 live lectures and additional helpdesk support on Saturdays."
+        ]
+    },
+    {
+        "category": "Partnership",
+        "questions": [
+            "Tell me more about the partnership between Moringa School and Impact Hub Accra.",
+            "What benefits does the partnership offer to students?"
+        ],
+        "answers": [
+            "The partnership aims to foster collaboration and support for tech education. Key individuals involved include Nelly Agyemang-Gyamfi, Kelechi Victor Ofoegbu, and Setriakor Nyomi.",
+            "The partnership provides additional networking opportunities, access to resources, and collaborative projects for students."
+        ]
+    },
+    {
+        "category": "Contact",
+        "questions": [
+            "How can I reach the Admissions team?",
+            "What is the email address for general inquiries?"
+        ],
+        "answers": [
+            "You can contact the Admissions team at +254 712 293 878 or reach out on WhatsApp at +254 741 493 565.",
+            "For general inquiries, please email us at access@moringaschool.com."
+        ]
+    },
+    {
+        "category": "Privacy Policy",
+        "questions": [
+            "How is my personal information handled according to the Privacy Policy?",
+            "Can I opt-out of receiving promotional materials?"
+        ],
+        "answers": [
+            "The Privacy Policy emphasizes the secure handling of personal information. We do not rent or sell personal information, and we engage third parties with strict privacy obligations.",
+            "Yes, you can opt-out of promotional materials by sending an email to contact@moringaschool.com with your name and contact details."
+        ]
+    },
+    {
+        "category": "General",
+        "questions": [
+            "What sets Moringa School apart from other coding schools?",
+            "Is financial assistance available for the Software Engineering program?"
+        ],
+        "answers": [
+            "Moringa School offers a comprehensive Full Stack Software Engineering Curriculum, practical hands-on learning, technical mentorship, and career coaching for up to 12 months post-graduation.",
+            "Yes, candidates can take a student loan and pay only N90,720 as a commitment fee, with the remaining balance payable after securing a job."
+        ]
+    }
+]
+
+# Example usage:
+# For a chatbot, you can retrieve the appropriate answer based on the user's input and category.
+user_input = "What programming languages are taught in the Full Stack Software Engineering Curriculum?"
+category = "Course"
+
+# Assuming you have a function get_bot_response(user_input, category) that fetches the answer:
+def get_bot_response(user_input, category):
+    for item in data:
+        if item["category"] == category and user_input in item["questions"]:
+            return item["answers"][item["questions"].index(user_input)]
+
+# Example usage:
+response = get_bot_response(user_input, category)
+print(response)
