@@ -1,0 +1,188 @@
+introductory Data Science concepts. By the end
+of pre-work you will be prepared to dive into the course material and you will be at the same level with your coursemates. They need to
+test ecosystems for the businesses and prepare them for data scientists to run their algorithms. In short, they make sure that the data is
+ready to be processed and analyzed Data analysts are responsible for different tasks such as visualizing, transforming and manipulating
+the data. Sometimes they are also responsible for web analytics tracking and A/B testing analysis. All applicants need to meet the
+criteria outlined below to gain admission and succeed in the 25 weeks program:- Data Storytelling lies right in the middle of pure, raw
+data and human communication. A data storyteller needs to take on some data, simplify it, focus it on a specific aspect, analyze its
+behavior, and use his insights to create a compelling story that helps people better understand the data. Students get a 1 week break to
+relax and boost energies to complete the remaining modules. This is a course for the passionately curious that want to work with Data
+to:Help businesses leverage data for innovation and successInnovate and predict future trends in business and other industriesLearn how to
+analyze data, and provide data-driven insights to make decisionsElevate their careers or switch to Data Science in as little as 25 weeks
+This Data Science course is for the passionately curious that want to work with Data to:Help businesses leverage data for innovation and
+successInnovate and predict future trends in business and other industriesLearn how to analyze data, and provide data-driven insights to
+make decisionsElevate their careers or switch to Data Science in as little as 35 weeks Data Science Jobs are among the most sought-after
+roles according to Linkedin reports. Students will go through training with our professional development trainers in leading self, working
+with others, project management, career readiness, communicating for impact & Entrepreneurial Thinking At the end of this phase, students
+will be able to use skills to collect, organize and visualize data with the goal of providing actionable insights.  Now more than ever,
+industries are leveraging data to monitor behaviors and trends. Data Scientists are equipped with the knowledge of how to make use of
+data, tell a story, and derive insights for businesses. In order for businesses to succeed in this day and age, they need Data Scientists
+to fill the gaps, use data to set business goals, and find opportunities that could not be considered were it not for the data insights.
+At the end of this phase students will be able to build and implement the most important machine learning techniques. 35 weeks Ksh 200,000
+( USD 2000 )Download fees installment plans on theData Science Part-time fees installation plans document © 2024 Moringa School. All
+rights reserved. Students get a 1-week break to relax and boost energies to complete the remaining modules. The Data Science pre-work
+covers introductory Data Science concepts. By the end of pre-work, you will be prepared to dive into the course material and you will be
+at the same level as your coursemates. Flatiron School The credits are rolling on a movie you’ve just concluded watching and Netflix
+automatically queues the preview for another movie that you might like; You’re doing some online shopping on Jumia and while scrolling
+down the product description, you notice a section that says “Most popular” that has the same product from different vendors at different
+prices; this is Data Science at work and businesses are always looking for talented individuals to help them analyze and draw actionable
+insights from their data in order to make informed business decisions. Live & Online | Mon to Fri from 6pm – 9pm | Saturdays from 9am –
+6pm This phase of the course focuses on a variety of Data Science techniques. Students learn about unsupervised learning techniques like
+clustering and dimensionality reduction. Students will be introduced to threading and multiprocessing to be able to work with big data. In
+doing so, you’ll learn about PySpark and AWS, and how to use those tools to build a recommendation system. You’ll also learn about deep
+learning, neural networks, and how to perform sentiment analysis. In your final project, learners work individually or in groups to apply
+the technical and soft skills training and knowledge. Students will be required to create a large-scale data science and/or machine
+learning project. This final project provides an in-depth opportunity for you to demonstrate your learning accomplishments and get a feel
+for what working on a large-scale data science project is really like. To become a data scientist, you will need some understanding of
+Software Engineering fundamentals, Statistics, and the ability to apply all the knowledge in new and dynamic domains. Our Data Science
+course will teach you the technical and soft skills that will have you adapt faster, learn how to learn, and stay relevant in the industry
+for a long time. In this phase, students learn about machine learning with a heavy focus on supervised learning. For starters, learners
+get into regression analysis and a new form of regression — logistic regression. In building regression models, students also learn
+penalization terms, preventing overfitting through regularization, and using cross-validation to validate regression models. Find out the
+pacing options available, price, and more information about the Part-time Data Science Course at Moringa. During orientation, you learn
+more about Moringa, our policies, learning model, learning platform, classroom structure, and learning schedule. You will also learn about
+Dat Science Principles, and Software Engineering principles and dive deep into python programming. At Moringa we guarantee you a unique
+learning experience and curriculum design. We deliver a cutting-edge and comprehensive curriculum by offering you:- They need to test
+ecosystems for the businesses and prepare them for data scientists to run their algorithms. In short, they make sure that the data is
+ready to be processed and analyzed. All applicants need to meet the criteria outlined below to gain admission and succeed in the 35 weeks
+program:- Being a data scientist entails dealing with all aspects of a project. Often, in big companies, team leaders in charge of people
+with specialized skills are data scientists; their skill set allows them to overlook a project and guide them from start to finish. Become
+aCertified Data Scientistwith access to 12 months of Graduate Support to land your next career opportunity once you complete your course
+work. In this phase, students will be introduced to the fundamentals of python for Data Science. You’ll learn how to use Jupyter
+Notebooks, and will be familiarized with popular Python libraries that are used in data science such as Numpy and Pandas. To organize your
+data, you’ll learn about data structures, relational databases, ways to retrieve data, and the fundamentals of SQL for data querying
+structured databases. Furthermore, you will learn how to access data from various sources using APIs and perform Web scraping. Enroll now
+for theMarch 18th, 2024intake Data analysts are responsible for different tasks such as visualizing, transforming and manipulating the
+data. Sometimes they are also responsible for web analytics tracking and A/B testing analysis. Data Storytelling lies right in the middle
+of pure, raw data and human communication. A data storyteller needs to take on some data, simplify it, focus it on a specific aspect,
+analyze its behavior, and use his insights to create a compelling story that helps people better understand the data. In phase 2, students
+learn about the fundamentals of probability theory like combinations and permutations. They also learn about statistical distributions and
+how to create samples, then apply this knowledge by running A/B experiments. At the end of this phase, students will be able to build
+their first data science model using linear regression. This Data Science course is for the passionately curious that want to work with
+Data to:Help businesses leverage data for innovation and successInnovate and predict future trends in business and other industriesLearn
+how to analyze data, and provide data-driven insights to make decisionsElevate their careers or switch to Data Science in as little as 35
+weeks Data Science Jobs are among the most sought-after roles according to Linkedin reports. Students will go through training with our
+professional development trainers in leading self, working with others, project management, career readiness, communicating for impact &
+Entrepreneurial Thinking At the end of this phase, students will be able to use skills to collect, organize and visualize data with the
+goal of providing actionable insights.  Now more than ever, industries are leveraging data to monitor behaviors and trends. Data
+Scientists are equipped with the knowledge of how to make use of data, tell a story, and derive insights for businesses. In order for
+businesses to succeed in this day and age, they need Data Scientists to fill the gaps, use data to set business goals, and find
+opportunities that could not be considered were it not for the data insights. At the end of this phase students will be able to build and
+implement the most important machine learning techniques. 35 weeks Ksh 200,000 ( USD 2000 )Download fees installment plans on theData
+Science Part-time fees installation plans document © 2024 Moringa School. All rights reserved. Students get a 1-week break to relax and
+boost energies to complete the remaining modules. The Data Science pre-work covers introductory Data Science concepts. By the end of pre-
+work, you will be prepared to dive into the course material and you will be at the same level as your coursemates. Flatiron School The
+credits are rolling on a movie you’ve just concluded watching and Netflix automatically queues the preview for another movie that you
+might like; You’re doing some online shopping on Jumia and while scrolling down the product description, you notice a section that says
+“Most popular” that has the same product from different vendors at different prices; this is Data Science at work and businesses are
+always looking for talented individuals to help them analyze and draw actionable insights from their data in order to make informed
+business decisions. Live & Online | Mon to Fri from 6pm – 9pm | Saturdays from 9am – 6pm This phase of the course focuses on a variety of
+Data Science techniques. Students learn about unsupervised learning techniques like clustering and dimensionality reduction. Students will
+be introduced to threading and multiprocessing to be able to work with big data. In doing so, you’ll learn about PySpark and AWS, and how
+to use those tools to build a recommendation system. You’ll also learn about deep learning, neural networks, and how to perform sentiment
+analysis. In your final project, learners work individually or in groups to apply the technical and soft skills training and knowledge.
+Students will be required to create a large-scale data science and/or machine learning project. This final project provides an in-depth
+opportunity for you to demonstrate your learning accomplishments and get a feel for what working on a large-scale data science project is
+really like. To become a data scientist, you will need some understanding of Software Engineering fundamentals, Statistics, and the
+ability to apply all the knowledge in new and dynamic domains. Our Data Science course will teach you the technical and soft skills that
+will have you adapt faster, learn how to learn, and stay relevant in the industry for a long time. In this phase, students learn about
+machine learning with a heavy focus on supervised learning. For starters, learners get into regression analysis and a new form of
+regression — logistic regression. In building regression models, students also learn penalization terms, preventing overfitting through
+regularization, and using cross-validation to validate regression models. Find out the pacing options available, price, and more
+information about the Part-time Data Science Course at Moringa. During orientation, you learn more about Moringa, our policies, learning
+model, learning platform, classroom structure, and learning schedule. You will also learn about Dat Science Principles, and Software
+Engineering principles and dive deep into python programming. At Moringa we guarantee you a unique learning experience and curriculum
+design. We deliver a cutting-edge and comprehensive curriculum by offering you:- They need to test ecosystems for the businesses and
+prepare them for data scientists to run their algorithms. In short, they make sure that the data is ready to be processed and analyzed.
+All applicants need to meet the criteria outlined below to gain admission and succeed in the 35 weeks program:- Being a data scientist
+entails dealing with all aspects of a project. Often, in big companies, team leaders in charge of people with specialized skills are data
+scientists; their skill set allows them to overlook a project and guide them from start to finish. Become aCertified Data Scientistwith
+access to 12 months of Graduate Support to land your next career opportunity once you complete your course work. In this phase, students
+will be introduced to the fundamentals of python for Data Science. You’ll learn how to use Jupyter Notebooks, and will be familiarized
+with popular Python libraries that are used in data science such as Numpy and Pandas. To organize your data, you’ll learn about data
+structures, relational databases, ways to retrieve data, and the fundamentals of SQL for data querying structured databases. Furthermore,
+you will learn how to access data from various sources using APIs and perform Web scraping. Enroll now for theMarch 18th, 2024intake Data
+analysts are responsible for different tasks such as visualizing, transforming and manipulating the data. Sometimes they are also
+responsible for web analytics tracking and A/B testing analysis. Data Storytelling lies right in the middle of pure, raw data and human
+communication. A data storyteller needs to take on some data, simplify it, focus it on a specific aspect, analyze its behavior, and use
+his insights to create a compelling story that helps people better understand the data. In phase 2, students learn about the fundamentals
+of probability theory like combinations and permutations. They also learn about statistical distributions and how to create samples, then
+apply this knowledge by running A/B experiments. At the end of this phase, students will be able to build their first data science model
+using linear regression.  No prior experience in programming is required. Data visualization skills are required for many jobs in the data
+analysis and statistics professions.Data visualization specialists are in high demand by companies working with Big data.Learning data
+visualization techniques is important for professionals in finance, marketing, health, insurance, business analytics, and statistics. Any
+time you are tasked with communicating information from data, whether it’s to an audience of coworkers, clients, or customers, you will
+need to know how to most effectively present your findings. If you are in search of a unique learning experience this is the place for
+you. We guarantee you will learn market-aligned skills through our practical and comprehensive curriculum.Project-based learningAccess to
+large data sets & real-world business case studiesTechnical Mentor SupportLive instructor classesAccess to a global community of learners
+all over AfricaCareer Guidance © 2024 Moringa School. All rights reserved. Students are required to dedicate 12 weeks to learning for them
+to succeed in this course. Students that enroll in this course are not expected to have any prior experience in coding. By the end of this
+course, learners will have a solid foundational understanding of Python programming and practical experience working with the most popular
+data science libraries such as Pandas and Matplotlib to import, explore, clean, manipulate, and visualize datasets in order to identify
+trends and insights from large data sets. Flatiron School Students will work in teams to support each other in the development of their
+first python visualization project. Students will be expected to prepare a presentation on the insights derived from the visualizations
+they created. In order to gain access to the world of freely available data, we must learn its language. No prior coding experience is
+expected for this course. We’ll start with the bare basics and work our way up from there. Find out the pacing options available, price,
+and more information about this course. Have basic math skills.Have basic computer skills.Proficiency in English – both spoken and
+written.Must have a computer or laptop with the following specs ( core i5 – i7, 8GB RAM, 500GB memory).Must have a desire and curiosity to
+learn.No prior experience in programming is required. This course is designed for non-technical students seeking programming skillsin
+Python with an interest in gathering, synthesizing, and story-telling with data.Are you interested in learning more about python, data
+science, or data visualizations?Are you interested in the rapidly expanding world of data science?Then you are fit for this course. Sign
+up and start learning. Build up from the basics of Pandas to develop skills isolating data of interest by grouping, sorting, filtering,
+etc. This will be an opportunity to review basic statistics concepts through continued python practice. Identify use cases for various
+visualizations (Scatter Plots, Bar Graphs, Histograms, etc.) and utilize our budding python skills to create simple visualizations Learn
+about what an API is and how you can connect to them to access publicly available data to merge with your existing dataset. Data
+visualization is the graphic representation of data analysis to achieve clear and effective communication of results and insights drawn
+from data. One of the key skills of a data scientist is the ability to tell a compelling story, visualizing data and findings in an
+approachable and stimulating way. Learning to leverage software tools to visualize data takes you a step closer to becoming a good data
+scientist. Understand the challenges associated with missing data and implement methods of dealing with them. Also, If you have always
+wanted to learn python programming for Data Science, this is a good foundational course for you. The Data Visualization Course is beginner
+friendly. Then you are fit for this course. Sign up and start learning. This course is designed for non-technical students seeking
+programming skillsin Python with an interest in gathering, synthesizing, and story-telling with data. Introduce Pandas DataFrames and
+learn how to import data and explore various statistics with simple commands. Live & Online | Part-Time Evening Classes Ksh 35,000
+Applications for this course have been closed. If you are in search of a unique learning experience this is the place for you. We
+guarantee you will learn market-aligned skills through our practical and comprehensive curriculum. Students are required to dedicate 12
+weeks to learning for them to succeed in this course.1 weekly lecture from a technical mentor8-10 hours per week of self-learningWeekly
+projectsWeekly 1:1 sessions with your Technical Mentors/ InstructorsAdditional helpdesk support is available on Saturdays from 9 am to 12
+pm E.A.T Students will take an approved dataset of their choosing and enrich it by merging it with externally sourced data. Using this
+enriched dataset, students will prepare a full visual analysis presentation exploring the features of the data and presenting valuable
+insights. Now that we’ve gained some understanding of the basic building blocks of python, let’s use them to solve beginner computational
+thinking challenges. 12 Weeks  © 2024 Moringa School. All rights reserved. Security ConsultantInformation security analystNetwork Security
+EngineerComputer Forensics InvestigatorEthical HackerSecurity Software Developer Flatiron School Are you new to the world of cybersecurity
+as a professional, or just interested in getting started in this industry? This introductory course is for you. For 12 weeks learners
+explore topics in cybersecurity like cyber threats, and cyber intelligence while gaining practical insight into governance, risk &
+compliance. At the end of the course, you will earn a certificate of completion from Moringa and be well-prepped to take up the exams for
+the Certificate in Cybersecurity from (ISC)², the world’s leading cybersecurity professional organization known for the CISSP. Find out
+the pacing options available, price, and more information about this course. Moringa is one of the most successful tech boot camps in
+Africa. Join us and get top-tier learning & student experience.Practical hands-on learningAccess to industry-relevant cybersecurity labs &
+projectsDedicated Technical mentor supportGraduates earn a certificate upon completion of the courseExam preparation for the Certificate
+in Cybersecurity from (ISC)², the world’s leading cybersecurity professional organization known for the CISSP.Access to industry networks
+through tech events, networking forums & the alumni community Next Intake starts onFebruary 12th, 2024 12 weeks Our curriculum is created
+by a leading boot camp from the USA – Flatiron School, and verified by Cybersecurity experts with years of real-world industry experience.
+When you join our 12-week Cybersecurity prep course, you’ll be supported by certified technical mentors. Have basic computer
+skills.Proficiency in English – both spoken and written.Must have a computer or laptop ( core i5 – i7, 8GB RAM, 500GB memory).All classes
+are fully online. You are required to have access to stable internet.Must have a desire and curiosity to learn.Availability to attend all
+classes. If you are a recent graduate or an ongoing student and looking to start your career in cybersecurity you are encouraged to apply
+and start. No one is left out – even if you are switching from another IT field this is the right course for you! Students will be
+required to be online Mondays – Thursdays from 6.00 pm – 9.00 pm. A 1 -hour lecture will be delivered then deep dive into the course for
+the remainder of the time. Additional hours and support will be availed on Fridays & Saturdays. Moringa is one of the most successful tech
+boot camps in Africa. Join us and get top-tier learning & student experience. This course will take you from 0 to an experienced junior
+cyber specialist with industry-relevant & practical skills. You will be taken through exam preparation sessions for the Certificate in
+Cybersecurity from (ISC)², the world’s leading cybersecurity professional organization known for the CISSP. Ksh 35,000 At the end of the
+course, learners have an opportunity to take an exam for the Certificate in Cybersecurity from (ISC)², the world’s leading cybersecurity
+professional organization known for the CISSP. Part Time Classes Online Classes every Mon – Thursdays from 6.00 pm – 9.00 pm ( live
+lectures, self-learning and Technical Mentor Support available) This course will take you from 0 to an experienced junior cyber specialist
+with industry-relevant & practical skills.Career readiness– explore job trends and position yourself for a prospective job as the
+cybersecurity industry continues to grow.Upskill in a new field– Learn what cybersecurity is and its potential impact on you & understand
+the most common threats, attacks, and vulnerabilities. Also, gain insights into how businesses protect their operations from attacks.Job
+Opportunities– There is a huge demand for Cyber Security experts from cybersecurity analysts, penetrations tester, ethical hackers,
+network engineers, DevSecOps, Cyber Security consultants, etc This course covers all the aspects required for a good start in
+cybersecurity. You will be taken through cybersecurity fundamentals, get a deep dive into the cybersecurity kill chain, and discover
+malicious tools that are used by hackers. Learners will also work on practicals through weekly labs & projects.You will be taken through
+exam preparation sessions for the Certificate in Cybersecurity from (ISC)², the world’s leading cybersecurity professional organization
+known for the CISSP. Get started on your journey to becoming a cybersecurity specialist with our 12-week Cybersecurity Prep Course This
+course covers all the aspects required for a good start in cybersecurity. You will be taken through cybersecurity fundamentals, get a deep
+dive into the cybersecurity kill chain, and discover malicious tools that are used by hackers. Learners will also work on practicals
+through weekly labs & projects.  DevOps focuses on better collaboration between the Development team and the Operations team. A DevOps
+Engineer is an individuals who oversee the entire software development lifecycle. They are instrumental in handling the code releases,
+implementing CI/C
