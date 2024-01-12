@@ -4,12 +4,26 @@ data = [
         "questions": [
             "When is the next graduation ceremony?",
             "Can I attend the graduation ceremony as a guest?",
-            "Is there a live stream available for the graduation ceremony?"
+            "Is there a live stream available for the graduation ceremony?",
+            "How can I get an invitation to the graduation ceremony?",
+            "Tell me more about the dress code for the graduation ceremony.",
+            "What time does the graduation ceremony start?",
+            "Where is the graduation ceremony venue?",
+            "How many graduates are expected at the next ceremony?",
+            "Can I bring my family to the graduation ceremony?",
+            "Are there any special guests or speakers at the graduation ceremony?"
         ],
         "answers": [
             "The next graduation ceremony is scheduled for 17 Nov, 2023, from 8:30 am to 1:00 pm at Visa Oshwal Community Centre.",
             "Yes, we invite all stakeholders, friends, and family to join us in celebrating the achievements of our graduates.",
-            "Yes, we will provide a live stream link for those unable to attend in person."
+            "Yes, there will be a live stream link for those unable to attend in person.",
+            "Invitations will be sent to stakeholders, friends, and family. You can contact us for more information.",
+            "The dress code is casual formal. Avoid rugged jeans, shorts, and tights for a respectful atmosphere.",
+            "The graduation ceremony starts at 8:30 am and concludes at 1:00 pm.",
+            "The venue for the graduation ceremony is Visa Oshwal Community Centre.",
+            "We expect approximately 996 graduates at the upcoming ceremony.",
+            "Yes, you can bring your family to share in the celebration.",
+            "We will have special guests and speakers to make the ceremony memorable."
         ]
     },
     {
@@ -17,71 +31,135 @@ data = [
         "questions": [
             "What programming languages are covered in the Full Stack Software Engineering Curriculum?",
             "Are there any prerequisites for enrolling in the Software Engineering program?",
-            "How much time should I dedicate to learning each week?"
+            "How much time should I dedicate to learning each week?",
+            "Tell me about the hands-on learning experience in the Software Engineering program.",
+            "Can I work while enrolled in the Software Engineering program?",
+            "What support is provided for job placement after completing the program?",
+            "Is financial aid available for the Software Engineering program?",
+            "Are there any group projects in the Software Engineering program?",
+            "How is the curriculum structured?",
+            "Can I apply if I have no prior coding experience?"
         ],
         "answers": [
             "The curriculum covers HTML, CSS, JavaScript, React, SQL, Python, JSON, and Redux Frameworks.",
             "No prior coding knowledge is required. The program is designed for beginners and experienced learners alike.",
-            "Students are required to dedicate 6 days to learning, with 20-25 hours per week, including 3 live lectures and additional helpdesk support on Saturdays."
+            "Students are required to dedicate 6 days to learning, with 20-25 hours per week, including 3 live lectures and additional helpdesk support on Saturdays.",
+            "The program offers practical hands-on learning with real-world projects to enhance your skills.",
+            "While the program is intensive, some students find a balance with part-time work.",
+            "We provide career coaching and job-hunting support for up to 12 months post-graduation.",
+            "Yes, candidates can take a student loan, paying N90,720 as a commitment fee and the remaining balance after securing a job.",
+            "Group projects are a key component, fostering collaboration and practical application of skills.",
+            "The curriculum is structured to cover both front-end and back-end development technologies.",
+            "Absolutely! The program is designed to accommodate learners with no prior coding experience."
         ]
     },
     {
         "category": "Partnership",
         "questions": [
             "Tell me more about the partnership between Moringa School and Impact Hub Accra.",
-            "What benefits does the partnership offer to students?"
+            "What benefits does the partnership offer to students?",
+            "How can students get involved in collaborative projects through the partnership?",
+            "Are there any events or workshops organized as part of the partnership?",
+            "Can students from other regions participate in the Impact Hub Accra partnership?",
+            "Who are the key individuals involved in the partnership?",
+            "What is the goal of the collaboration between Moringa School and Impact Hub Accra?",
+            "How does the partnership contribute to the overall learning experience?",
+            "Are there any internship opportunities through the partnership?",
+            "Can students access resources at Impact Hub Accra during the program?"
         ],
         "answers": [
             "The partnership aims to foster collaboration and support for tech education. Key individuals involved include Nelly Agyemang-Gyamfi, Kelechi Victor Ofoegbu, and Setriakor Nyomi.",
-            "The partnership provides additional networking opportunities, access to resources, and collaborative projects for students."
+            "The partnership provides additional networking opportunities, access to resources, and collaborative projects for students.",
+            "Students can engage in collaborative projects by expressing interest and participating in events organized through the partnership.",
+            "Yes, various events and workshops are organized as part of the partnership to enrich the student experience.",
+            "While the physical hub is in Accra, the partnership offers opportunities for remote collaboration, allowing students from other regions to participate.",
+            "The goal is to nurture African talent, advance tech in Africa, and create opportunities for students through collaborative projects.",
+            "The collaboration enhances the overall learning experience by providing real-world exposure and industry connections.",
+            "Internship opportunities may arise through the partnership, providing valuable industry experience for students.",
+            "Yes, students can access resources at Impact Hub Accra, contributing to a rich and supportive learning environment.",
+            "Absolutely! The partnership creates opportunities for students to immerse themselves in a broader tech community."
         ]
     },
     {
         "category": "Contact",
         "questions": [
             "How can I reach the Admissions team?",
-            "What is the email address for general inquiries?"
+            "What is the email address for general inquiries?",
+            "Is there a WhatsApp contact for inquiries?",
+            "Can I visit the Ngong Lane Plaza in person for assistance?",
+            "What are the office hours for contacting the admissions team?",
+            "How soon can I expect a response to my email inquiry?",
+            "Is there a dedicated helpline for urgent matters?",
+            "Can I schedule a campus tour?",
+            "What social media channels can I use to connect with Moringa School?",
+            "Are there local offices or representatives for international inquiries?"
         ],
         "answers": [
-            "You can contact the Admissions team at +254 712 293 878 or reach out on WhatsApp at +254 741 493 565.",
-            "For general inquiries, please email us at access@moringaschool.com."
+            "You can reach the Admissions team through the official Moringa School website or by emailing admissions@moringaschool.com.",
+            "For general inquiries, you can contact info@moringaschool.com.",
+            "Yes, you can contact the admissions team via WhatsApp at +254 798 123 852.",
+            "Yes, you can visit Ngong Lane Plaza in person for assistance. The address is Ngong Lane Plaza, 4th Floor, Ngong Lane, Nairobi, Kenya.",
+            "The office hours for contacting the admissions team are Monday to Friday, 9:00 am to 5:00 pm.",
+            "We strive to respond to email inquiries within 24-48 hours.",
+            "For urgent matters, you can contact the dedicated helpline at +254 798 123 852.",
+            "Yes, you can schedule a campus tour through the official Moringa School website.",
+            "Connect with Moringa School on social media through Facebook, Twitter, LinkedIn, and Instagram.",
+            "For international inquiries, you can reach out to our local offices or representatives who will provide assistance."
         ]
     },
     {
         "category": "Privacy Policy",
         "questions": [
-            "How is my personal information handled according to the Privacy Policy?",
-            "Can I opt-out of receiving promotional materials?"
+            "What information is collected as part of the Moringa School Privacy Policy?",
+            "How is my personal information used by Moringa School?",
+            "Is my information shared with third parties?",
+            "How is my payment information handled?",
+            "What security measures are in place to protect my data?",
+            "Can I opt-out of data collection?",
+            "How often is the Privacy Policy updated?",
+            "Where can I access the full Privacy Policy?",
+            "What rights do I have regarding my personal information?",
+            "Who can I contact for privacy-related concerns?"
         ],
         "answers": [
-            "The Privacy Policy emphasizes the secure handling of personal information. We do not rent or sell personal information, and we engage third parties with strict privacy obligations.",
-            "Yes, you can opt-out of promotional materials by sending an email to contact@moringaschool.com with your name and contact details."
+            "The Privacy Policy outlines the collection of information such as name, contact details, academic history, and payment information.",
+            "Your personal information is used for admission processes, communication, and improving Moringa School services.",
+            "Moringa School does not share your information with third parties without your consent.",
+            "Payment information is handled securely through reputable payment gateways, and Moringa School does not store sensitive payment details.",
+            "Strict security measures, including encryption and access controls, are in place to protect your data.",
+            "You may have the option to opt-out of certain data collection, as outlined in the Privacy Policy.",
+            "The Privacy Policy is periodically updated. Please refer to the official website for the latest version.",
+            "You can access the full Privacy Policy on the official Moringa School website.",
+            "You have rights regarding your personal information, including the right to access, correct, or delete your data.",
+            "For privacy-related concerns, you can contact the Data Protection Officer at privacy@moringaschool.com."
         ]
     },
     {
         "category": "General",
         "questions": [
-            "What sets Moringa School apart from other coding schools?",
-            "Is financial assistance available for the Software Engineering program?"
+            "What sets Moringa School apart from other coding bootcamps?",
+            "Can I enroll in Moringa School if I'm not from Kenya?",
+            "Is there a refund policy for the programs?",
+            "How does Moringa School support diversity and inclusion?",
+            "Tell me about the success stories of Moringa School graduates.",
+            "Are there networking opportunities for students during the program?",
+            "What types of companies hire Moringa School graduates?",
+            "How can alumni stay connected with Moringa School after graduation?",
+            "What resources are available to support students' mental health and well-being?",
+            "How can I contribute to the Moringa School community as an alumni?"
         ],
         "answers": [
-            "Moringa School offers a comprehensive Full Stack Software Engineering Curriculum, practical hands-on learning, technical mentorship, and career coaching for up to 12 months post-graduation.",
-            "Yes, candidates can take a student loan and pay only N90,720 as a commitment fee, with the remaining balance payable after securing a job."
+            "Moringa School stands out for its holistic approach, emphasizing practical skills, hands-on projects, and strong industry connections.",
+            "Yes, Moringa School welcomes international students, fostering a diverse and inclusive learning environment.",
+            "Please refer to the official refund policy on the Moringa School website for detailed information.",
+            "Moringa School is committed to diversity and inclusion, providing equal opportunities for all students.",
+            "Explore success stories on the Moringa School website, showcasing the achievements of graduates in various industries.",
+            "Yes, networking opportunities are integral to the program, including events, workshops, and collaborations with industry partners.",
+            "Moringa School graduates are hired by a range of companies, including startups, tech giants, and innovative organizations.",
+            "Alumni can stay connected through the alumni network, events, and online platforms, fostering lifelong connections.",
+            "Resources for mental health and well-being are available, including counseling services and support from the Moringa School community.",
+            "Alumni can contribute by mentoring current students, participating in events, and sharing their experiences to inspire others."
         ]
     }
 ]
 
-# Example usage:
-# For a chatbot, you can retrieve the appropriate answer based on the user's input and category.
-user_input = "What programming languages are taught in the Full Stack Software Engineering Curriculum?"
-category = "Course"
-
-# Assuming you have a function get_bot_response(user_input, category) that fetches the answer:
-def get_bot_response(user_input, category):
-    for item in data:
-        if item["category"] == category and user_input in item["questions"]:
-            return item["answers"][item["questions"].index(user_input)]
-
-# Example usage:
-response = get_bot_response(user_input, category)
-print(response)
