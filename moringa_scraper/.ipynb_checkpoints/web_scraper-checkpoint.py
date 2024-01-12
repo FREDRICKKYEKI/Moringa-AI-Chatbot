@@ -14,7 +14,7 @@ with open("scraped_links.json", "r", encoding="utf-8") as f:
 output_file = "moringa_text_corpus.json"
 output_dict = {}
 ignore_tags = ["script", "style"]
-text_tags = ["p", "li", "div", "span"]
+text_tags = ["p"]  #, "span"]
 
 def scrape_text():
     """Scrape all texr from links"""
