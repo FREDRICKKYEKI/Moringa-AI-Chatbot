@@ -1,0 +1,188 @@
+D pipeline, automating various processes, and solving any issues that arise during the development, deployment, or
+maintenance phase. You will also be provided with hands-on examples of CI/CD tools to ensure that you interlink the business mindset and
+technology to improve efficiency in your Engineering teams. © 2024 Moringa School. All rights reserved. As a DevOps engineer, you possess
+extensive knowledge of the software development life cycle (SDLC). Huge demand for DevOps Experts– DevOps Engineers topped the list of
+LinkedIn’s Emerging Jobs and highest salary tech jobs due to their specialized skillset.Vulnerability Management– In Development
+Operations (DevOps), engineers build processes and streamline automation to optimize the software development lifecycle and protect
+against vulnerabilities.Process Improvements– DevOps Engineers use feedback, collaboration, ingenuity, and lean and agile methodologies to
+continuously improve all stages of software development.Favorable job opportunities– Most recently, companies are willing to adopt DevOps
+practices and tools to increase productivity and better Return on Investment (ROI). DevOps is getting increasingly popular, and more tech
+companies are hiring tech talent who know about DevOps. Find out the pacing options available, price, and more information about this
+course. Our DevOps Engineering Online Course is ideal for those who want to fast-track their careers in Software Development. People
+working in the following roles will benefit the most from the DevOps Course:-Junior Web DevelopersJunior Software EngineersIT
+SpecialistsSoftware DevelopersSystems Administrators and IT ManagersCloud EngineersData Engineers Moringa is one of the most successful
+tech bootcamps in Africa. With a blended learning approach, we have trained top tech talent locally & globally. Our Technical Instructors
+will cover DevOps concepts in an easy-to-understand language. For 8 weeks, you’ll learn the principles of DevOps, Cloud Computing,
+continuous development and deployment, automation of configuration management, inter-team collaboration, and IT service agility using
+popular DevOps tools such as Git, Docker, Jenkins, and more. Moringa is one of the most successful tech bootcamps in Africa. With a
+blended learning approach, we have trained top tech talent locally & globally.Practical hands-on learningWork on a portfolio of DevOps
+Engineering projectsLive Lectures from a Senior DevOps Engineer with experience working in both local & global tech companiesDedicated
+Technical mentor supportRecognized certificate upon completion of the courseAccess to a vast alumni network of Software Engineers, Data
+Scientists, Safaricom Digital Academy Alumni Our DevOps Engineering Online Course is ideal for those who want to fast-track their careers
+in Software Development. People working in the following roles will benefit the most from the DevOps Course:- For 8 weeks, you’ll learn
+the principles of DevOps, Cloud Computing, continuous development and deployment, automation of configuration management, inter-team
+collaboration, and IT service agility using popular DevOps tools such as Git, Docker, Jenkins, and more. Part-time Classes DevOps
+EngineerIT Systems ArchitectAutomation ArchitectRelease ManagerDevOps Test EngineerDevOps Cloud EngineerDevOps ArchitectCloud Security
+Specialist You will be responsible for implementing various automation tools and processes to resolve complex operations problems. This
+course will prepare you for a career in DevOps, one of the fastest-growing fields in tech. You will also be provided with hands-on
+examples on CI/CD tools to ensure that you interlink the business mindset and technology to improve efficiency in your Engineering teams.
+Ksh 55,000 Application ongoing for theMarch 25 2024intake DevOps Engineers help companies get more done at a faster pace by
+revolutionizing software development and deployment through the elimination of the conflicts between development and operations teams 8
+weeks Live & Online | Mon – Fri from 6pm – 9pm (live lectures & Technical Mentor Support)  Students are required to commit at least 30
+hours every week to learning. Lecture sessions take place between Mondays – Fridays between 9.00 am – 5.00 pm. Additional hours and
+support will be availed on Saturdays upon request. An Ethical Hacker, also known as a White Hat Hacker, identifies and exploits
+vulnerabilities in computer systems and networks with the permission of the owner, to help improve security defenses and protect against
+malicious hackers. Ksh 200,000Introductory Fee Offer – Ksh 170,000 © 2024 Moringa School. All rights reserved. CompTIA The tuition & exam
+fees can be paid in full before start of class or in installments.Download thefee payment planfor more details. Online Classes every Mon –
+Fri from 9.00 am – 5.00 pm ( live lectures, self-learning, and Technical Mentor Support available) A DevSecOps Engineer integrates
+security practices into the software development and operations process, ensuring that security is prioritized throughout the entire
+development lifecycle, from coding to deployment. In this course, you will learn from CompTIA-certified and experienced trainers to gain
+in-demand skills that prepare you for well-paying jobs like cybersecurity analyst, security operations center (SOC) analyst, and many
+more. By the end of the 18 weeks, learners will earn a certificate of completion from Moringa and a Security + certification from CompTIA.
+Students are required to commit at least 30 hours every week to learning. Lecture sessions take place between Mondays – Fridays between
+9.00 am – 5.00 pm. Additional hours and support will be availed on Saturdays upon request.Blended learning:- group work, self-learning and
+lectures hours, project days.Learners are expected to use the weekend to work on their summative assessments, and projects ahead of
+deadlinesLearners will undergo Soft skills training where they will get the necessary professional skills required for future
+employment.Learners will get exam vouchers & prep sessions ahead of the certificate examination day Your pathway to earning the most in-
+demand Security+ certification Anyone with an IT, networking, software, or computer background looking to start a career in cybersecurity
+is encouraged to apply. No one is left out – our programs are well-designed for career switchers. SOC AnalystCybersecurity
+ConsultantInformation security analystNetwork Security EngineerComputer Forensics InvestigatorEthical HackerDevSecOps Engineer This course
+covers all the aspects required for a cybersecurity specialist.You will learn cybersecurity fundamentals, get a deep dive into the
+cybersecurity kill chain, and discover malicious tools that hackers use. Learners will also work on practicals through weekly labs &
+projects with unlimited access to TyHack Me Labs. By the end of the course coverage, you will be taken through exam prep sessions in
+readiness for the Security+ Certification exams. An Information Security Analyst safeguards an organization’s data by designing and
+implementing security measures, analyzing vulnerabilities, and responding to incidents to maintain the confidentiality, integrity, and
+availability of information. A Network Security Engineer designs, implements, and manages security solutions for an organization’s network
+infrastructure, focusing on preventing unauthorized access, securing data transmission, and defending against cyber threats. USD 176 A SOC
+(Security Operations Center) Analyst monitors and analyzes an organization’s digital infrastructure to identify and respond to potential
+security threats, investigating incidents and ensuring the overall safety of the network and systems. This course has been designed in
+partnership with CompTIA[the world’s leading organization in providing a wide range of technology training & certifications in
+cybersecurity]. The CompTIA Security+ is a global certification that validates the baseline skills necessary to perform core security
+functions and pursue an IT security career. This is the best course to kickstart your career in cybersecurity, apart from the world-class
+curriculum, Moringa School guarantees you the following:- Full-Time Classes Have basic computer skills.Proficiency in English – both
+spoken and written.Must have a computer or laptop ( core i5 – i7, 8GB RAM, 500GB memory).All classes are fully online. You are required to
+have access to stable internet.Must have a desire and curiosity to learn.Availability to attend all classes. This course covers all the
+aspects required for a cybersecurity specialist. Applications have been closed 18 weeks You will learn cybersecurity fundamentals, get a
+deep dive into the cybersecurity kill chain, and discover malicious tools that hackers use. Learners will also work on practicals through
+weekly labs & projects with unlimited access to TyHack Me Labs. By the end of the course coverage, you will be taken through exam prep
+sessions in readiness for the Security+ Certification exams. A Computer Forensics Investigator collects and analyzes digital evidence from
+electronic devices, such as computers and mobile devices, to uncover and document information relevant to legal or investigative
+proceedings. This course has been designed in partnership with CompTIA[the world’s leading organization in providing a wide range of
+technology training & certifications in cybersecurity]. The CompTIA Security+ is a global certification that validates the baseline skills
+necessary to perform core security functions and pursue an IT security career. This is the best course to kickstart your career in
+cybersecurity, apart from the world-class curriculum, Moringa School guarantees you the following:-Practical & project-based
+learningAccess to industry-relevant cybersecurity labs & projects on Try Hack Me LabsDedicated Technical mentor supportHighly Discounted
+Exam vouchers to sit for the certification exam in comparison to the market priceDual certification – A certificate of completion from
+Moringa & Security + from CompTIAComprehensive training & preparation for the CompTIA Security+ Certification exams In search of an
+industry-aligned cybersecurity course that is not just about theory but the practicals as well? This 18-week Cybersecurity Course helps
+prepare you for the CompTIA Security+ certification [the world’s leading certification body for cybersecurity roles]. See the pacing
+options available, price, and more information about this course below; A Cybersecurity Consultant provides expert advice to organizations
+on enhancing their security posture, offering assessments, recommendations, and strategies to mitigate risks and protect sensitive data.
+The curriculum has been designed by Moringa School in partnership withCompTIA. As a learner, you will be fully trained by certified
+technical mentors & instructors to complete the theory and practicals for this course. After completing the course content you will be in
+the best position to sit for the CompTIA Security + certification exams.  Find out the pacing options available, the price, and more
+information about this course. Ksh 150, 000 © 2024 Moringa School. All rights reserved. You will create wireframes and introduce
+aesthetics and delightful details into products. Ultimately, UX researchers take the guesswork out of the design process, making sure that
+the team has enough information to make data-informed product decisions. Our course is designed to fit around busy schedules, with evening
+and weekend classes available to ensure maximum flexibility. Flatiron School Get ready to design life-changing user experiences for
+digital products and websites Whether you are a beginner looking to start a career in product design(UI/UX) or an experienced designer
+looking to refine your skills, this course will provide you with the knowledge and tools you need to take your product design to the next
+level. In Phase 3, students will apply what they learned about the UX and UI process to create a complete set of deliverables. Students
+will begin with a project brief and deliver research-informed solutions using the product design process. Students will learn how to talk
+about their design choices and communicate users’ needs to other stakeholders. This program comprises five phases. Phases 1 and 2 teach
+the fundamental methods, tools, and principles that guide the UX and UI processes. Phases 3 and 4 includes studio experience through
+rigorous projects that allow you to employ your new techniques and skills. And in the final phase, you will pull your body of work into a
+portfolio to prepare for entry into the job market UX researchers conduct research with real users, gathering both qualitative and
+quantitative data about how people think, feel, and behave. They then share this data with the product team, to help everyone understand
+the target audience and to inform a user-centric design strategy. Monday to Thursday – 6 pm to 9 pm (Live lectures and technical mentor
+support)Saturday – 9 am to 1 pm (Live lectures and Technical mentor support) UX Design is one of ten in-demand tech skills, according to
+LinkedIn, making this a worthy field for any creative looking for their next career move. This program will give you a strong foundation
+in Product Designer skills by focusing on design thinking, user-centered design, and foundational visual design. You will be prepared for
+jobs such as: UX strategy can be thought of as the convergence of UX design and business strategy. UX strategists bring a user-centered
+mindset to the boardroom, while also making sure that the design team is working with the business goals in mind. All students are
+required to complete the introduction before the start of Phase 1 to have a working knowledge of UX and UI processes. During Phase 0,
+students prepare for success by familiarizing themselves with the tools and processes they will utilize during the Product Design course
+including Figma and Webflow. In Phase 2, students will learn the essential components of the UI (User Interface) design process, including
+standard tools, best practices, and deliverables. Students will learn the fundamentals of interface design, including design principles,
+typography, and design patterns, to create beautiful mockups that are a joy to view and use. As a UX designer, your job will be to create
+functional, reliable, and usable products. Our part-time Product Design(UI/UX) course is designed to fit around busy schedules, with
+evening and weekend classes available to ensure maximum flexibility. It will prepare you to become an end-to-end Product Designer by
+learning UX and UI design. You will learn the principles of designing digital products such as mobile apps, websites, or software, that
+are not only visually appealing but also highly functional and user-friendly. Applications ongoing forMay 6th, 2024 In Phase 5, students
+will create and launch an online portfolio of their best work. They will author a case study that explains the insights and decisions they
+made during the product design process. This program will challenge students to talk competently about their work and to communicate their
+strengths in UX and UI as they prepare to enter the job market. You will be prepared for jobs such as:UX DesignerProduct DesignerFull-
+Stack Designer This course is ideal for:Young high school/university graduates looking to get into techWorking professionals or career
+switchers who are looking for a fast tech skill to learn while continuing to workEntrepreneurs and small business owners who want to
+create their own productsFront End Web developers who are looking to improve their skills in designThose who have no interest in coding
+but would like to get into tech (Marketing, Graphic Design, Engineering, Product Managers) This course is ideal for: 28 weeks In Phase 4,
+students will direct a project from start to finish while exploring essential skills like presentation strategies, effective
+communication, and design ethics. This phase will challenge students to meet the complex needs of a real-world problem. You will also be
+tasked with creating accessible and beautiful interfaces. In Phase 1, students will learn the essential components of the UX (User
+Experience) Design process, including standard tools, best practices, and deliverables. Students will learn how to conduct research and
+interpret findings and create the assets necessary to communicate their ideas and insights to other project stakeholders.  Find out the
+pacing options available, the price, and more information about this course. Whether you are a beginner looking to start a career in
+product design or an experienced designer looking to refine your skills, this course will provide you with the knowledge and tools you
+need to take your product design to the next level. © 2024 Moringa School. All rights reserved. You will create wireframes and introduce
+aesthetics and delightful details into products. Ultimately, UX researchers take the guesswork out of the design process, making sure that
+the team has enough information to make data-informed product decisions. Flatiron School 22 Weeks Get ready to design life-changing user
+experiences for digital products and websites In Phase 3, students will apply what they learned about the UX and UI process to create a
+complete set of deliverables. Students will begin with a project brief and deliver research-informed solutions using the product design
+process. Students will learn how to talk about their design choices and communicate users’ needs to other stakeholders. Ksh 130, 000 UX
+researchers conduct research with real users, gathering both qualitative and quantitative data about how people think, feel, and behave.
+They then share this data with the product team, to help everyone understand the target audience and to inform a user-centric design
+strategy. UX Design is one of ten in-demand tech skills, according to LinkedIn, making this a worthy field for any creative looking for
+their next career move. This program will give you a strong foundation in Product Designer skills by focusing on design thinking, user-
+centered design, and foundational visual design. You will be prepared for jobs such as: UX strategy can be thought of as the convergence
+of UX design and business strategy. UX strategists bring a user-centered mindset to the boardroom, while also making sure that the design
+team is working with the business goals in mind. All students are required to complete the introduction before the start of Phase 1 to
+have a working knowledge of UX and UI processes. During Phase 0, students prepare for success by familiarizing themselves with the tools
+and processes they will utilize during the Product Design course including Figma and Webflow. Applications ongoing for theMarch 11th,
+2024intake In Phase 2, students will learn the essential components of the UI (User Interface) design process, including standard tools,
+best practices, and deliverables. Students will learn the fundamentals of interface design, including design principles, typography, and
+design patterns, to create beautiful mockups that are a joy to view and use. As a UX designer, your job will be to create functional,
+reliable, and usable products. This program comprises five phases. Phases 1 and 2 teach the fundamental methods, tools, and principles
+that guide the UX and UI processes. Phases 3 and 4 include studio experience through rigorous projects that allow you to employ your new
+techniques and skills. In the final phase, you will pull your body of work into a portfolio to prepare for entry into the job market. This
+course is ideal for:Young high school/university graduates looking to get into techEntry-level professionals who are looking to transition
+into techEntrepreneurs and small business owners who want to create their own productsProfessionals interested in changing their career
+and looking for a fast tech skill to learn or who want to expand their skill set and understanding of product design(Marketing, Graphic
+Design, Engineering, Product Managers)Front End Web developers who are looking to improve their skills in design In Phase 5, students will
+create and launch an online portfolio of their best work. They will author a case study that explains the insights and decisions they made
+during the product design process. This program will challenge students to talk competently about their work and to communicate their
+strengths in UX and UI as they prepare to enter the job market. You will be prepared for jobs such as:UX DesignerProduct DesignerFull-
+Stack Designer This course is ideal for: In Phase 4, students will direct a project from start to finish while exploring essential skills
+like presentation strategies, effective communication, and design ethics. This phase will challenge students to meet the complex needs of
+a real-world problem. Online You will also be tasked with creating accessible and beautiful interfaces. In Phase 1, students will learn
+the essential components of the UX (User Experience) Design process, including standard tools, best practices, and deliverables. Students
+will learn how to conduct research and interpret findings and create the assets necessary to communicate their ideas and insights to other
+project stakeholders. Our Product Design(UI/UX) program will prepare you to become an end-to-end Product Designer by learning UX and UI
+design. You will learn the principles of designing digital products such as mobile apps, websites, or software, that are not only visually
+appealing but also highly functional and user-friendly. Applications ongoing for theMarch 11th, 2024intake © 2024 Moringa School. All
+rights reserved. Applications ongoing forMay 6th, 2024 Applications for this class have been closed. Applications have been closed Become
+an AWS Certified Cloud Practitioner | No prior experience in programming is required Our comprehensive Data Analytics for HR Professionals
+Masterclass is designed specifically for HR practitioners who seek to leverage the power of data to transform HR practices. © 2024 Moringa
+School. All rights reserved. In a world driven by AI, the ability to communicate effectively with AI models is a game-changer. Our course
+offers a unique blend of theoretical understanding and practical application. The business intelligence (BI) sector is expanding rapidly,
+and an increasing number of hiring managers and recruiters are looking for professionals who are not only proficient in BI tools but also
+possess certifications to back up their claims. Introducing the Mpesa Mini Apps & API Development, where innovation meets application!
+Object Oriented Programming and Introduction to Node Future-Ready Skills: © 2024 Moringa School. All rights reserved. Introduction to
+Mini-Apps By the end of the program, students at the Bronze level will have a portfolio showcasing front-end projects, illustrating thier
+proficiency in mini-applications development and the React JavaScript Framework through the delivery of a mini-application.Moringa’s
+teaching model, the hands-on project based approach ensures the students progressively build on each week’s knowledge in a simulated tech
+work-place environment. Front_end Javascript and Intro to React Anyone with an IT related course with no practical programming experience
+or a self taught developer with no work experience. Career professionals with non-tech backgrounds looking to transition into tech careers
+are also encouraged to apply. Have basic computer skills.Proficiency in English – both spoken and written.Machine minimum specifications
+with Admin-permissions:8GB RAM~256GB HDD SSDUbuntu or Mac (Special cases for Windows)Functional understanding of at least one operating
+system (Windows, macOS)for Linux users, they can use platforms like wine to leverage the Windows IDE..All classes are fully online. You
+are required to have access to a stable internet.Must have a desire and curiosity to learn.Availability to attend all classes. In
+partnership with; By the end of the program, students at the Bronze level will have a portfolio showcasing front-end projects,
+illustrating their proficiency in mini-application development and the React JavaScript Framework through the delivery of a mini-
+application.Moringa’s teaching model, the hands-on project-based approach ensures the students progressively build on each week’s
+knowledge in a simulated tech workplace environment. Pioneering Mini-Apps Learning:Explore groundbreaking mini-applications development, a
+first in Africa, in collaboration with Mpesa Africa, ensuring you stay at the forefront of industry trends.Real-World Readiness:Partnering
+with Mpesa Africa ensures a curriculum that aligns with industry needs, giving you practical insights and knowledge through access to
+industry-relevant labs and projects directly from the hiring partner.Future-Ready Skills:Gain insight into cross-platform super
+applications, positioning yourself for success with a unique blend of industry collaboration, practical & project-based learning
+experience, and forward-looking tech skills.Career Opportunities:A chance to work with MPesa Africa in the future Mini Applications
+ProjectsCertification – A chance to get certified a
