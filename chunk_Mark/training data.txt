@@ -1,6 +1,6 @@
 data = [
     {
-        "category": "Event",
+        "tag": "Event",
         "questions": [
             "When is the next graduation ceremony?",
             "Can I attend the graduation ceremony as a guest?",
@@ -27,7 +27,7 @@ data = [
         ]
     },
     {
-        "category": "Course",
+        "tag": "Course",
         "questions": [
             "What programming languages are covered in the Full Stack Software Engineering Curriculum?",
             "Are there any prerequisites for enrolling in the Software Engineering program?",
@@ -54,7 +54,7 @@ data = [
         ]
     },
     {
-        "category": "Partnership",
+        "tag": "Partnership",
         "questions": [
             "Tell me more about the partnership between Moringa School and Impact Hub Accra.",
             "What benefits does the partnership offer to students?",
@@ -81,7 +81,7 @@ data = [
         ]
     },
     {
-        "category": "Contact",
+        "tag": "Contact",
         "questions": [
             "How can I reach the Admissions team?",
             "What is the email address for general inquiries?",
@@ -108,7 +108,7 @@ data = [
         ]
     },
     {
-        "category": "Privacy Policy",
+        "tag": "Privacy Policy",
         "questions": [
             "What information is collected as part of the Moringa School Privacy Policy?",
             "How is my personal information used by Moringa School?",
@@ -135,7 +135,7 @@ data = [
         ]
     },
     {
-        "category": "General",
+        "tag": "General",
         "questions": [
             "What sets Moringa School apart from other coding bootcamps?",
             "Can I enroll in Moringa School if I'm not from Kenya?",
