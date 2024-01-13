@@ -1,7 +1,6 @@
-import json
 
-data = [
-    {
+[
+{
         "tag": "Event",
         "questions": [
             "When is the next graduation ceremony?",
@@ -107,4 +106,5 @@ data = [
             "Yes, you can schedule a campus tour through the official Moringa School website.",
             "Connect with Moringa School on social media through Facebook, Twitter, LinkedIn, and Instagram.",
             "For international inquiries, you can reach out to our local offices or representatives who will provide assistance."
+        ]
         ]
