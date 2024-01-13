@@ -14,7 +14,7 @@
             "Can I bring my family to the graduation ceremony?",
             "Are there any special guests or speakers at the graduation ceremony?"
         ],
-        "answers": [
+        "responses": [
             "The next graduation ceremony is scheduled for 17 Nov, 2023, from 8:30 am to 1:00 pm at Visa Oshwal Community Centre.",
             "Yes, we invite all stakeholders, friends, and family to join us in celebrating the achievements of our graduates.",
             "Yes, there will be a live stream link for those unable to attend in person.",
@@ -41,7 +41,7 @@
             "How is the curriculum structured?",
             "Can I apply if I have no prior coding experience?"
         ],
-        "answers": [
+        "responses": [
             "The curriculum covers HTML, CSS, JavaScript, React, SQL, Python, JSON, and Redux Frameworks.",
             "No prior coding knowledge is required. The program is designed for beginners and experienced learners alike.",
             "Students are required to dedicate 6 days to learning, with 20-25 hours per week, including 3 live lectures and additional helpdesk support on Saturdays.",
@@ -68,7 +68,7 @@
             "Are there any internship opportunities through the partnership?",
             "Can students access resources at Impact Hub Accra during the program?"
         ],
-        "answers": [
+        "responses": [
             "The partnership aims to foster collaboration and support for tech education. Key individuals involved include Nelly Agyemang-Gyamfi, Kelechi Victor Ofoegbu, and Setriakor Nyomi.",
             "The partnership provides additional networking opportunities, access to resources, and collaborative projects for students.",
             "Students can engage in collaborative projects by expressing interest and participating in events organized through the partnership.",
@@ -95,7 +95,7 @@
             "What social media channels can I use to connect with Moringa School?",
             "Are there local offices or representatives for international inquiries?"
         ],
-        "answers": [
+        "responses": [
             "You can reach the Admissions team through the official Moringa School website or by emailing admissions@moringaschool.com.",
             "For general inquiries, you can contact info@moringaschool.com.",
             "Yes, you can contact the admissions team via WhatsApp at +254 798 123 852.",
