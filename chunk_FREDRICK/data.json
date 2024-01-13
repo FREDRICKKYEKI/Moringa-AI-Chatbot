@@ -1,0 +1,128 @@
+[
+    {
+        "tag": "Moringa_School_Courses",
+        "questions": [
+            "What courses does Moringa School offer?",
+            "Can you provide details about the Full-Stack Software Development Course at Moringa School?",
+            "Tell me more about the Software Engineering Mobile Track at Moringa School.",
+            "What programming languages are covered in Moringa School's curriculum?",
+            "Are there any specialized tracks within Moringa School's courses?",
+            "Can you share information about the curriculum structure at Moringa School?",
+            "What skills will I gain from enrolling in Moringa School's courses?",
+            "How long is the Full-Stack Software Development Course at Moringa School?",
+            "Are there any prerequisites for enrolling in Moringa School's courses?",
+            "Tell me about the instructors and mentors at Moringa School."
+        ],
+        "responses": [
+            "Moringa School offers a range of courses, including Full-Stack Software Development, Software Engineering Mobile Track, UI/UX Design, Cybersecurity, and more.",
+            "The Full-Stack Software Development Course at Moringa School covers a comprehensive curriculum in web development.",
+            "The Software Engineering Mobile Track at Moringa School specializes in full-stack mobile development.",
+            "Moringa School's curriculum covers programming languages like HTML, CSS, JavaScript, React, SQL, Python, Flask, JSON, and Redux.",
+            "Moringa School offers specialized tracks within its courses, such as the Software Engineering Mobile Track, UI/UX Design, and Cybersecurity.",
+            "Moringa School's curriculum is designed with a focus on practical skills and industry relevance.",
+            "Enrolling in Moringa School's courses will equip you with in-demand skills for the tech industry.",
+            "The duration of the Full-Stack Software Development Course at Moringa School is 23 weeks.",
+            "Prerequisites for enrolling in Moringa School's courses may vary, and it's recommended to check specific requirements for each course.",
+            "Meet experienced instructors and mentors at Moringa School who guide students through the learning journey."
+        ]
+    },
+    {
+        "tag": "Moringa_School_News",
+        "questions": [
+            "What is the latest news from Moringa School?",
+            "Tell me about Moringa School's recent achievements.",
+            "Are there any new initiatives or projects announced by Moringa School?",
+            "Can you share updates on Moringa School's involvement in the tech industry?",
+            "What are the recent accomplishments of Moringa School?",
+            "Any upcoming events or webinars organized by Moringa School?",
+            "How is Moringa School contributing to the tech education landscape?",
+            "Tell me about the latest partnerships or collaborations involving Moringa School.",
+            "What advancements in technology education can we expect from Moringa School?",
+            "Are there any success stories or notable mentions related to Moringa School in recent news?"
+        ],
+        "responses": [
+            "Moringa School's Product Design (UI/UX) students are leading a captivating case study to make TikTok safer and more age-appropriate.",
+            "Moringa School has been named as World Technology Pioneers in 2021 and recognized as the Most Preferred Corporate Training Institution in 2021.",
+            "Moringa School has launched a new Full-Stack Software Development Course in collaboration with Flatiron School.",
+            "Moringa School is actively contributing to transforming tech education in African markets through blended learning approaches and diverse programs.",
+            "Moringa School celebrates diversity, values professional relationships, and helps students build their futures with confidence and capability.",
+            "Moringa School's Career Day events and recruitment drives have helped over 85% of core graduates find meaningful employment within 6 months post-graduation.",
+            "Moringa School has been listed among the most promising EdTech startups from Sub-Saharan Africa by HolonIQ.",
+            "Moringa School offers a comprehensive suite of training courses in Artificial Intelligence, expanding its diverse range of offerings.",
+            "Moringa School emphasizes accessibility to quality education, offering affordable and accessible options through student financing such as loans and partial scholarships.",
+            "Moringa School's impact is reflected in success stories like graduates working for companies like Eneza Education as Business Intelligence Engineers."
+        ]
+    },
+    {
+        "tag": "Enrollment_Information",
+        "questions": [
+            "How can I enroll in courses at Moringa School?",
+            "What are the upcoming enrollment dates for Moringa School programs?",
+            "Are there any specific requirements for enrollment at Moringa School?",
+            "Can you provide information about the enrollment process for Moringa School courses?",
+            "What is the deadline for enrollment in the upcoming Moringa School classes?",
+            "Is there an application fee or any associated costs for enrollment at Moringa School?",
+            "Are there any scholarships or financial aid options available for Moringa School students?",
+            "Can international students apply for enrollment at Moringa School?",
+            "What documentation is required during the enrollment process at Moringa School?",
+            "How can I get more information about the enrollment options and procedures at Moringa School?"
+        ],
+        "responses": [
+            "To enroll in courses at Moringa School, you can follow the detailed enrollment instructions provided on the official website.",
+            "Stay informed about the upcoming enrollment dates for Moringa School programs by checking the official calendar on the school's website or contacting the admissions office.",
+            "Specific requirements for enrollment at Moringa School vary by program. Please refer to the program-specific admission criteria on the official website.",
+            "Detailed information about the enrollment process, including steps and requirements, can be found on the official Moringa School website or obtained by contacting the admissions office.",
+            "The deadline for enrollment in upcoming Moringa School classes may vary. Check the official website or contact the admissions office for the most accurate and up-to-date information.",
+            "Information about application fees and associated costs for enrollment at Moringa School can be found on the official website or obtained by contacting the admissions office.",
+            "Moringa School offers scholarships and financial aid options to eligible students. Explore the available options and application procedures on the official website or contact the financial aid office.",
+            "International students are welcome to apply for enrollment at Moringa School. Check the official website for international admission requirements and procedures.",
+            "Documentation requirements during the enrollment process at Moringa School vary by program. Refer to the specific program guidelines on the official website or contact the admissions office for details.",
+            "For more information about enrollment options and procedures at Moringa School, visit the official website or reach out to the admissions office through the provided contact channels."
+        ]
+    },
+    {
+        "tag": "Moringa_School_Testimonials",
+        "questions": [
+            "Can you share some testimonials from students who have graduated from Moringa School?",
+            "What do past students say about their experience at Moringa School?",
+            "Are there success stories or testimonials highlighting the impact of Moringa School on graduates' careers?",
+            "How has Moringa School contributed to the professional growth of its alumni?",
+            "Can I find testimonials from individuals who have completed specific courses at Moringa School?",
+            "What do graduates appreciate the most about their time at Moringa School?",
+            "Are there testimonials that highlight the support and guidance provided by mentors at Moringa School?",
+            "Can you share any testimonials from individuals who transitioned to successful careers after graduating from Moringa School?",
+            "How do Moringa School alumni describe the practical and hands-on learning experience during their courses?",
+            "Where can I find more inspiring testimonials from Moringa School graduates?"
+        ],
+        "responses": [
+            "Find testimonials specific to courses, providing insights into the experiences of individuals who completed them at Moringa School (<a href='https://moringaschool.com/#testimonials'>here</a>)."
+        ]
+    },
+    {
+        "tag": "Software_Engineering_Mobile_Track",
+        "questions": [
+            "What does the Software Engineering Mobile Track at Moringa School cover?",
+            "Can you provide details about the curriculum and topics included in the Software Engineering Mobile Track?",
+            "What skills will I gain by specializing in the Software Engineering Mobile Track?",
+            "Are there any prerequisites for individuals interested in the Mobile Track at Moringa School?",
+            "How does the Mobile Track prepare students for a career in full-stack mobile development?",
+            "Tell me about the instructors and industry professionals involved in teaching the Software Engineering Mobile Track.",
+            "Are there any notable projects or case studies conducted by students in the Mobile Track at Moringa School?",
+            "What career opportunities are available for graduates of the Software Engineering Mobile Track?",
+            "How long does it take to complete the Software Engineering Mobile Track at Moringa School?",
+            "Can you share success stories or testimonials from individuals who completed the Software Engineering Mobile Track?"
+        ],
+        "responses": [
+            "The Software Engineering Mobile Track at Moringa School covers a comprehensive range of topics, including but not limited to mobile application development, user experience (UX) design, and backend integration.",
+            "Details about the curriculum and topics covered in the Software Engineering Mobile Track can be obtained by exploring the official Moringa School website or contacting the admissions team.",
+            "By specializing in the Software Engineering Mobile Track, you will gain skills in mobile app development, UI/UX design, backend integration, and other relevant technologies crucial for a successful career in full-stack mobile development.",
+            "Prerequisites for the Mobile Track at Moringa School may include a basic understanding of programming languages and a passion for mobile technology. Check the official admissions criteria for specific requirements.",
+            "The Mobile Track prepares students for a career in full-stack mobile development by providing hands-on experience, real-world projects, and guidance from industry experts. The curriculum is designed to cover both frontend and backend aspects of mobile development.",
+            "Instructors for the Software Engineering Mobile Track include experienced professionals and industry experts with a background in mobile application development. They bring practical insights and industry knowledge to the classroom.",
+            "Notable projects and case studies conducted by students in the Mobile Track showcase their ability to apply acquired skills to real-world scenarios. These projects contribute to a well-rounded learning experience.",
+            "Graduates of the Software Engineering Mobile Track have various career opportunities, including roles such as mobile app developer, UI/UX designer, backend developer, and other positions in the mobile development industry.",
+            "The duration to complete the Software Engineering Mobile Track at Moringa School depends on the specific program. You can find detailed information on the duration by referring to the official Moringa School course catalog or contacting the admissions team.",
+            "Success stories and testimonials from individuals who completed the Software Engineering Mobile Track can be found on the official Moringa School website or by reaching out to the alumni network. These stories highlight their achievements and experiences."
+        ]
+    }
+]
