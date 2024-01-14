@@ -57,7 +57,6 @@
     {
         "tag": "enrollment",
         "questions": [
-            "When does the course begin?",
             "How can I enroll for the Mini-Apps & API Program?",
             "Tell me about the certification process.",
             "What are the enrollment deadlines for upcoming classes?",
@@ -69,7 +68,6 @@
             "How do I check the status of my enrollment application?"
         ],
         "responses": [
-            "The course begins on February 5th, 2024.",
             "Enrollment details can be obtained by contacting our admissions team.",
             "Upon completion, you will receive a certification as a proficient Mini-Apps developer.",
             "Enrollment deadlines vary; contact our admissions team for details.",
@@ -220,7 +218,6 @@
         "tag": "enrollment_deadline",
         "questions": [
             "When is the enrollment deadline for the upcoming class?",
-            "Can I still join the July 4th class?",
             "How do I register for the courses?",
             "Are there any discounts available for early enrollment?",
             "What documents do I need to submit for enrollment?",
@@ -232,7 +229,6 @@
         ],
         "responses": [
             "Enrollment deadlines vary; contact our admissions team for details.",
-            "Yes, you can still join the July 4th class.",
             "Registration details can be obtained by contacting our admissions team.",
             "Discounts for early enrollment may be available; check with our admissions team for current promotions.",
             "Documents required for enrollment include proof of identity, educational qualifications, and payment details.",
