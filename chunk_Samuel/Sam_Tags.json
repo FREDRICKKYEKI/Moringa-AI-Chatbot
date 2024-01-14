@@ -1,0 +1,248 @@
+
+intent_list = [
+    {
+        "tag": "course_details",
+        "questions": [
+            "Tell me about the Mini-Apps Development course.",
+            "What is covered in the Front-End web development course?",
+            "Can you provide information about the Developer Tools & Unix class?",
+            "What skills will I gain in the Mini-Apps Development course?",
+            "Describe the curriculum for the Front-End web development class.",
+            "What projects will I work on in the Mini-Apps Development course?",
+            "Are there any prerequisites for the Developer Tools & Unix class?",
+            "How is the Mini-Apps program different from other courses?",
+            "Tell me about the real-world readiness component of the curriculum.",
+            "What tools are used in the Front-End web development class?"
+        ],
+        "responses": [
+            "This course has been designed in partnership with MPesa Africa for beginners seeking to kickstart their software development career in Mini Applications.",
+            "The Front-End web development course covers HTML, CSS, and Git.",
+            "The "Developer Tools & Unix" class at Moringa School is a comprehensive program focusing on front-end web development, including crucial tools and technologies for aspiring developers.",
+            "In the Mini-Apps Development course, you will gain proficiency in mini-applications development and the React JavaScript Framework.",
+            "The curriculum for the Front-End web development class includes hands-on projects and a simulated tech workplace environment.",
+            "Projects in the Mini-Apps Development course showcase front-end projects and a mini-application using React.",
+            "Prerequisites for the Developer Tools & Unix class include a commitment of at least 50 hours per week.",
+            "The Mini-Apps program stands out with its industry collaboration, practical learning, and forward-looking tech skills.",
+            "Real-world readiness is ensured through collaboration, practical experience, and forward-looking tech skills.",
+            "Tools used in the Front-End web development class include HTML, CSS, and Git."
+        ]
+    },
+    {
+        "tag": "schedule",
+        "questions": [
+            "What are the lecture session timings for the courses?",
+            "Are there additional support hours on Saturdays?",
+            "Can you tell me more about the blended learning approach?",
+            "How many hours should I commit to learning each week?",
+            "Tell me about the pacing options available for the courses.",
+            "What happens during project days in the blended learning approach?",
+            "Are there specific deadlines for summative assessments?",
+            "How flexible is the schedule for additional support on Saturdays?",
+            "What is the duration of the Front-End web development course?",
+            "Can I choose my preferred lecture session timings?"
+        ],
+        "responses": [
+            "Lecture sessions are from 6:00 pm to 9:00 pm, Monday to Friday.",
+            "Additional hours and support are available on Saturdays upon request.",
+            "We follow a blended learning approach with group work, self-learning, and lecture hours.",
+            "Students are required to commit at least 50 hours every week to learning.",
+            "Pacing options are available; contact our admissions team for details.",
+            "Project days in the blended learning approach involve group work, self-learning, and lectures.",
+            "Learners are expected to use weekends for summative assessments and projects ahead of deadlines.",
+            "The schedule for additional support on Saturdays is flexible and can be availed upon request.",
+            "The duration of the Front-End web development course is covered in the comprehensive curriculum.",
+            "Lecture session timings are fixed, but we offer additional support on Saturdays for flexibility."
+        ]
+    },
+    {
+        "tag": "enrollment",
+        "questions": [
+            "When does the course begin?",
+            "How can I enroll for the Mini-Apps & API Program?",
+            "Tell me about the certification process.",
+            "What are the enrollment deadlines for upcoming classes?",
+            "Can I enroll in multiple courses simultaneously?",
+            "Is there a waiting list for courses that are fully enrolled?",
+            "Are there any scholarships or financial aid options?",
+            "Can I transfer my enrollment to a different class?",
+            "What are the prerequisites for enrolling in the courses?",
+            "How do I check the status of my enrollment application?"
+        ],
+        "responses": [
+            "The course begins on February 5th, 2024.",
+            "Enrollment details can be obtained by contacting our admissions team.",
+            "Upon completion, you will receive a certification as a proficient Mini-Apps developer.",
+            "Enrollment deadlines vary; contact our admissions team for details.",
+            "Enrolling in multiple courses simultaneously is subject to approval and availability.",
+            "We maintain waiting lists for fully enrolled courses to accommodate interested learners.",
+            "Scholarships and financial aid options are available; contact our admissions team for details.",
+            "Enrollment transfers to a different class may be considered based on availability.",
+            "Prerequisites for enrolling include a basic understanding of AI concepts and programming languages.",
+            "You can check the status of your enrollment application by contacting our admissions team."
+        ]
+    },
+    {
+        "tag": "career_opportunities",
+        "questions": [
+            "What career opportunities does the course provide?",
+            "Can you elaborate on the CAPSTONE PROJECT?",
+            "How does the curriculum align with industry needs?",
+            "Tell me about the Agile product development aspect of the course.",
+            "What presentation skills will I develop during the program?",
+            "Is industry collaboration a key feature of the curriculum?",
+            "What types of projects are included in the Real-World Readiness component?",
+            "Are there opportunities for networking with industry professionals?",
+            "Can I access industry-relevant labs and projects after the course?",
+            "How does partnering with Mpesa Africa enhance the curriculum?"
+        ],
+        "responses": [
+            "The course prepares you for entry-level developer positions.",
+            "The CAPSTONE PROJECT focuses on agile product development and presentation skills.",
+            "Our curriculum aligns with industry needs through collaboration with Mpesa Africa.",
+            "The course includes Agile product development to enhance practical skills.",
+            "Presentation skills developed include communication, storytelling, and delivering impactful presentations.",
+            "Industry collaboration is a key feature, providing insights and knowledge through labs and projects.",
+            "Real-World Readiness projects cover a range of mini-applications and development scenarios.",
+            "Networking opportunities with industry professionals are facilitated throughout the course.",
+            "Access to industry-relevant labs and projects is provided after completing the course.",
+            "Partnering with Mpesa Africa ensures a curriculum that stays aligned with industry trends."
+        ]
+    },
+    {
+        "tag": "ai_integration",
+        "questions": [
+            "Tell me about the AI Integration course.",
+            "Who is the AI course designed for?",
+            "What skills will I gain from the AI course?",
+            "How can AI concepts benefit developers?",
+            "What programming languages are covered in the AI Integration course?",
+            "Can content creators benefit from the AI course?",
+            "Are there any prerequisites for the AI Integration course?",
+            "How can researchers enhance their AI interactions through the course?",
+            "What specific tasks can professionals from various domains leverage AI for?",
+            "Can you provide details on the AI-generated content exploration in the course?"
+        ],
+        "responses": [
+            "Our AI Integration course empowers communication with AI models.",
+            "It is designed for developers, data scientists, content creators, researchers, and professionals.",
+            "You'll gain skills in AI concepts, programming languages, and more.",
+            "AI concepts benefit
+
+ developers by providing tools for automation, data analysis, and enhanced user experiences.",
+            "Programming languages covered in the AI Integration course include Python and Java.",
+            "Content creators can benefit by incorporating AI-generated content for increased engagement.",
+            "Prerequisites for the AI Integration course include a basic understanding of programming concepts.",
+            "Researchers can enhance their AI interactions through hands-on projects and practical applications.",
+            "Professionals can leverage AI for tasks such as data analysis, automation, and pattern recognition.",
+            "The course explores AI-generated content, showcasing its potential applications and impact."
+        ]
+    },
+    {
+        "tag": "hr_data_analytics",
+        "questions": [
+            "What is covered in the Data Analytics for HR Professionals Masterclass?",
+            "Who is the masterclass designed for?",
+            "How does it benefit HR professionals?",
+            "Can HR managers enhance decision-making through data analytics?",
+            "Are there practical exercises in the masterclass for talent acquisition specialists?",
+            "How does the masterclass provide a competitive advantage for HR professionals?",
+            "Can data analytics skills acquired be applied to workforce planning?",
+            "What tools are covered in the masterclass for HR data analytics?",
+            "How does the masterclass contribute to future readiness for HR professionals?",
+            "Can HR analysts improve recruitment processes through data analytics?"
+        ],
+        "responses": [
+            "The masterclass covers data analytics for HR practices.",
+            "It is designed for HR professionals, managers, analysts, talent acquisition specialists, and more.",
+            "Benefits include enhanced decision-making, competitive advantage, and future readiness.",
+            "HR managers can enhance decision-making by leveraging data analytics for insights.",
+            "Talent acquisition specialists engage in practical exercises to apply data analytics to recruitment processes.",
+            "The masterclass provides a competitive advantage by equipping HR professionals with data-driven decision-making skills.",
+            "Data analytics skills acquired in the masterclass can be applied to workforce planning for future growth.",
+            "Tools covered in the masterclass for HR data analytics include Excel, Python, and specialized HR analytics software.",
+            "The masterclass contributes to future readiness by staying updated with the latest data analytics trends in HR.",
+            "HR analysts can improve recruitment processes through data analytics by identifying trends and optimizing strategies."
+        ]
+    },
+    {
+        "tag": "aws_cloud_practitioner",
+        "questions": [
+            "Tell me about the AWS Cloud Practitioner course.",
+            "What job roles can I pursue with AWS certification?",
+            "How does the course help beginners with little AWS experience?",
+            "Are there hands-on labs in the AWS Cloud Practitioner course?",
+            "What AWS services are covered in the course curriculum?",
+            "Can I access additional resources for AWS certification preparation?",
+            "How does the course address the AWS Certified Cloud Practitioner exam?",
+            "Are there opportunities for networking with AWS professionals?",
+            "What prerequisites should I have for the AWS Cloud Practitioner course?",
+            "Can I get assistance with AWS certification exam registration?"
+        ],
+        "responses": [
+            "The AWS Cloud Practitioner course provides an overall understanding of AWS.",
+            "Job roles include AWS Cloud Architect, SysOps Administrator, Cloud Developer, Networking Specialist, and Cloud Software Engineer.",
+            "The course is designed to help beginners by providing foundational AWS knowledge and hands-on experience.",
+            "Hands-on labs are an integral part of the AWS Cloud Practitioner course to reinforce theoretical concepts.",
+            "The course covers a range of AWS services, including EC2, S3, RDS, and more.",
+            "Additional resources, including practice exams and documentation, are available for AWS certification preparation.",
+            "The course addresses the AWS Certified Cloud Practitioner exam by covering exam-specific topics and providing practice tests.",
+            "Networking opportunities with AWS professionals are facilitated throughout the course.",
+            "Prerequisites for the AWS Cloud Practitioner course include basic knowledge of cloud computing concepts.",
+            "Assistance with AWS certification exam registration is available through our support team."
+        ]
+    },
+    {
+        "tag": "cloud_developer_role",
+        "questions": [
+            "What does a Cloud Developer do?",
+            "Can you provide information on the Cloud Developer role?",
+            "How does the Cloud Developer role relate to software engineering?",
+            "Are there specific programming languages commonly used by Cloud Developers?",
+            "What challenges do Cloud Developers typically face?",
+            "Can Cloud Developers work in a DevOps environment?",
+            "Are there opportunities for specialization within the Cloud Developer role?",
+            "How do Cloud Developers contribute to system architecture?",
+            "What industries commonly employ Cloud Developers?",
+            "Can Cloud Developers transition to other IT roles?"
+        ],
+        "responses": [
+            "Cloud Developers design apps for the internet.",
+            "Their responsibilities are similar to software engineers, involving research, design, coding, debugging, and system architecture.",
+            "The role deals with issues like security and performance in system architecture.",
+            "Common programming languages for Cloud Developers include Java, Python, and Ruby.",
+            "Cloud Developers face challenges related to scalability, security, and optimizing resource usage.",
+            "Yes, Cloud Developers can work in a DevOps environment, collaborating closely with operations teams.",
+            "Opportunities for specialization within the Cloud Developer role include cloud security, microservices development, and serverless architecture.",
+            "Cloud Developers contribute to system architecture by designing scalable and reliable cloud-based solutions.",
+            "Industries that commonly employ Cloud Developers include IT, finance, healthcare, and e-commerce.",
+            "Cloud Developers can transition to other IT roles such as cloud architect, solutions architect, or DevOps engineer."
+        ]
+    },
+    {
+        "tag": "enrollment_deadline",
+        "questions": [
+            "When is the enrollment deadline for the upcoming class?",
+            "Can I still join the July 4th class?",
+            "How do I register for the courses?",
+            "Are there any discounts available for early enrollment?",
+            "What documents do I need to submit for enrollment?",
+            "Can I change my course after the enrollment deadline?",
+            "Is there a limit to the number of students in each class?",
+            "What happens if I miss the enrollment deadline?",
+            "Can I apply for enrollment without a programming background?",
+            "Is there a refund policy for enrollment fees?"
+        ],
+        "responses": [
+            "Enrollment deadlines vary; contact our admissions team for details.",
+            "Yes, you can still join the July 4th class.",
+            "Registration details can be obtained by contacting our admissions team.",
+            "Discounts for early enrollment may be available; check with our admissions team for current promotions.",
+            "Documents required for enrollment include proof of identity, educational qualifications, and payment details.",
+            "Changes to the course after the enrollment deadline are subject to availability and approval.",
+            "Class sizes are optimized for effective learning, and we maintain a reasonable student-to-instructor ratio.",
+            "If you miss the enrollment deadline, you may inquire about late enrollment options based on availability.",
+            "Enrollment is open to individuals with varying backgrounds, and prerequisites are course-specific.",
+            "Refund policies for enrollment fees are available in the terms and conditions; contact our admissions team for details."
+        ]
+    }
+]
