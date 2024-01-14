@@ -10,23 +10,21 @@
             "Is the Data Science course suitable for beginners?",
             "What does the partnership with Flatiron School bring to the course?",
             "What can I expect to learn in this course?",
-            "What industries does the Data Science course prepare me for?",
             "What skills will I learn in the Data Science course?",
             "Is the course suitable for beginners in Data Science?",
             "Are there any hands-on learning opportunities in the course?"
         ],
         "responses": [
-            "It's an interdisciplinary field focusing on algorithms, scientific methods, and processes to gain insights from data, aimed at equipping students with data analysis and storytelling skills.",
-            "Moringa's course helps you leverage data for business innovation, predict trends, analyze data, and make data-driven decisions. It's ideal for elevating or switching careers to Data Science.",
+            "Data Science is an interdisciplinary field focusing on algorithms, scientific methods, and processes to gain insights from data, aimed at equipping students with data analysis and storytelling skills.",
+            "Moringa's data science course will help you leverage data for business innovation, predict trends, analyze data, and make data-driven decisions. It's ideal for elevating or switching careers to Data Science.",
             "The course focuses on equipping students with foundational to advanced skills in Data Science, including data analysis, machine learning, and data visualization.",
-            "It's designed for the passionately curious, those interested in data analysis, and professionals looking to switch to or elevate their careers in Data Science.",
-            "The course covers a range of topics including data storytelling, statistical analysis, machine learning, and practical applications in various industries.",
-            "Absolutely, it starts with introductory concepts, making it suitable for beginners, and progressively covers more advanced topics.",
+            "Data science course designed for the passionately curious, those interested in data analysis, and professionals looking to switch to or elevate their careers in Data Science.",
+            "The data science course covers a range of topics including data storytelling, statistical analysis, machine learning, and practical applications in various industries.",
+            "Absolutely, the course with introductory concepts, making it suitable for beginners, and progressively covers more advanced topics.",
             "The partnership enhances the course with Flatiron School's proven curriculum and teaching methods, combining Moringa's local expertise with international standards.",
             "You'll learn to analyze data, create data-driven insights, use popular data science tools, and develop skills in Python programming and machine learning.",
-            "What industries does the Data Science course prepare me for?",
             "You'll learn data analysis, how to use Python for data science, storytelling with data, and developing data-driven insights for decision-making.",
-            "Absolutely, it's designed for those curious about data and includes introductory concepts suitable for beginners.",
+            "Absolutely, data science designed for those curious about data and includes introductory concepts suitable for beginners.",
             "Yes, the course includes practical, hands-on learning, technical mentorship, live classes, and community learning to ensure a comprehensive understanding and application of Data Science principles"
         ]
     },
@@ -46,10 +44,10 @@
             "The full-time course lasts for 25 weeks with 40 hours of learning per week, while the part-time course spans 35 weeks with over 20 hours of learning per week. For further info link here https://moringaschool.com/courses/data-science-course-part-time/.",
             "The total fee for the course is Ksh 200,000 (USD 2000). Installment plans are available and can be downloaded from our website at https://moringaschool.com/wp-content/uploads/2023/09/Data-science-Brochure-Web.pdf.",
             "You can visit the Moringa School website or contact their admissions team for detailed information on the fee structure.https://moringaschool.com/courses/data-science-course-part-time/",
-            "The stated fee covers the entire course. Any additional costs will be communicated upfront.",
+            "No additional costs. The stated fee covers the entire course. Any additional costs will be communicated upfront.",
             "Yes, we offer installment plans to make payment more manageable for our students.",
             "Yes, you can opt for a student loan with Aspira to finance your education.",
-            " For information on discounts or scholarships, please contact Moringa School directly.",
+            " For information on discounts or scholarships, please contact Moringa School directly.Visit https://moringaschool.com/courses/data-science-course-part-time/..",
             "Currently, we do not offer financial aid, but we provide flexible installment plans to ease payment."
         ]
     },
@@ -61,11 +59,11 @@
             "Is there an age limit for applicants to the Data Science course?",
             "What documents do I need to apply for the course?",
             "Is any prior work experience required for the course?",
-            "Are there any technical requirements for joining the course?.",
+            "Are there any technical requirements for joining data-science course?.",
             "Are there any special requirements for international students?"
         ],
         "responses": [
-            "The process includes submitting an online application, completing an assessment test, and attending scheduled admission interviews. Please visit https://moringaschool.com/courses/data-science-course-part-time/.",
+            "The admission process for data-science includes submitting an online application, completing an assessment test, and attending scheduled admission interviews. Please visit https://moringaschool.com/courses/data-science-course-part-time/.",
             "Applicants must be above 18 years of age to enroll in the Data Science course.Applicants should have basic math and computer skills, proficiency in English, and a keen interest in Data Science. For further info click here https://moringaschool.com/courses/data-science-course-part-time/.",
             "No prior programming experience is required. The course is designed to accommodate beginners.",
             "There is no specific age limit; we welcome all learners who meet the admission criteria.",
@@ -82,17 +80,17 @@
             "Is there a career support system available after course completion?"
         ],
         "responses": [
-            "Graduates can pursue careers as data analysts, data scientists, machine learning engineers, and more in various industries.",
+            " Data-science graduates can pursue careers as data analysts, data scientists, machine learning engineers, and more in various industries.",
             "Yes, we offer career guidance and support, including assistance with job placement and professional development.Moringa offers 12 months of graduate support to help you land your next career opportunity in tech."
         ]
     },
     {
         "tag": "Data_Science_Curriculum_Outline",
         "questions": [
-            "How is the course structured?",
-            "What specific topics are covered in the Data Science curriculum?",
+            "How is the data-science course structured?",
+            "What specific topics are covered in the data science curriculum?",
             "Does the curriculum cover the latest trends in Data Science?",
-            "Are there any special modules for advanced topics in the course?",
+            "Are there any special modules for advanced topics in data-science course?",
             "How frequently is the curriculum updated?",
             "What is the focus of the initial phase of the curriculum?",
             "What advanced topics are covered in the later stages of the course?",
@@ -103,17 +101,17 @@
             "Does the course include both theoretical and practical learning?"
         ],
         "responses": [
-            "The course structure includes live lectures, technical mentorship, and hands-on projects, combining online and hybrid class options.",
-            "The curriculum includes data analysis, machine learning, data visualization, Python programming, statistical methods, and real-world applications of data science.",
+            " Data-science course structure includes live lectures, technical mentorship, and hands-on projects, combining online and hybrid class options.",
+            " Data-science curriculum includes data analysis, machine learning, data visualization, Python programming, statistical methods, and real-world applications of data science.",
             "Yes, our curriculum is regularly updated to include the latest trends and technologies in the field of Data Science.",
             "Yes, we have modules that cover advanced topics like deep learning, neural networks, and big data technologies.",
             "We update our curriculum periodically to ensure it aligns with the evolving demands of the industry.",
-            "The initial phase includes an orientation, introduction to Data Science principles, and basics of Python programming.",
-            "Advanced topics include Machine Learning, Neural Networks, Deep Learning, and working with big data using PySpark and AWS.",
-            "Yes, the curriculum includes training in soft skills like project management, communication, and entrepreneurial thinking.The course involves hands-on projects, including a large-scale final data science and machine learning project.?",
-            "You'll learn to use tools like Jupyter Notebooks, Python libraries such as Numpy and Pandas, and technologies like PySpark for big data.",
-            "Certainly! The Data Science curriculum at Moringa is divided into five comprehensive phases such asPhase 0 - Orientation, Pre-Work, and Introduction to Data Science Principles: This initial phase introduces students to Moringa School, its policies, and the learning model. It covers introductory concepts in Data Science, Software Engineering Principles, and Python programming. Phase 1 - Data Analysis & Engineering: Here, students delve into Python for Data Science. They learn to use Jupyter Notebooks and familiarize themselves with key Python libraries like Numpy and Pandas, essential for data analysis and engineering. Phase 2 - Scientific Computing & Quantitative Methods: This phase focuses on the fundamentals of probability theory and scientific computing. Students apply these concepts to build their first data science model using techniques like linear regression .Phase 4 - Advanced Machine Learning: In this advanced stage, students explore unsupervised learning techniques, big data handling with PySpark and AWS, and delve into deep learning and neural networks. They also learn about sentiment analysis and other modern data science techniques. .Phase 5 - Final Data Science Projects: The curriculum culminates with students applying their technical and soft skills to create large-scale data science or machine learning projects. This phase provides an in-depth opportunity for students to demonstrate their learning accomplishments and solidify their skills.",
-            "Absolutely, our course is designed to balance theoretical knowledge with practical, hands-on experience."
+            "The initial phase of data science includes an orientation, introduction to Data Science principles, and basics of Python programming.",
+            "Advanced data science data-science topics include Machine Learning, Neural Networks, Deep Learning, and working with big data using PySpark and AWS.",
+            "Yes, the curriculum includes training in soft skills like project management, communication, and entrepreneurial thinking.The data science course involves hands-on projects, including a large-scale final data science and machine learning project.?",
+            "You will learn to use tools like Jupyter Notebooks, Python libraries such as Numpy and Pandas, and technologies like PySpark for big data in data science.",
+            "Certainly! The Data Science curriculum at Moringa is divided into five comprehensive phases such as Phase 0 - Orientation, Pre-Work, and Introduction to Data Science Principles: This initial phase introduces students to Moringa School, its policies, and the learning model. It covers introductory concepts in Data Science, Software Engineering Principles, and Python programming. Phase 1 - Data Analysis & Engineering: Here, students delve into Python for Data Science. They learn to use Jupyter Notebooks and familiarize themselves with key Python libraries like Numpy and Pandas, essential for data analysis and engineering. Phase 2 - Scientific Computing & Quantitative Methods: This phase focuses on the fundamentals of probability theory and scientific computing. Students apply these concepts to build their first data science model using techniques like linear regression .Phase 4 - Advanced Machine Learning: In this advanced stage, students explore unsupervised learning techniques, big data handling with PySpark and AWS, and delve into deep learning and neural networks. They also learn about sentiment analysis and other modern data science techniques. .Phase 5 - Final Data Science Projects: The curriculum culminates with students applying their technical and soft skills to create large-scale data science or machine learning projects. This phase provides an in-depth opportunity for students to demonstrate their learning accomplishments and solidify their skills.",
+            "Absolutely, our data science course is designed to balance theoretical knowledge with practical, hands-on experience."
         ]
     },
     {
@@ -136,24 +134,24 @@
     {
         "tag": "Data_Science_Skill_Development",
         "questions": [
-            "What key skills will I develop in this course?",
+            "What key skills will I develop in this data science course?",
             "How does the course ensure the development of practical skills?",
             "Are soft skills a part of the curriculum?",
             "Will I learn about the latest data science tools and software?",
             "Is there any focus on ethical considerations in data science?"
         ],
         "responses": [
-            "You'll develop skills in data analysis, machine learning, statistical modeling, Python programming, and data visualization.",
+            "You will develop skills in data analysis, machine learning, statistical modeling, Python programming, and data visualization.",
             "Through hands-on projects, real-world case studies, and collaborative assignments, we ensure you gain practical experience.",
             "Yes, we emphasize soft skills like communication, teamwork, and problem-solving to prepare you for the professional environment.",
-            "Absolutely, you'll get hands-on experience with current data science tools and software like Jupyter Notebooks, Numpy, Pandas, PySpark, and AWS.",
+            "Absolutely, you will get hands-on experience with current data science tools and software like Jupyter Notebooks, Numpy, Pandas, PySpark, and AWS.",
             "Yes, we cover data ethics and responsible use of data as a part of our curriculum."
         ]
     },
     {
         "tag": "Data_Science_Project_and_Hands-on_Experience",
         "questions": [
-            "What type of projects will I work on during the course?",
+            "What type of projects will I work on during the data science course?",
             "Are the projects individual or team-based?",
             "How do these projects contribute to my learning?",
             "Will I have a portfolio of projects by the end of the course?",
@@ -264,7 +262,7 @@
         "responses": [
             "Yes, the course offers flexibility with both online and in-person learning modes to suit different learning preferences.",
             "Online learning is designed to be as interactive and engaging as offline learning, with live lectures, virtual collaboration, and access to digital resources.",
-            "Depending on the course structure and availability, there may be options to switch between learning modes. It's best to discuss this with the course coordinator.",
+            "Depending on the course structure and availability, there may be options to switch between learning modes. It is best to discuss this with the course coordinator.",
             "Yes, both modes cover the same comprehensive curriculum, ensuring a consistent learning experience.",
             "Practical projects and teamwork are facilitated through collaboration tools and platforms that allow remote teamwork and project management."
         ]
