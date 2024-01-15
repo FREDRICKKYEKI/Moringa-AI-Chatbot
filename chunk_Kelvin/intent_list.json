@@ -45,9 +45,9 @@
             "The total fee for the course is Ksh 200,000 (USD 2000). Installment plans are available and can be downloaded from our website at https://moringaschool.com/wp-content/uploads/2023/09/Data-science-Brochure-Web.pdf.",
             "You can visit the Moringa School website or contact their admissions team for detailed information on the fee structure.https://moringaschool.com/courses/data-science-course-part-time/",
             "No additional costs. The stated fee covers the entire course. Any additional costs will be communicated upfront.",
-            "Yes, we offer installment plans to make payment more manageable for our students.",
-            "Yes, you can opt for a student loan with Aspira to finance your education.",
-            " For information on discounts or scholarships, please contact Moringa School directly.Visit https://moringaschool.com/courses/data-science-course-part-time/..",
+            "We offer installment plans to make payment more manageable for our students.",
+            "You can opt for a student loan with Aspira to finance your education.",
+            "For information on discounts or scholarships, please contact Moringa School directly.Visit https://moringaschool.com/courses/data-science-course-part-time/..",
             "Currently, we do not offer financial aid, but we provide flexible installment plans to ease payment."
         ]
     },
@@ -64,12 +64,13 @@
         ],
         "responses": [
             "The admission process for data-science includes submitting an online application, completing an assessment test, and attending scheduled admission interviews. Please visit https://moringaschool.com/courses/data-science-course-part-time/.",
-            "Applicants must be above 18 years of age to enroll in the Data Science course.Applicants should have basic math and computer skills, proficiency in English, and a keen interest in Data Science. For further info click here https://moringaschool.com/courses/data-science-course-part-time/.",
+            "Applicants must be above 18 years of age to enroll in the Data Science course.",
+            "Applicants should have basic math and computer skills, proficiency in English, and a keen interest in Data Science. For further info click here https://moringaschool.com/courses/data-science-course-part-time/.",
             "No prior programming experience is required. The course is designed to accommodate beginners.",
             "There is no specific age limit; we welcome all learners who meet the admission criteria.",
-            "You'll need to submit your academic and professional qualifications, along with identification documents.",
+            "You will need to submit your academic and professional qualifications, along with identification documents.",
             "No prior work experience is necessary, but the course is suitable for those currently working or looking to change careers.",
-            "Yes, you need a stable internet connection and a laptop with at least a core i5 processor, 8GB RAM, and 500GB or more memory",
+            "You need a stable internet connection and a laptop with at least a core i5 processor, 8GB RAM, and 500GB or more memory",
             "International students need to ensure they meet the same academic requirements and should have a reliable internet connection for online classes."
         ]
     },
@@ -77,11 +78,27 @@
         "tag": "Data_Science_Career_Opportunities",
         "questions": [
             "What job roles can I pursue after completing this course?",
-            "Is there a career support system available after course completion?"
+            "Is there a career support system available after course completion?",
+            "How does the Data Science course at Moringa School prepare students for the job market?",
+            "Are there opportunities for internships or industry projects during the course?",
+            "What types of companies hire graduates of the Data Science course?",
+            "How does the course equip students for roles in emerging data science fields?",
+            "What support does Moringa School provide for job interviews and resume building post-course completion?",
+            "Can I explore entrepreneurial opportunities in data science after this course?",
+            "What is the success rate of graduates in securing data science roles?",
+            "Does the course provide insights into global data science career trends?"
         ],
         "responses": [
-            " Data-science graduates can pursue careers as data analysts, data scientists, machine learning engineers, and more in various industries.",
-            "Yes, we offer career guidance and support, including assistance with job placement and professional development.Moringa offers 12 months of graduate support to help you land your next career opportunity in tech."
+            "Data-science graduates can pursue careers as data analysts, data scientists, machine learning engineers, and more in various industries.",
+            "Yes, we offer career guidance and support, including assistance with job placement and professional development. Moringa offers 12 months of graduate support to help you land your next career opportunity in tech.",
+            "The course provides comprehensive training and real-world project experience, making students industry-ready and highly employable.",
+            "Yes, there are opportunities for internships and industry projects, providing practical experience and industry exposure.",
+            "Graduates are hired by a range of companies, from startups to large corporations, across various sectors needing data science expertise.",
+            "The course includes current and emerging topics in data science, preparing students for cutting-edge roles in the field.",
+            "Moringa School offers resume building workshops and interview preparation sessions to enhance job readiness.",
+            "Graduates are equipped with skills to start their own ventures or consult in data science, fostering entrepreneurial opportunities.",
+            "Our graduates have a high success rate in securing data science roles, thanks to our industry-aligned curriculum and career support.",
+            "The course includes insights into global trends, preparing students for both local and international data science career opportunities."
         ]
     },
     {
@@ -101,34 +118,44 @@
             "Does the course include both theoretical and practical learning?"
         ],
         "responses": [
-            " Data-science course structure includes live lectures, technical mentorship, and hands-on projects, combining online and hybrid class options.",
-            " Data-science curriculum includes data analysis, machine learning, data visualization, Python programming, statistical methods, and real-world applications of data science.",
-            "Yes, our curriculum is regularly updated to include the latest trends and technologies in the field of Data Science.",
-            "Yes, we have modules that cover advanced topics like deep learning, neural networks, and big data technologies.",
+            "Data-science course structure includes live lectures, technical mentorship, and hands-on projects, combining online and hybrid class options.",
+            "Data-science curriculum includes data analysis, machine learning, data visualization, Python programming, statistical methods, and real-world applications of data science.",
+            "Our curriculum is regularly updated to include the latest trends and technologies in the field of Data Science.",
+            "We have modules that cover advanced topics like deep learning, neural networks, and big data technologies.",
             "We update our curriculum periodically to ensure it aligns with the evolving demands of the industry.",
             "The initial phase of data science includes an orientation, introduction to Data Science principles, and basics of Python programming.",
             "Advanced data science data-science topics include Machine Learning, Neural Networks, Deep Learning, and working with big data using PySpark and AWS.",
-            "Yes, the curriculum includes training in soft skills like project management, communication, and entrepreneurial thinking.The data science course involves hands-on projects, including a large-scale final data science and machine learning project.?",
+            "We the curriculum includes training in soft skills like project management, communication, and entrepreneurial thinking.The data science course involves hands-on projects, including a large-scale final data science and machine learning project.?",
             "You will learn to use tools like Jupyter Notebooks, Python libraries such as Numpy and Pandas, and technologies like PySpark for big data in data science.",
-            "Certainly! The Data Science curriculum at Moringa is divided into five comprehensive phases such as Phase 0 - Orientation, Pre-Work, and Introduction to Data Science Principles: This initial phase introduces students to Moringa School, its policies, and the learning model. It covers introductory concepts in Data Science, Software Engineering Principles, and Python programming. Phase 1 - Data Analysis & Engineering: Here, students delve into Python for Data Science. They learn to use Jupyter Notebooks and familiarize themselves with key Python libraries like Numpy and Pandas, essential for data analysis and engineering. Phase 2 - Scientific Computing & Quantitative Methods: This phase focuses on the fundamentals of probability theory and scientific computing. Students apply these concepts to build their first data science model using techniques like linear regression .Phase 4 - Advanced Machine Learning: In this advanced stage, students explore unsupervised learning techniques, big data handling with PySpark and AWS, and delve into deep learning and neural networks. They also learn about sentiment analysis and other modern data science techniques. .Phase 5 - Final Data Science Projects: The curriculum culminates with students applying their technical and soft skills to create large-scale data science or machine learning projects. This phase provides an in-depth opportunity for students to demonstrate their learning accomplishments and solidify their skills.",
-            "Absolutely, our data science course is designed to balance theoretical knowledge with practical, hands-on experience."
+            "The Data Science curriculum at Moringa is divided into five comprehensive phases such as Phase 0 - Orientation, Pre-Work, and Introduction to Data Science Principles: This initial phase introduces students to Moringa School, its policies, and the learning model. It covers introductory concepts in Data Science, Software Engineering Principles, and Python programming. Phase 1 - Data Analysis & Engineering: Here, students delve into Python for Data Science. They learn to use Jupyter Notebooks and familiarize themselves with key Python libraries like Numpy and Pandas, essential for data analysis and engineering. Phase 2 - Scientific Computing & Quantitative Methods: This phase focuses on the fundamentals of probability theory and scientific computing. Students apply these concepts to build their first data science model using techniques like linear regression .Phase 4 - Advanced Machine Learning: In this advanced stage, students explore unsupervised learning techniques, big data handling with PySpark and AWS, and delve into deep learning and neural networks. They also learn about sentiment analysis and other modern data science techniques. .Phase 5 - Final Data Science Projects: The curriculum culminates with students applying their technical and soft skills to create large-scale data science or machine learning projects. This phase provides an in-depth opportunity for students to demonstrate their learning accomplishments and solidify their skills.",
+            "The data science course is designed to balance theoretical knowledge with practical, hands-on experience."
         ]
     },
     {
         "tag": "Data_Science_Pre-Work_Requirements",
         "questions": [
-            "Is there any pre-work required before starting the course?",
-            "How long does the pre-work take to complete?",
-            "What kind of topics are covered in the pre-work?",
+            "Is there any pre-work required before starting the data science course?",
+            "How long does the data science pre-work take to complete?",
+            "What kind of topics are covered in the pre-work for data science?",
             "Can I skip the pre-work if I have previous experience?",
-            "Is support available during the pre-work phase?"
+            "Is support available during the data science pre-work phase?",
+            "What level of proficiency in mathematics is expected for data science pre-work?",
+            "Does the pre-work include an introduction to programming concepts?",
+            "Are there any resources provided to help with the pre-work?",
+            "How critical is completing the pre-work to my success in data science course?",
+            "Can I access the pre-work material after data science course begins?"
         ],
         "responses": [
-            "Yes, there is pre-work which covers introductory concepts in Data Science to ensure all students start at a similar level.",
+            "There is pre-work which covers introductory concepts in Data Science to ensure all students start at a similar level.",
             "The pre-work is designed to be completed at your own pace, but ideally, it should be completed before the course begins.",
             "The pre-work includes basic concepts in data analysis, Python programming, and an introduction to statistics.",
             "We recommend completing the pre-work for a comprehensive understanding, but you can discuss your specific situation with an advisor.",
-            "Yes, our instructors and mentors are available to assist you during the pre-work phase."
+            "Our instructors and mentors are available to assist you during the pre-work phase.",
+            "A basic understanding of high school level mathematics is sufficient for the pre-work.",
+            "The pre-work includes an introduction to fundamental programming concepts, particularly in Python.",
+            "Various resources such as online materials, tutorials, and guides are provided on canvas to assist students with the pre-work.",
+            "Completing the pre-work is crucial as it lays the foundational knowledge required for success in the main course.",
+            "You can access the pre-work material even after the course begins, for review or further study."
         ]
     },
     {
@@ -138,31 +165,51 @@
             "How does the course ensure the development of practical skills?",
             "Are soft skills a part of the curriculum?",
             "Will I learn about the latest data science tools and software?",
-            "Is there any focus on ethical considerations in data science?"
+            "Is there any focus on ethical considerations in data science?",
+            "How is problem-solving emphasized in the data science course?",
+            "Doesthe course offer opportunities to work on real-life data sets?",
+            "Are there specific modules for data visualization and interpretation?",
+            "How does the curriculum balance between technical and business skills?",
+            "What type of industry exposure can I expect during the course?"
         ],
         "responses": [
             "You will develop skills in data analysis, machine learning, statistical modeling, Python programming, and data visualization.",
             "Through hands-on projects, real-world case studies, and collaborative assignments, we ensure you gain practical experience.",
-            "Yes, we emphasize soft skills like communication, teamwork, and problem-solving to prepare you for the professional environment.",
-            "Absolutely, you will get hands-on experience with current data science tools and software like Jupyter Notebooks, Numpy, Pandas, PySpark, and AWS.",
-            "Yes, we cover data ethics and responsible use of data as a part of our curriculum."
+            "We emphasize soft skills like communication, teamwork, and problem-solving to prepare you for the professional environment.",
+            "You will get hands-on experience with current data science tools and software like Jupyter Notebooks, Numpy, Pandas, PySpark, and AWS.",
+            "We cover data ethics and responsible use of data as a part of our curriculum.",
+            "Problem-solving is a key focus, with case studies and challenges designed to enhance critical thinking and analytical skills.",
+            "Students work on real-life data sets to apply their learning in practical scenarios, enhancing their understanding of real-world applications.",
+            "The course includes dedicated modules for data visualization and interpretation, teaching students how to effectively communicate data insights.",
+            "Our curriculum is designed to balance technical skills with business acumen, preparing students to apply data science in various business contexts.",
+            "Students will have exposure to industry practices through guest lectures, case studies, and potential internship opportunities."
         ]
     },
     {
         "tag": "Data_Science_Project_and_Hands-on_Experience",
         "questions": [
             "What type of projects will I work on during the data science course?",
-            "Are the projects individual or team-based?",
-            "How do these projects contribute to my learning?",
-            "Will I have a portfolio of projects by the end of the course?",
-            "Do these projects simulate real-world data science problems?"
+            "Are the data science projects individual or team-based?",
+            "How do these data science projects contribute to my learning?",
+            "Will I have a portfolio of projects by the end of the data science course?",
+            "Do these projects simulate real-world data science problems?",
+            "What kind of support is provided for data science project work?",
+            "How are data science project topics selected and assigned?",
+            "Do these projects involve collaboration with industry partners?",
+            "Are there opportunities to present project work to a wider audience?",
+            "How is feedback provided on project work?"
         ],
         "responses": [
-            "You'll work on diverse projects ranging from data visualization to building machine learning models, reflecting real-world scenarios.",
+            "You will work on diverse projects ranging from data visualization to building machine learning models, reflecting real-world scenarios.",
             "Projects include both individual assignments and team-based collaborations to enhance different skill sets.",
             "Projects allow you to apply theoretical knowledge in practical situations, reinforcing your learning and developing problem-solving skills.",
-            "Yes, you'll have a portfolio of projects that showcase your skills and knowledge to potential employers.",
-            "Yes, projects are designed to closely simulate challenges and problems you would encounter in a real-world data science role."
+            "Your will have a portfolio of projects that showcase your skills and knowledge to potential employers.",
+            "Projects are designed to closely simulate challenges and problems you would encounter in a real-world data science role.",
+            "Technical mentors provide guidance and support throughout the project development process.",
+            "Project topics are usually derived from real-world data problems and may be self-selected or assigned based on the course structure.",
+            "Some projects offer opportunities for collaboration with industry partners, providing practical industry experience.",
+            "There are opportunities for students to present their projects to classmates, instructors, and sometimes external audiences.",
+            "Feedback on projects is provided through peer reviews, instructor evaluations, and sometimes external industry experts."
         ]
     },
     {
@@ -176,7 +223,7 @@
         ],
         "responses": [
             "We continuously update our curriculum and projects to reflect the latest industry trends and requirements.",
-            "Yes, we collaborate with industry leaders and organizations to ensure our course remains relevant and comprehensive.",
+            "We collaborate with industry leaders and organizations to ensure our course remains relevant and comprehensive.",
             "We offer detailed insights into the job market, including trends, demand in various sectors, and guidance on career paths in data science.",
             "Absolutely, our curriculum includes case studies and examples of real-world applications of data science in various industries.",
             "Through a combination of up-to-date curriculum, real-life projects, and industry insights, we prepare you to enter the data science industry with confidence."
@@ -185,16 +232,16 @@
     {
         "tag": "Data_Science_Software_Engineering_Fundamentals",
         "questions": [
-            "What software engineering fundamentals are covered?",
+            "What software engineering fundamentals are in data-science covered?",
             "How important are software engineering skills in data science?",
             "Will I learn about collaborative software development?",
-            "Are there any specific projects focused on software engineering?",
+            "Are there any specific projects focused on software engineering in data science?",
             "How does software engineering complement data science skills?"
         ],
         "responses": [
             "The course covers the basics of software development, including version control, debugging, and software design principles relevant to data science.",
             "They are crucial for ensuring that your data science projects are well-structured, maintainable, and efficient.",
-            "Yes, you'll learn about collaborative tools and methodologies like Git and Agile, which are essential in modern software development.",
+            "You will learn about collaborative tools and methodologies like Git and Agile, which are essential in modern software development.",
             "Several projects integrate software engineering concepts to give you a practical understanding of how these principles are applied in real-world scenarios.",
             "Software engineering skills enable data scientists to write better code, automate tasks, and collaborate effectively on large-scale projects."
         ]
@@ -202,52 +249,78 @@
     {
         "tag": "Data_Science_Statistics_and_Analysis",
         "questions": [
-            "What statistical concepts will I learn in the course?",
+            "What statistical concepts will I learn in data science course?",
             "How are statistics applied in data science?",
-            "Will I be able to perform complex statistical analysis by the end of the course?",
-            "Is there a focus on practical statistical application?",
-            "How is statistical knowledge integrated into machine learning?"
+            "Will I be able to perform complex statistical analysis by the end of data science course?",
+            "Is there a focus on practical statistical application in data science course?",
+            "How is statistical knowledge integrated into machine learning?",
+            "What tools and software are used for statistical analysis in the course?",
+            "Are there modules on advanced statistical methods such as predictive modeling?",
+            "How does the course ensure a deep understanding of statistical theory?Are students given real-world datasets to apply statistical analysis?",
+            "How is the progression from basic to advanced statistical concepts managed in the course?"
         ],
         "responses": [
-            "You'll learn key concepts including probability theory, statistical distributions, hypothesis testing, and regression analysis.",
+            "You will learn key concepts including probability theory, statistical distributions, hypothesis testing, and regression analysis.",
             "Statistics form the backbone of data analysis, helping in making inferences from data, building models, and validating findings.",
-            "Yes, you'll acquire the skills to perform both basic and complex statistical analyses relevant to data science.",
-            "Yes, we emphasize practical application by using real-world datasets for statistical analysis in projects.",
-            "Statistical knowledge is crucial for understanding machine learning algorithms, assessing their performance, and making informed decisions based on data."
+            "You acquire the skills to perform both basic and complex statistical analyses relevant to data science.",
+            "We emphasize practical application by using real-world datasets for statistical analysis in projects.",
+            "Statistical knowledge is crucial for understanding machine learning algorithms, assessing their performance, and making informed decisions based on data.",
+            "Tools like /Python with libraries such as SciPy and StatsModels, and software like SPSS or SAS are used for statistical analysis.The course includes modules on advanced statistical methods, including predictive modeling and time-series analysis.",
+            "Deep understanding of statistical theory is ensured through comprehensive lectures, practical exercises, and continuous assessments.",
+            "Students are provided with real-world datasets for practical application of statistical methods and analysis.",
+            "The course gradually progresses from basic statistics to more advanced concepts, ensuring a solid foundation before moving to complex topics."
         ]
     },
     {
         "tag": "Data_Science_Networking_and_Collaboration_Opportunities",
         "questions": [
-            "What opportunities are there for networking in the course?",
-            "How does collaboration work in an online learning environment?",
+            "What opportunities are there for networking in data science course?",
+            "How does collaboration work in an online learning environment for data science?",
             "Are there any industry events or guest lectures included?",
-            "Can I collaborate with students from other disciplines?",
-            "How does the course facilitate building a professional network?"
+            "As a data science student, can I collaborate with students from other disciplines?",
+            "How does data science course facilitate building a professional network?",
+            "What platforms or tools are used for networking and collaboration among students?",
+            "Do data science students have access to a professional alumni network?",
+            "How are team projects and collaborations structured in the course?",
+            "Are there opportunities for collaborative research projects?",
+            "How does the course encourage interaction with industry professionals?"
         ],
         "responses": [
             "The course offers networking opportunities through group projects, alumni events, and industry partnerships.",
             "We use various online collaboration tools and platforms to facilitate group work and peer-to-peer interaction.",
-            "Yes, we frequently host guest lectures from industry experts and organize events where students can connect with professionals.",
-            "Yes, there are opportunities to collaborate on interdisciplinary projects with students from different backgrounds.",
-            "Through industry collaborations, mentorship programs, and alumni networks, we provide numerous avenues for building a strong professional network."
+            "We frequently host guest lectures from industry experts and organize events where students can connect with professionals.",
+            "There are opportunities to collaborate on interdisciplinary projects with students from different backgrounds.",
+            "Through industry collaborations, mentorship programs, and alumni networks, we provide numerous avenues for building a strong professional network.",
+            "Online platforms like LinkedIn, Slack, and project management tools are utilized for networking and collaboration among students.",
+            "Students gain access to our professional alumni network, which includes industry leaders and data science professionals.",
+            "Team projects are structured to promote diverse team composition and collaborative problem-solving, simulating real-world team dynamics.",
+            "The course includes opportunities for students to engage in collaborative research projects, often in partnership with industry or academic institutions.",
+            "Interaction with industry professionals is encouraged through mentorship sessions, webinars, and industry partner projects, providing valuable insights and career advice."
         ]
     },
     {
         "tag": "Data_Science_Course_Schedule_and_Structure",
         "questions": [
             "What is the schedule and structure of the Data Science course?",
-            "Is the course full-time or part-time?",
-            "How flexible is the course schedule?",
-            "Are there any breaks or holidays during the course?",
-            "How is the course content delivered?"
+            "Is the data science course full-time or part-time?",
+            "How flexible is the data science course schedule?",
+            "Are there any breaks or holidays during data sciencecourse?",
+            "How is data science course content delivered?",
+            "What is the balance between theoretical and practical learning in data science course?",
+            "Can students set their own pace for completing data science course modules?",
+            "How are assessments and evaluations structured throughout data science course?",
+            "Are there specific time slots for live lectures and interactive sessions?"
         ],
         "responses": [
             "The course is structured over 35 weeks, with a blend of lectures, hands-on projects, and self-paced learning.",
             "We offer both full-time and part-time options to cater to different needs and schedules of our students.",
             "While maintaining a structured approach, we provide some flexibility to accommodate the diverse needs of our students.",
-            "Yes, there are scheduled breaks to help students relax and recharge.",
-            "The course content is delivered through a mix of live lectures, online resources, interactive sessions, and practical projects."
+            "There are scheduled breaks to help students relax and recharge.",
+            "The course content is delivered through a mix of live lectures, online resources, interactive sessions, and practical projects.",
+            "The course is designed to provide a balanced approach, integrating both theoretical knowledge and practical application.",
+            "Students can self-pace certain aspects of the course, particularly with online materials and recorded lectures.",
+            "Assessments include regular quizzes, project submissions, and periodic evaluations to track progress and understanding.",
+            "Live lectures and interactive sessions are scheduled at fixed times, which are communicated in advance to accommodate students' schedules."
         ]
     },
     {
@@ -255,15 +328,15 @@
         "questions": [
             "Are there options for both online and offline learning in the Data Science course?",
             "How does the online learning experience compare to the offline one?",
-            "Can I switch between online and offline modes during the course?",
-            "Is the course content the same for both online and offline modes?",
+            "Can I switch between online and offline modes during the data science course?",
+            "Is data science course content the same for both online and offline modes?",
             "How are practical projects and teamwork handled in online mode?"
         ],
         "responses": [
-            "Yes, the course offers flexibility with both online and in-person learning modes to suit different learning preferences.",
+            "Data science course offers flexibility with both online and in-person learning modes to suit different learning preferences.",
             "Online learning is designed to be as interactive and engaging as offline learning, with live lectures, virtual collaboration, and access to digital resources.",
             "Depending on the course structure and availability, there may be options to switch between learning modes. It is best to discuss this with the course coordinator.",
-            "Yes, both modes cover the same comprehensive curriculum, ensuring a consistent learning experience.",
+            "Both modes cover the same comprehensive curriculum, ensuring a consistent learning experience.",
             "Practical projects and teamwork are facilitated through collaboration tools and platforms that allow remote teamwork and project management."
         ]
     },
@@ -272,42 +345,42 @@
         "questions": [
             "What kind of support services are available for students?",
             "Is there a mentoring program for students?",
-            "How can I access academic support if I'm struggling with course material?",
+            "How can I access academic support if I'm struggling with data science course material?",
             "Are there resources available for career planning and job search?",
             "Is there a student community or network I can join?"
         ],
         "responses": [
             "We offer a range of support services including academic assistance, career counseling, and technical support.",
-            "Yes, we have a mentoring program where students are guided by experienced professionals in the field.",
+            "We have a mentoring program where students are guided by experienced professionals in the field.",
             "Academic support is available through dedicated office hours, online forums, and one-on-one sessions with instructors.",
-            "Yes, we provide resources including workshops on resume writing, interview preparation, and networking strategies.",
-            "Absolutely, we have an active student community and network where you can connect, share experiences, and collaborate."
+            "We provide resources including workshops on resume writing, interview preparation, and networking strategies.",
+            "We have an active student community and network where you can connect, share experiences, and collaborate."
         ]
     },
     {
         "tag": "Data_Science_Certification_and_Accreditation",
         "questions": [
-            "Will I receive a certificate upon completing the course?",
-            "Is the certification recognized in the industry?",
+            "Will I receive a certificate upon completing the data science course?",
+            "Is the data science certification recognized in the industry?",
             "Are there any external certifications or exams included in the course?",
             "Can the course credits be transferred to other institutions or programs?",
             "How is the course accredited?"
         ],
         "responses": [
-            "Yes, upon successful completion of the course, you will receive a certificate that recognizes your skills and knowledge in Data Science.",
+            "Upon successful completion of the course, you will receive a certificate that recognizes your skills and knowledge in Data Science.",
             "Our certification is well-regarded in the industry, reflecting the comprehensive and practical nature of our course.",
             "The course primarily focuses on our own certification, but we also guide you on how to pursue external certifications if desired.",
-            "Transferability of credits depends on the policies of the institution you're considering transferring to. It's best to check with them directly.",
+            "Transferability of credits depends on the policies of the institution you are considering transferring to. It's best to check with them directly.",
             "The course is accredited by relevant educational and professional bodies, ensuring it meets high standards of quality and relevance."
         ]
     },
     {
         "tag": "Data_Science_Application_Process",
         "questions": [
-            "How do I apply for the Data Science course?",
-            "What are the application deadlines?",
-            "Is there an application fee?",
-            "What criteria are used to select candidates for the course?",
+            "How do I apply for the data science course?",
+            "What are the application deadlines for data science?",
+            "Is there an application fee for data science ?",
+            "What criteria are used to select candidates for the data science course?",
             "Can I apply if I don\u2019t have a background in data science or programming?"
         ],
         "responses": [
@@ -329,27 +402,10 @@
         ],
         "responses": [
             "Student life at Moringa is dynamic and engaging, with opportunities for collaborative learning, networking, and personal growth.",
-            "Yes, there are scheduled breaks and holidays to help students relax and recharge, which are clearly outlined at the start of the program.",
+            "There are scheduled breaks and holidays to help students relax and recharge, which are clearly outlined at the start of the program.",
             "We encourage involvement in extracurricular activities like hackathons, workshops, and tech meetups to enrich the learning experience.",
             "We understand the importance of balance and structure our program to be intensive yet manageable, allowing for personal time and rest.",
-            "Absolutely, we have active student forums and communities for networking, collaboration, and peer support."
-        ]
-    },
-    {
-        "tag": "Data_Science_Alumni_Success_Stories",
-        "questions": [
-            "Can I read about success stories of Moringa School alumni?",
-            "How successful are Moringa School graduates in finding jobs?",
-            "Do alumni engage with current students for mentoring?",
-            "What kind of roles do Moringa School alumni typically secure?",
-            "Does Moringa School have an active alumni network?"
-        ],
-        "responses": [
-            "Yes, our website features stories and testimonials from alumni who have successfully transitioned to careers in data science. See some stories here https://moringaschool.com/wp-content/uploads/2023/09/Data-science-Brochure-Web.pdf.",
-            "Our graduates have a high success rate in the job market, with many securing positions in reputable companies.",
-            "Yes, our alumni network actively participates in mentoring current students and offering career advice.",
-            "Alumni secure various roles such as data analysts, data scientists, machine learning engineers, and more.",
-            "Yes, we have an active and supportive alumni network that participates in events, workshops, and as part of our mentorship programs."
+            "We have active student forums and communities for networking, collaboration, and peer support."
         ]
     },
     {
@@ -357,8 +413,8 @@
         "questions": [
             "Does the Data Science course include an introduction to cybersecurity?",
             "How important is cybersecurity knowledge for a data scientist?",
-            "Are there dedicated cybersecurity modules in the course?",
-            "Can I pursue a career in cybersecurity after this course?",
+            "Are there dedicated cybersecurity modules in data science course?",
+            "Can I pursue a career in cybersecurity after data science course?",
             "How does cybersecurity intersect with data science?"
         ],
         "responses": [
@@ -374,16 +430,16 @@
         "questions": [
             "How is data science applied in the business world?",
             "What business sectors benefit most from data science?",
-            "Does the course cover real-world business applications?",
+            "Does the data science course cover real-world business applications?",
             "How important is data science for business innovation?",
-            "Are there modules on data-driven decision-making?"
+            "Are there modules in data science course on data-driven decision-making?"
         ],
         "responses": [
             "Data science is used in business for decision-making, predicting market trends, customer analysis, and optimizing operations.",
             "Sectors like finance, healthcare, marketing, and retail are heavily reliant on data science for various applications.",
-            "Yes, we include case studies and projects that focus on applying data science in real-world business scenarios.",
+            "We include case studies and projects that focus on applying data science in real-world business scenarios.",
             "Data science is crucial for innovation, helping businesses to leverage data for new products, services, and strategies.",
-            "Yes, our curriculum includes modules on data-driven decision-making and how to interpret and communicate data insights in a business context."
+            "Data science curriculum includes modules on data-driven decision-making and how to interpret and communicate data insights in a business context."
         ]
     },
     {
@@ -393,29 +449,29 @@
             "How is ethics integrated into the data science curriculum?",
             "Are there discussions or case studies on data ethics?",
             "How important is ethical training for data scientists?",
-            "Does the course address data privacy laws and regulations?"
+            "Does data science course address data privacy laws and regulations?"
         ],
         "responses": [
             "Ethical considerations include data privacy, consent, bias in data and algorithms, and the responsible use of data.",
             "Ethics is woven throughout the curriculum, with a focus on responsible data handling and the societal impact of data science.",
-            "Yes, we include discussions and case studies that tackle various ethical dilemmas and challenges in data science.",
+            "We include discussions and case studies that tackle various ethical dilemmas and challenges in data science.",
             "Ethical training is crucial to ensure data scientists are aware of the implications of their work and make responsible decisions.",
-            "Yes, we cover important data privacy laws and regulations that data scientists need to be aware of."
+            "We cover important data privacy laws and regulations that data scientists need to be aware of."
         ]
     },
     {
         "tag": "Data_Science_Collaborative_Projects_and_Teamwork",
         "questions": [
-            "Will I have the opportunity to work on collaborative projects?",
+            "Will I have the opportunity to work on collaborative projects during data science course?",
             "How important is teamwork in this data science course?",
             "Are there any tools or platforms used to facilitate teamwork?",
             "How are teams for projects formed?",
             "What kind of support is provided for team projects?"
         ],
         "responses": [
-            "Yes, the course includes several team projects where you'll collaborate with classmates, simulating real-world data science teamwork.",
+            "The course includes several team projects where you will collaborate with classmates, simulating real-world data science teamwork.",
             "Teamwork is essential, as it mirrors the collaborative nature of the data science field and helps develop communication and coordination skills.",
-            "We use various collaboration tools like GitHub, Slack, and project management software to facilitate teamwork and project coordination.",
+            "We use various collaboration tools like GitHub, Mattermost, and project management software to facilitate teamwork and project coordination.",
             "Teams are typically formed based on a mix of skill levels and backgrounds to encourage diverse perspectives and learning.",
             "Instructors and mentors provide guidance and support for team projects, ensuring a productive and educational experience."
         ]
@@ -423,16 +479,16 @@
     {
         "tag": "Data_Science_Career_Transition_Support",
         "questions": [
-            "Does Moringa School provide support for career transitions?",
-            "How can I leverage the skills learned in this course for a career change?",
-            "Are there networking opportunities for those looking to enter a new field?",
-            "What kind of roles can I transition to after completing the course?",
+            "Does Moringa School provide support for career transition in data science?",
+            "How can I leverage the skills learned in data science course for a career change?",
+            "Are there networking opportunities for those looking to enter a data science field?",
+            "What kind of roles can I transition to after completing the data science?",
             "Is there guidance available for job searching in the data science field?"
         ],
         "responses": [
-            "Yes, we offer comprehensive career transition support, including career counseling, resume workshops, and interview preparation.",
+            "We offer comprehensive career transition support, including career counseling, resume workshops, and interview preparation.",
             "Our curriculum is designed to equip you with in-demand data science skills, making you a strong candidate for various roles in the industry.",
-            "Yes, we provide networking opportunities through industry events, alumni networks, and mentorship programs.",
+            "We provide networking opportunities through industry events, alumni networks, and mentorship programs.",
             "Graduates can transition to roles like data analyst, data scientist, business intelligence analyst, and more.",
             "We offer guidance on job searching strategies specific to the data science field, including identifying suitable roles and companies."
         ]
@@ -447,9 +503,9 @@
             "Are there any language requirements?"
         ],
         "responses": [
-            "Yes, we welcome international students and offer both online and in-person learning options to accommodate them.",
+            "We welcome international students and offer both online and in-person learning options to accommodate them.",
             "International students need to meet the same academic requirements and have a reliable internet connection for online courses.",
-            "Yes, international students have full access to our career support and job placement services.",
+            "International students have full access to our career support and job placement services.",
             "Our admissions team provides assistance to international students throughout the application process.",
             "Proficiency in English is required, as all courses are conducted in English."
         ]
@@ -457,18 +513,18 @@
     {
         "tag": "Data_Ethics_and_Privacy",
         "questions": [
-            "How is data ethics covered in the curriculum?",
+            "How is data ethics covered in data science curriculum?",
             "Why is privacy important in data science?",
-            "Are there modules on data protection laws and regulations?",
+            "Are there data science modules on data protection laws and regulations?",
             "How are students taught to handle sensitive data?",
             "Is there an emphasis on responsible data reporting?"
         ],
         "responses": [
             "Data ethics is an integral part of the curriculum, covering topics like data privacy, ethical use of data, and avoiding bias in data analysis.",
             "Privacy is crucial to protect sensitive information and to comply with legal and ethical standards in data handling.",
-            "Yes, we cover important data protection laws and regulations to ensure students understand the legal aspects of data handling.",
+            "We cover important data protection laws and regulations to ensure students understand the legal aspects of data handling.",
             "Students are taught best practices for handling sensitive data, including data anonymization and secure data storage methods.",
-            "Yes, responsible data reporting is emphasized to ensure accuracy, fairness, and ethical presentation of data insights."
+            "Responsible data reporting is emphasized to ensure accuracy, fairness, and ethical presentation of data insights."
         ]
     },
     {
@@ -484,23 +540,23 @@
             "The course covers advanced topics like deep learning, big data analytics, and advanced machine learning algorithms.",
             "These topics are introduced progressively, ensuring that even beginners can grasp them after covering the fundamentals.",
             "The course provides a comprehensive overview of AI and machine learning, including both theoretical concepts and practical applications.",
-            "Yes, there is extensive hands-on training on advanced tools and technologies used in data science.",
+            "There is extensive hands-on training on advanced tools and technologies used in data science.",
             "Absolutely, we ensure that all advanced topics are in line with the latest industry trends and practices."
         ]
     },
     {
         "tag": "Instructor_Expertise_and_Background",
         "questions": [
-            "What are the qualifications of the instructors at Moringa School?",
-            "How does the instructor's industry experience enhance the learning experience?",
+            "What are the qualifications of the Technical mentors at Moringa School?",
+            "How does the technical mentors's industry experience enhance the learning experience?",
             "Do instructors provide one-on-one support?",
             "Are there guest lectures from industry experts?",
             "How do instructors stay updated with the latest data science trends?"
         ],
         "responses": [
-            "Our instructors are experienced professionals with extensive backgrounds in data science, many of whom have worked in leading tech companies and academic institutions.",
-            "Instructors bring real-world insights and practical knowledge to the classroom, bridging the gap between theoretical learning and industry practices.",
-            "Yes, instructors are available for one-on-one sessions to provide personalized support and guidance.",
+            "Our technical mentors are experienced professionals with extensive backgrounds in data science, many of whom have worked in leading tech companies and academic institutions.",
+            "Technical mentors bring real-world insights and practical knowledge to the classroom, bridging the gap between theoretical learning and industry practices.",
+            "Instructors are available for one-on-one sessions to provide personalized support and guidance.",
             "We frequently invite industry experts for guest lectures, providing students with diverse perspectives and insights into the data science field.",
             "Instructors continuously update their knowledge through industry involvement, research, and ongoing professional development."
         ]
@@ -519,20 +575,20 @@
             "Late enrollment may be possible in some cases, but it's best to contact our admissions team for specific information.",
             "If you miss a deadline, you may have to wait for the next intake, but you can discuss your options with our admissions team.",
             "The deadlines are generally the same for all students, but international students should account for any additional time needed for visa processing or travel arrangements.",
-            "Yes, you can enroll, but it's important to ensure that you can manage the course workload alongside your other commitments."
+            "You can enroll, but it's important to ensure that you can manage the course workload alongside your other commitments."
         ]
     },
     {
         "tag": "Data_Science_Course_Pacing_and_Flexibility",
         "questions": [
             "Is the Data Science course paced to accommodate working professionals?",
-            "Can I adjust the pace of learning if I fall behind?",
+            "Can I adjust the pace of learning if I fall behind for data science course?",
             "Is the course workload manageable for someone with a full-time job?",
-            "How many hours per week should I dedicate to the course?",
+            "How many hours per week should I dedicate to data science?",
             "Are there options for accelerated learning?"
         ],
         "responses": [
-            "Yes, our course is designed with flexible pacing to accommodate the schedules of working professionals, offering part-time study options.",
+            "Our course is designed with flexible pacing to accommodate the schedules of working professionals, offering part-time study options.",
             "We offer some flexibility and support to help you catch up if you fall behind.",
             "Many of our students successfully balance the course with full-time jobs, though it requires good time management.",
             "On average, you should expect to dedicate about 10-15 hours per week to coursework, though this can vary.",
@@ -543,30 +599,17 @@
         "tag": "Data_Science_Competitions_and_Challenges",
         "questions": [
             "Does Moringa School participate in data science competitions?",
-            "How do these competitions benefit my learning?",
+            "How do data science competitions benefit my learning?",
             "Are there any internal data science challenges conducted by Moringa School?",
             "Do students receive guidance or mentorship for participating in these competitions?",
             "Can participating in these competitions help my career?"
         ],
         "responses": [
-            "Yes, we encourage and facilitate participation in various data science competitions and challenges as a practical learning experience.",
+            "We encourage and facilitate participation in various data science competitions and challenges as a practical learning experience.",
             "Competitions provide real-world problem-solving experience and help hone your data analysis, modeling, and teamwork skills.",
             "We host internal challenges and hackathons to stimulate creativity and collaborative problem-solving among students.",
-            "Yes, students receive mentorship and guidance from instructors and industry professionals when participating in competitions.",
+            "Students receive mentorship and guidance from instructors and industry professionals when participating in competitions.",
             "Participation in competitions can significantly enhance your resume and provide talking points for job interviews, showcasing your practical skills to employers."
-        ]
-    },
-    {
-        "tag": "Alumni_Network_and_Community_Engagement",
-        "questions": [
-            "How active is the Moringa School alumni network?",
-            "Can I access the alumni network after graduation?",
-            "Are there opportunities for alumni to engage with current students?"
-        ],
-        "responses": [
-            "Our alumni network is very active, engaging in mentorship, networking events, and continuous learning opportunities.",
-            "Yes, all graduates gain access to our extensive alumni network, which can be a valuable resource for career development and networking.",
-            "Alumni frequently engage with current students through mentorship."
         ]
     }
 ]
