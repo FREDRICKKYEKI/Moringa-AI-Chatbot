@@ -1,0 +1,237 @@
+intent_list = [
+    {
+        'tag': 'DevOps_Course_Information',
+        'questions': [
+            "What does the DevOps Engineering Online Course cover?",
+            "Can you provide more details on the hands-on learning in the DevOps course?",
+            "Tell me about the duration and schedule of the DevOps course.",
+            "What are the key principles covered in the DevOps course?",
+            "Which tools are used in the DevOps Engineering projects?",
+            "Is this course suitable for Junior Web Developers?",
+            "What kind of support can I expect from the technical mentor during the DevOps course?",
+            "Can you explain the benefits of the blended learning approach?",
+            "Are there any prerequisites for enrolling in the DevOps course?",
+            "What kinds of jobs can you get with DevOps?",
+            "How can I apply for the March 25, 2024, intake?",
+            "Why should you learn DevOps?",
+            "How long is the DevOps Engineering course, and what is the schedule?"
+        ],
+        'responses': [
+            "The DevOps course covers handling code releases, implementing CI/CD pipeline, automating various processes,and solving any issues that arise during the development, deployment, or maintenance phase.",
+            "The key principles covered in the DevOps course are continuous development, automation, and collaboration using tools like Git, Docker, and Jenkins.",
+            "The course duration is 8 weeks, with live lectures, practical projects, and mentor support.",
+            "DevOps tools include Git, Docker, Jenkins, and more, enhancing your skills in automation and deployment.",
+            "Yes, this course benefits Junior Web Developers, Software Engineers, IT Specialists, and more.",
+            "Blended learning includes practical projects, live lectures, and mentor support for a comprehensive learning experience.",
+            "Graduates often secure roles such as Release Manager, Cloud Engineer, and Automation Architect.",
+            "Internship and placement opportunities are available upon completing the DevOps course.",
+            "You can apply for the March 25, 2024, intake through the official website.",
+            "Prerequisites for the DevOps course include a fundamental knowledge of core software development principles, a basic understanding or proficiency with command-line tools and Linux operating system environments and a functional laptop with 8GB RAM, 500GB and above, Core i5 or i7.",
+            "Benefits of learning DevOps include increased security, speed, quality, quick bug fixing and efficient collaboration.",
+            "The course duration is 8 weeks, with live lectures, self-learning, and mentor support."
+        ]
+    },
+    {
+        'tag': 'DevOps_Career_Opportunities',
+        'questions': [
+            "What career opportunities are available for DevOps Engineers?",
+            "How in-demand are DevOps Engineers in the job market?",
+            "What is the average salary for DevOps Engineers?",
+            "Are there specific roles for DevOps professionals?",
+            "Can you share success stories of Moringa alumni who pursued DevOps careers?",
+            "How does the course help in resolving complex operations problems?",
+            "Are there any internship or placement opportunities after completing the DevOps course?"
+        ],
+        'responses': [
+            "DevOps Engineers are highly sought after, topping LinkedIn's Emerging Jobs list with a specialized skillset.",
+            "Companies are adopting DevOps for increased productivity, offering favorable job opportunities.",
+            "The course prepares students for roles like Release Manager, DevOps Test Engineer, Cloud Security Specialist,Cloud Engineer and Automation Architect.",
+            "The course covers automation tools and processes, resolving complex operational issues.",
+            "Graduates often secure roles such as DevOps Cloud Engineer and IT Systems Architect.",
+            "Moringa alumni have successfully transitioned to roles in top tech companies globally.",
+            "Release Managers play a crucial role in overseeing the software development lifecycle.",
+            "The course helps in implementing automation tools to enhance efficiency and solve complex problems in Engineering teams.",
+            "Internship opportunities and placement support are provided upon completing the DevOps course."
+        ]
+    },
+    {
+        'tag': 'DevOps_Admissions_and_Fees',
+        'questions': [
+            "How much is the tuition fee for the DevOps course?",
+            "Can I pay the tuition fee in installments, and what are the options?",
+            "When is the application deadline for the March 25, 2024 intake?",
+            "What is the process for applying to the DevOps course?",
+            "Are there any scholarships or financial aid options available?",
+            "Can you provide details on the application process for the DevSecOps course?",
+            "Are there any discounts available for early payment of tuition fees?",
+            "Is there an application fee for enrolling in the DevOps course?",
+            "Can international students apply for the DevOps course?"
+        ],
+        'responses': [
+            "The DevOps course tuition fee is Ksh 55,000.",
+            "Tuition fees can be paid in full or installments, with details available in the fee payment plan on the website.",
+            "Application for the March 25, 2024, intake is ongoing.",
+            "The application process starts by flling in an application form on the website, passing a technical assessment test at the end of the application, after which the admisisons team will reach out to you.",
+            "Various financial aid options are available for eligible candidates.",
+            "Yes, sometimes Moringa offers early payment discounts for those paying the tuition fees in full before the start of the class. Check the website to ensure your cohort is eligible.",
+            "No, there is no application fee for enrolling in any course.",
+            "International students are encouraged to apply for the DevOps course."
+        ]
+    },
+    {
+        'tag': 'Cybersecurity_Career_Opportunities',
+        'questions': [
+            "What career opportunities are available after completing the Cybersecurity course?",
+            "What skills will I gain from the Cybersecurity course?",
+            "Are there any internship or placement opportunities after completing the Cybersecurity course?",
+            "How does the course prepare for the CompTIA Security+ certification exam?",
+            "Can you provide examples of companies hiring cybersecurity professionals trained at Moringa?",
+            "What is the demand for cybersecurity professionals in the current job market?",
+            "Are there any networking events or industry connections facilitated through the Cybersecurity course?",
+            "Can I pursue a career in cybersecurity with a background in IT or computer science?",
+            "What is the average salary for roles like SOC Analyst and Ethical Hacker?"
+        ],
+        'responses': [
+            "Career opportunities include Cybersecurity Consultant, Network Security Engineer, and Ethical Hacker, Security Software Developer and Computer Forensics Investigator.",
+            "The course covers skills including cybersecurity fundamentals and the cybersecurity kill chain. Learners will also work on practicals through weekly labs & projects.",
+            "Internship opportunities and placement support are provided after completing the Cybersecurity course.",
+            "The course prepares for the CompTIA Security+ certification through exam preparation sessions.",
+            "Networking events and industry connections are facilitated for Cybersecurity course participants after completion.",
+            "Companies hiring cybersecurity professionals include leading organizations in the cybersecurity domain.",
+            "The demand for cybersecurity professionals is high, with a growing need for skilled individuals.",
+            "Networking events and connections help Cybersecurity course participants build valuable industry relationships.",
+            "A background in IT or computer science is suitable for pursuing a career in cybersecurity.",
+            "Average salaries for roles like SOC Analyst and Ethical Hacker vary, with competitive compensation."
+        ]
+    },
+    {
+        'tag': 'Cybersecurity_Course_Information',
+        'questions': [
+            "What does the 18-week Cybersecurity Course at Moringa School cover?",
+            "Can you provide details on the practical and project-based learning in the Cybersecurity Course?",
+            "When do applications for the Cybersecurity Course close?",
+            "What are the key aspects of the cybersecurity specialist course?",
+            "How is the course structured for learners?",
+            "What is the focus of the curriculum, and what skills will I gain?",
+            "Tell me about the partnership with CompTIA and the Security+ certification.",
+            "What guarantees does Moringa School provide for Cybersecurity Course participants?",
+            "Can you provide details on the discounted exam vouchers?",
+            "What is the total cost of the Cybersecurity Course, and are there any discounts available?"
+        ],
+        'responses': [
+            "The 18-week Cybersecurity Course covers cybersecurity fundamentals, the kill chain, and practical work through weekly labs and projects.",
+            "The course includes practical and project-based learning, access to cybersecurity labs, and dedicated technical mentor support.",
+            "Applications for the Cybersecurity Course have closed.Make sure to check the website for the next intake.",
+            "Key aspects include  all the aspects required for a good start in cybersecurity.",
+            "The course structure requires students to be online Mondays – Thursdays from 6.00 pm – 9.00 pm. A 1 -hour lecture will be delivered then deep dive into the course for the remainder of the time. Additional hours and support will be availed on Fridays & Saturdays.",
+            "The curriculum focuses on cybersecurity fundamentals, the kill chain, and hands-on experience with malicious tools.",
+            "The partnership with CompTIA ensures that as a learner, you will be fully trained by certified technical mentors & instructors.",
+            "Moringa School guarantees practical and project-based learning, industry-relevant labs, mentor support, and discounted exam vouchers.",
+            "Participants receive highly discounted exam vouchers, dual certification from Moringa and CompTIA, and comprehensive training.",
+            "The Cybersecurity Course costs Ksh 200,000 with an introductory fee offer of Ksh 170,000. Make sure to confirm if your cohort is eligible."
+        ]
+    },
+    {
+        "tag": "Cybersecurity_Certifications",
+        "questions": [
+            "What cybersecurity certifications does Moringa School offer?",
+            "Can you provide details about the Cybersecurity Certification programs at Moringa School?",
+            "Tell me about the curriculum covered in Moringa School's Cybersecurity Certification courses.",
+            "Are there any industry-recognized certifications included in Moringa School's cybersecurity programs?",
+            "How long does it take to complete the Cybersecurity Certification programs at Moringa School?",
+            "Are there any prerequisites for enrolling in Moringa School's Cybersecurity Certification courses?",
+            "What career pathways can be pursued after obtaining a cybersecurity certification from Moringa School?",
+            "Can you share success stories or testimonials from individuals who completed Moringa School's Cybersecurity Certification?"
+        ],
+        "responses": [
+            "Upon completion of the cybersecurity course, you will get dual certification - A certificate of completion from Moringa & Security + from CompTIA.",
+            "The cybersecurity program at Moringa runs for 18 weeks. You will learn skills including but not limited to: Security Controls, Cyber Threat Intelligence,Identity Access Management & Network Security & Cryptography.",
+            "The curriculum is divided into 14 modules. The areas covered include governance, security and compliance,identity access management and network security.",
+            "You will take 18 weeks to cover the cybersecurity course at Moringa.",
+            "The course prerequisites are:basic computer skills, proficiency in English,laptop ( core i5 – i7, 8GB RAM, 500GB memory) and stable internet connection.",
+            "Career pathways available after obtaining a cybersecurity certification from Moringa School are SOC Analyst, Cybersecurity Consultant, Information security analyst, Network Security Engineer,Computer Forensics Investigator and Ethical Hacker.",
+            "There currently aren't any ssuccess stories from individuals who successfully completed Moringa School's Cybersecurity Certification. However, for more success stories, kindly visit the official website."
+        ]
+    },
+    {
+        'tag': 'Product_Design_UI/UX_Course_Information',
+        'questions': [
+            "What is covered in the UX/UI Product Design Course at Moringa School?",
+            "How flexible is the course schedule for Product Design(UI/UX) students?",
+            "What skills will I gain from the Product Design Course?",
+            "Are there any prerequisites for enrolling in the Product Design Course?",
+            "Can you provide details on the course phases and what each phase covers?",
+            "What job roles can participants be prepared for after completing the Product Design Course?",
+            "What is the duration of the part-time Product Design(UI/UX) course?",
+            "When are applications ongoing for the Product Design Course?",
+            "What skills do students explore in the Product Design(UI/UX) program?",
+        ],
+        'responses': [
+            "The product design UX/UI program focuses on skills including digital product design — designing digital products such as websites, mobile applications, and computer programs. It covers the entire UX and UI process.",
+            "The UX/UI Product Design Course at Moringa School covers design thinking, user-centered design, and foundational visual design.",
+            "The course schedule is designed to fit around busy schedules, with evening and weekend classes for maximum flexibility.",
+            "Participants will gain knowledge and tools for designing user experiences for digital products and websites.",
+            "All students are required to be 18 years and above,have a working laptop that has Core i5, 7th Gen and upwards, 4GB RAM, and at least 256GB of storage and they also need to complete pre-work before onboarding week.",
+            "The course comprises five phases, with Phases 1 and 2 covering fundamental methods, tools, and principles of UX and UI processes. In Phase 3 and 4, students work on real-life projects. In Phase 5, students will create and launch an online portfolio of their best work.",
+            "Participants can be prepared for roles like UX Researcher, UX/UI Designer, Product Designer, and Full-Stack Designer.",
+            "The part-time Product Design(UI/UX) course is designed for 28 weeks, while the full-time Product Design(UI/UX) course is 22 weeks.",
+            "Applications are ongoing for the Product Design Course February 2024 class."
+        ]
+    },
+    {
+        'tag': 'Product_Design_UI/UX_Career_Opportunities',
+        'questions': [
+            "What does a UX researcher do?",
+            "How do UX researchers conduct research with real users?",
+            "What is the importance of qualitative and quantitative data in UX research?",
+            "What does a UX/UI designer do?",
+            "What does a UX strategist do?",
+            "Can you provide details on the schedule for UX Design part-time classes?",
+            "What are the benefits of pursuing a career as a product designer?",
+            "What job roles can participants be prepared for after completing the UX Design part-time course?",
+            "Is UX Design one of the in-demand tech skills?",
+            "How does the UX Design program prepare students for entry into the job market?"
+        ],
+        'responses': [
+            "A UX researcher conducts research with real users, gathering both qualitative and quantitative data on how people think, feel, and behave.",
+            "UX researchers conduct research through methods such as interviews, surveys, and usability testing with real users.",
+            "Qualitative and quantitative data in UX research help understand the target audience and inform a user-centric design strategy.",
+            "Key responsibilities of a UI/UX designer include creating functional, reliable, and usable products and also creating accessible and beautiful interfaces.",
+            "UI/UX strategists are like the convergence of UX design and business strategy.",
+            "UX Design part-time classes are scheduled from Monday to Thursday (6 pm to 9 pm) and Saturday (9 am to 1 pm).",
+            "Benefits of pursuing a career as a UX researcher are that youu will become an end-to-end product designer and consequently learn to take the guesswork out of the design process and make data-informed product decisions.",
+            "Participants can be prepared for roles like UX Researcher, UX/UI Designer, Product Designer, and Full-Stack Designer.", 
+            "Yes, UX Design is one of the in-demand tech skills, according to LinkedIn.",
+            "The UX Design program prepares students for entry into the job market by providing a strong foundation in UX and UI processes, allowing students to gain hands-on UX/UI design experience using modern tools like Figma and Webflow and offering career coaching and graduate support."
+        ]
+    },
+    {
+        'tag': 'Mpesa_Mini_Apps_API_Course_Information',
+        'questions': [
+            "What is the Mpesa Mini Apps & API Development course?",
+            "What skills will I gain from this course?",
+            "Who is this course suitable for?",
+            "What are the prerequisites for this course?",
+            "What career opportunities are available after completing the Mpesa Mini Apps & API Development course?",
+            "How does the course prepare students for real-world situations?",
+            "What future-ready skills will I gain from this course?",
+            "What kind of certification will I receive after completing the course?",
+            "Is the course fully online?",
+            "What are the minimum specifications for my machine to take the course?",
+        ],
+        'responses': [
+            "The Mpesa Mini Apps & API Development course covers all the aspects required to develop the technical skills and knowledge needed to become an entry-level developer. Students will also learn the fundamentals of creating basic web pages and style them using CSS and HTML.",
+            "By the end of the program, students will have a portfolio showcasing front-end projects, illustrating their proficiency in mini-application development and the React JavaScript Framework through the delivery of a mini-application.",
+            "This course is suitable for anyone with an IT-related background, or with no practical programming experience, ,a self-taught developer with no work experience or career professionals with non-tech backgrounds looking to transition into tech careers.",
+            "Students must have basic computer skills, proficiency in English, access a stable internet connection, the following machine specifications:8GB RAM, 256GB HDD/SSD, Ubuntu or Mac (Special cases for Windows) and a functional understanding of at least one operating system (Windows, macOS).",
+            "Students who complete the Mpesa Mini Apps & API Development course may have the opportunity to work with Mpesa Africa in the future.",
+            "The teaching model is hands-on and project-based, ensuring students progressively build on each week's knowledge in a simulated tech workplace environment.",
+            "Students will gain insight into cross-platform superapplications, positioning themselves for success with a unique blend of industry collaboration, practical & project-based learning experience, and forward-looking tech skills.",
+            "Upon completion of the course, students will receive a certification, which could potentially lead to employment opportunities with Mpesa Africa or other companies in the tech industry.",
+            "All classes are fully online. Lecture sessions take place between Mondays – Fridays between 6.00 pm – 9.00 pm. Additional hours and support will be availed on Saturdays upon request.Learners are expected to use the weekend to work on their summative assessments, and projects ahead of deadlines.",
+            "The minimum specifications for your machine are 8GB RAM, 256GB HDD SSD, and Ubuntu or Mac (Special cases for Windows)."
+        ]
+   },
+]
+
+
