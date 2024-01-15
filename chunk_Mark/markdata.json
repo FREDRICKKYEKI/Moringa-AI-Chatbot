@@ -16,20 +16,21 @@
         ],
         "responses": [
             "The next graduation ceremony is scheduled for 17 Nov, 2023, from 8:30 am to 1:00 pm at Visa Oshwal Community Centre.",
-            "Yes, we invite all stakeholders, friends, and family to join us in celebrating the achievements of our graduates.",
-            "Yes, there will be a live stream link for those unable to attend in person.",
+            "We invite all stakeholders, friends, and family to join us in celebrating the achievements of our graduates.",
+            "There will be a live stream link for those unable to attend in person.",
             "Invitations will be sent to stakeholders, friends, and family. You can contact us for more information.",
             "The dress code is casual formal. Avoid rugged jeans, shorts, and tights for a respectful atmosphere.",
             "The graduation ceremony starts at 8:30 am and concludes at 1:00 pm.",
             "The venue for the graduation ceremony is Visa Oshwal Community Centre.",
             "We expect approximately 996 graduates at the upcoming ceremony.",
-            "Yes, you can bring your family to share in the celebration.",
+            "You can bring your family to share in the celebration.",
             "We will have special guests and speakers to make the ceremony memorable."
         ]
     },
     {
-        "tag": "Course",
+        "tag": "Full_Stack_Software_Engineering",
         "questions": [
+            "What is the duration of the Part-time Software Engineering course?",
             "What programming languages are covered in the Full Stack Software Engineering Curriculum?",
             "Are there any prerequisites for enrolling in the Software Engineering program?",
             "How much time should I dedicate to learning each week?",
@@ -42,18 +43,47 @@
             "Can I apply if I have no prior coding experience?"
         ],
         "responses": [
+            "The course duration is 30 weeks.",
             "The curriculum covers HTML, CSS, JavaScript, React, SQL, Python, JSON, and Redux Frameworks.",
             "No prior coding knowledge is required. The program is designed for beginners and experienced learners alike.",
             "Students are required to dedicate 6 days to learning, with 20-25 hours per week, including 3 live lectures and additional helpdesk support on Saturdays.",
             "The program offers practical hands-on learning with real-world projects to enhance your skills.",
             "While the program is intensive, some students find a balance with part-time work.",
             "We provide career coaching and job-hunting support for up to 12 months post-graduation.",
-            "Yes, candidates can take a student loan, paying N90,720 as a commitment fee and the remaining balance after securing a job.",
+            "Candidates can take a student loan, paying N90,720 as a commitment fee and the remaining balance after securing a job.",
             "Group projects are a key component, fostering collaboration and practical application of skills.",
             "The curriculum is structured to cover both front-end and back-end development technologies.",
             "Absolutely! The program is designed to accommodate learners with no prior coding experience."
         ]
     },
+    {
+        "tag": "Mobile Development",
+        "questions": [
+            "What is the duration of the Software Engineering Mobile Track?",
+            "Who is the ideal candidate for this mobile development course?",
+            "Can you provide an overview of the curriculum and technologies covered?",
+            "How is the learning experience structured for mobile development students?",
+            "What career opportunities are available after completing the mobile track?",
+            "Is there flexibility in the pacing options for the course?",
+            "Can you elaborate on the role of QA testers in mobile app development?",
+            "How do mobile developers use frameworks like React Native?",
+            "What are the prerequisites for enrolling in the course?",
+            "How does the course prepare students for real-world mobile development projects?"
+        ],
+        "answers": [
+            "The duration of the course is 23 weeks.",
+            "The ideal candidates are aspiring mobile app developers, junior developers, IT professionals, and entrepreneurs.",
+            "The curriculum covers JavaScript, React Native, MongoDB, Node.js, Express framework, and RESTful API.",
+            "The learning experience includes project-based learning, technical mentor support, and interactive workshops.",
+            "Job opportunities include roles such as mobile app developers, QA testers, and mobile product managers.",
+            "There are flexible installment plans available for the course.",
+            "QA testers are responsible for testing mobile apps to identify and report bugs, usability issues, and performance problems.",
+            "Cross-platform developers use frameworks like React Native to build applications for both Android and iOS with a single codebase.",
+            "Prerequisites include basic computer skills, proficiency in English, and access to stable internet.",
+            "The course combines theoretical understanding with practical application, preparing students for real-world mobile development challenges."
+        ]
+    }
+    ,
     {
         "tag": "Partnership",
         "questions": [
@@ -72,12 +102,12 @@
             "The partnership aims to foster collaboration and support for tech education. Key individuals involved include Nelly Agyemang-Gyamfi, Kelechi Victor Ofoegbu, and Setriakor Nyomi.",
             "The partnership provides additional networking opportunities, access to resources, and collaborative projects for students.",
             "Students can engage in collaborative projects by expressing interest and participating in events organized through the partnership.",
-            "Yes, various events and workshops are organized as part of the partnership to enrich the student experience.",
+            "Various events and workshops are organized as part of the partnership to enrich the student experience.",
             "While the physical hub is in Accra, the partnership offers opportunities for remote collaboration, allowing students from other regions to participate.",
             "The goal is to nurture African talent, advance tech in Africa, and create opportunities for students through collaborative projects.",
             "The collaboration enhances the overall learning experience by providing real-world exposure and industry connections.",
             "Internship opportunities may arise through the partnership, providing valuable industry experience for students.",
-            "Yes, students can access resources at Impact Hub Accra, contributing to a rich and supportive learning environment.",
+            "Students can access resources at Impact Hub Accra, contributing to a rich and supportive learning environment.",
             "Absolutely! The partnership creates opportunities for students to immerse themselves in a broader tech community."
         ]
     },
@@ -98,12 +128,12 @@
         "responses": [
             "You can reach the Admissions team through the official Moringa School website or by emailing admissions@moringaschool.com.",
             "For general inquiries, you can contact info@moringaschool.com.",
-            "Yes, you can contact the admissions team via WhatsApp at +254 798 123 852.",
-            "Yes, you can visit Ngong Lane Plaza in person for assistance. The address is Ngong Lane Plaza, 4th Floor, Ngong Lane, Nairobi, Kenya.",
+            "You can contact the admissions team via WhatsApp at +254 798 123 852.",
+            "You can visit Ngong Lane Plaza in person for assistance. The address is Ngong Lane Plaza, 4th Floor, Ngong Lane, Nairobi, Kenya.",
             "The office hours for contacting the admissions team are Monday to Friday, 9:00 am to 5:00 pm.",
             "We strive to respond to email inquiries within 24-48 hours.",
             "For urgent matters, you can contact the dedicated helpline at +254 798 123 852.",
-            "Yes, you can schedule a campus tour through the official Moringa School website.",
+            "You can schedule a campus tour through the official Moringa School website.",
             "Connect with Moringa School on social media through Facebook, Twitter, LinkedIn, and Instagram.",
             "For international inquiries, you can reach out to our local offices or representatives who will provide assistance."
         ]
