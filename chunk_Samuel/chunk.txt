@@ -1,0 +1,188 @@
+s a proficient mini- apps developer This course has been designed in partnership with
+MPesa Africa for beginners seeking to kickstart their software development career in Mini Applications. This is the first time the mini-
+apps certification is being introduced in the African market as a course on demand in collaboration with Mpesa Africa.By the end of the
+program, students at the Bronze level will have a portfolio showcasing front-end projects, illustrating thier proficiency in mini-
+applications development and the React JavaScript Framework through the delivery of a mini-application.Moringa’s teaching model, the
+hands-on project based approach ensures the students progressively build on each week’s knowledge in a simulated tech work-place
+environment.Introduction to Front-End web development for cross platform super applications. Join us to explore the world of cross-
+platform super applications and emerge with a portfolio of front-end projects, showcasing your expertise in mini-applications development.
+Students are required to commit at least 50 hours every week to learn. Lecture sessions take place between Mondays – Fridays between 6.00
+pm – 9.00 pm. Additional hours and support will be availed on Saturdays upon request. Real-World Readiness: Gain insight into cross-
+platform super applications, positioning yourself for success with a unique blend of industry collaboration, practical & project-based
+learning experience, and forward-looking tech skills. Introduction to Front-End web development for cross platform super applications.
+Developer Tools & Unix Students are required to commit at least 50 hours every week to learn. Lecture sessions take place between Mondays
+– Fridays between 6.00 pm – 9.00 pm. Additional hours and support will be availed on Saturdays upon request.Blended learning:- group work,
+self-learning and lectures hours, project days.Learners are expected to use the weekend to work on their summative assessments, and
+projects ahead of deadlines Introduction to Front-End web development for cross-platform super applications. HTML, CSS, and Git Class
+begins onFebruary 5th, 2024 The curriculum has been designed by Moringa School in partnership with MPesa Africa. As a learner, you will be
+fully trained by certified technical mentors & instructors to complete the theory and practicals for this course. After completing the
+course, you will be in a position to design responsive web apps using CSS and develop interactive web apps and UI (User Interface)
+elements, and connect a web application to backend server using JavaScript to create a basic mini-app. Career Opportunities: Ready to
+embark on your journey into mini-application development? This course covers all the aspects required to develop the technical skills and
+knowledge needed to become an entry-level developer. CAPSTONE PROJECTAgile product development Presentation skills Partnering with Mpesa
+Africa ensures a curriculum that aligns with industry needs, giving you practical insights and knowledge through access to industry-
+relevant labs and projects directly from the hiring partner. You will learn the fundamentals of creating basic web pages and style them
+using CSS and HTML. You will also gain skills in writing basic logic using Javascript, JSON and understand basic XML language structure.
+At the end of the course learners will experience a structured and practical pathway designed to transition them from an enthusiast to a
+junior Mini-apps software developer with Mpesa Africa. React Front-End The Mpesa Mini Apps & API Program is a new technology that helps
+businesses develop high-quality services and grow on mobile apps. Pioneered by Mpesa Africa, the aim of the program is to ensure a
+generalized concept that users can experience many services without installing many mobile apps on their phones. This course covers all
+the aspects required to develop the technical skills and knowledge needed to become an entry-level developer.You will learn the
+fundamentals of creating basic web pages and style them using CSS and HTML. You will also gain skills in writing basic logic using
+Javascript, JSON and understand basic XML language structure. At the end of the course learners will experience a structured and practical
+pathway designed to transition them from an enthusiast to a junior Mini-apps software developer with Mpesa Africa. Curriculum Developed by
+Moringa and MPesa Africa A chance to work with MPesa Africa in the future Mini Applications ProjectsCertification – A chance to get
+certified as a proficient mini- apps developer Explore groundbreaking mini-applications development, a first in Africa, in collaboration
+with Mpesa Africa, ensuring you stay at the forefront of industry trends. JavaScript Fundamentals Pioneering Mini-Apps Learning: This
+course has been designed in partnership with MPesa Africa for beginners seeking to kickstart their software development career in Mini
+Applications. This is the first time the mini-apps certification is being introduced in the African market as a course on demand in
+collaboration with Mpesa Africa. Book Your Seat for October 5th and 6th Students are required to dedicate 2 days(4 hours per day) to
+learning for them to succeed in this course.4 hours of study from 9 am-1 pm2 days Course Details Are you ready to get started?
+Participants are expected to have a basic understanding of AI concepts and programming languages (such as Python) to fully engage with the
+course content. If you are in search of a unique learning experience this is the place for you. We guarantee you will learn market-aligned
+skills through our practical and comprehensive curriculum.Project-based learningTechnical Mentor SupportInteractive workshops and group
+discussionsAccess to a dedicated online platform for course materials and resources.Access to a global community of learners all over
+Africa © 2024 Moringa School. All rights reserved. In a world driven by AI, the ability to communicate effectively with AI models is a
+game-changer. Our course offers a unique blend of theoretical understanding and practical application, empowering you to: If you are in
+search of a unique learning experience this is the place for you. We guarantee you will learn market-aligned skills through our practical
+and comprehensive curriculum. Students are required to dedicate 2 days(4 hours per day) to learning for them to succeed in this course.
+Developers and programmers interested in AI integration.Data scientists seeking to improve model outputs through precise prompts.Content
+creators and writers exploring AI-generated content.Researchers aiming to enhance their AI interactions for experiments.Professionals from
+various domains looking to leverage AI for specific tasks. Book Your Seat for October 5th and 6th Students are required to dedicate 2
+days(4 hours per day) to learning for them to succeed in this course.4 hours of study from 9 am-1 pm2 days Course Details Are you ready to
+get started? Participants are expected to have a basic understanding of AI concepts and programming languages (such as Python) to fully
+engage with the course content. If you are in search of a unique learning experience this is the place for you. We guarantee you will
+learn market-aligned skills through our practical and comprehensive curriculum.Project-based learningTechnical Mentor SupportInteractive
+workshops and group discussionsAccess to a dedicated online platform for course materials and resources.Access to a global community of
+learners all over Africa © 2024 Moringa School. All rights reserved. In a world driven by AI, the ability to communicate effectively with
+AI models is a game-changer. Our course offers a unique blend of theoretical understanding and practical application, empowering you to:
+If you are in search of a unique learning experience this is the place for you. We guarantee you will learn market-aligned skills through
+our practical and comprehensive curriculum. Students are required to dedicate 2 days(4 hours per day) to learning for them to succeed in
+this course. Developers and programmers interested in AI integration.Data scientists seeking to improve model outputs through precise
+prompts.Content creators and writers exploring AI-generated content.Researchers aiming to enhance their AI interactions for
+experiments.Professionals from various domains looking to leverage AI for specific tasks. © 2024 Moringa School. All rights reserved. No
+prior experience in data analytics is required. Our comprehensive Data Analytics for HR Professionals Masterclass is designed specifically
+for HR practitioners who seek to leverage the power of data to transform HR practices. In today’s data-driven world, HR professionals must
+possess strong data analytics skills to make informed decisions, drive better workforce strategies, and contribute to organizational
+success. Data analytics for HR professionals, also known as HR analytics or people analytics, refers to the use of data analysis and data-
+driven techniques to gain insights, make informed decisions, and optimize human resources practices within an organization. It involves
+collecting, processing, and analyzing HR-related data to identify patterns, trends, and correlations that can inform HR strategies and
+contribute to better workforce management. HR Professionals with Basic Analytics Knowledge: This course is designed for HR professionals
+who have a foundational understanding of data analytics but want to deepen their skills and apply them specifically in the HR domain.HR
+Managers and Directors: Mid to senior-level HR managers and directors seeking to enhance their decision-making capabilities through data-
+driven insights and analytics tools.HR Analysts and Data Specialists: Individuals already working in HR analytics or data-related roles
+looking to expand their expertise, learn new techniques, and stay updated on the latest trends in HR analytics.Talent Acquisition
+Specialists: HR professionals responsible for talent acquisition, recruitment, and workforce planning who want to leverage data analytics
+to improve the hiring process and identify the best candidates.HR Consultants and Advisors: HR consultants and advisors looking to
+integrate data analytics into their consulting services to offer data-driven recommendations to their clients.Learning and Development
+Professionals: HR practitioners involved in employee training and development interested in using data analytics to optimize training
+programs and measure their impact on employee performance.HR Professionals Transitioning to Analytics Roles: Individuals looking to
+transition from traditional HR roles to analytics-focused positions within HR departments or analytics teams. Book Your Seat forNovember
+9th-10th If you are in search of a unique learning experience this is the place for you. We guarantee you will learn market-aligned skills
+through our practical and comprehensive curriculum.Project-based learningAccess to large data sets & real-world business case
+studiesTechnical Mentor SupportLive in-person instructor led classesAccess to a global community of learners all over Africa Students are
+required to dedicate 2 days to learning for them to succeed in this course. Pacing options available, price, and more information about
+this course. At the end of this training, participants will Ready to take your first step in starting a career in Data Analytics? Students
+are required to dedicate 2 days to learning for them to succeed in this course.8 hours of study from 9am-4pm2 days Unleash the Power of HR
+Data: Data is the key to unlocking actionable insights in HR. By learning data analytics, you can leverage HR data to make informed
+decisions that drive better workforce strategies, talent acquisition, and employee engagement.Excel in HR Analytics Roles: Whether you’re
+an HR Manager aspiring to enhance decision-making or a career transitioner looking to break into the HR analytics field, this course
+equips you with the expertise to excel in data-driven HR roles.Gain a Competitive Advantage: In a competitive job market, having data
+analytics skills sets you apart as a sought-after HR professional. Enhance your employability and open doors to exciting career
+opportunities with this valuable skillset.Be Future-Ready: In an era where data is transforming every aspect of business, being proficient
+in data analytics ensures you stay relevant and future-ready in the rapidly evolving HR landscape. Have basic HR Knowledge.Have basic
+computer Literacy skillsMust have a desire and curiosity to learn.No prior experience in data analytics is required. Don’t worry if you’re
+new to data analytics – we’ve got you covered! Our masterclass starts with the fundamentals, introducing you to key data analysis
+techniques, statistical tools, and data visualization methods. Through interactive exercises and hands-on projects, you’ll build your
+analytical prowess and learn to interpret HR data with confidence. If you are in search of a unique learning experience this is the place
+for you. We guarantee you will learn market-aligned skills through our practical and comprehensive curriculum. A recap on how learners are
+able to grasp the content Data analytics for HR professionals, also known as HR analytics or people analytics, refers to the use of data
+analysis and data-driven techniques to gain insights, make informed decisions, and optimize human resources practices within an
+organization. It involves collecting, processing, and analyzing HR-related data to identify patterns, trends, and correlations that can
+inform HR strategies and contribute to better workforce management.Data analytics in HR aims to move HR practices from a subjective and
+intuition-based approach to an evidence-based, data-driven approach. By leveraging data, HR professionals can make more objective, fact-
+based decisions that align with organizational goals and positively impact employee experiences and overall business outcomes. Theory is
+essential, but practice makes perfect! Delve into practical HR scenarios, where you’ll apply your newly acquired data analytics skills to
+real HR challenges. From predicting employee turnover to optimizing talent acquisition strategies, you’ll emerge with the ability to turn
+raw data into actionable insights that drive organizational success. Data analytics in HR aims to move HR practices from a subjective and
+intuition-based approach to an evidence-based, data-driven approach. By leveraging data, HR professionals can make more objective, fact-
+based decisions that align with organizational goals and positively impact employee experiences and overall business outcomes. © 2024
+Moringa School. All rights reserved. No prior experience in data analytics is required. Our comprehensive Data Analytics for HR
+Professionals Masterclass is designed specifically for HR practitioners who seek to leverage the power of data to transform HR practices.
+In today’s data-driven world, HR professionals must possess strong data analytics skills to make informed decisions, drive better
+workforce strategies, and contribute to organizational success. Data analytics for HR professionals, also known as HR analytics or people
+analytics, refers to the use of data analysis and data-driven techniques to gain insights, make informed decisions, and optimize human
+resources practices within an organization. It involves collecting, processing, and analyzing HR-related data to identify patterns,
+trends, and correlations that can inform HR strategies and contribute to better workforce management. HR Professionals with Basic
+Analytics Knowledge: This course is designed for HR professionals who have a foundational understanding of data analytics but want to
+deepen their skills and apply them specifically in the HR domain.HR Managers and Directors: Mid to senior-level HR managers and directors
+seeking to enhance their decision-making capabilities through data-driven insights and analytics tools.HR Analysts and Data Specialists:
+Individuals already working in HR analytics or data-related roles looking to expand their expertise, learn new techniques, and stay
+updated on the latest trends in HR analytics.Talent Acquisition Specialists: HR professionals responsible for talent acquisition,
+recruitment, and workforce planning who want to leverage data analytics to improve the hiring process and identify the best candidates.HR
+Consultants and Advisors: HR consultants and advisors looking to integrate data analytics into their consulting services to offer data-
+driven recommendations to their clients.Learning and Development Professionals: HR practitioners involved in employee training and
+development interested in using data analytics to optimize training programs and measure their impact on employee performance.HR
+Professionals Transitioning to Analytics Roles: Individuals looking to transition from traditional HR roles to analytics-focused positions
+within HR departments or analytics teams. Book Your Seat forNovember 9th-10th If you are in search of a unique learning experience this is
+the place for you. We guarantee you will learn market-aligned skills through our practical and comprehensive curriculum.Project-based
+learningAccess to large data sets & real-world business case studiesTechnical Mentor SupportLive in-person instructor led classesAccess to
+a global community of learners all over Africa Students are required to dedicate 2 days to learning for them to succeed in this course.
+Pacing options available, price, and more information about this course. At the end of this training, participants will Ready to take your
+first step in starting a career in Data Analytics? Students are required to dedicate 2 days to learning for them to succeed in this
+course.8 hours of study from 9am-4pm2 days Unleash the Power of HR Data: Data is the key to unlocking actionable insights in HR. By
+learning data analytics, you can leverage HR data to make informed decisions that drive better workforce strategies, talent acquisition,
+and employee engagement.Excel in HR Analytics Roles: Whether you’re an HR Manager aspiring to enhance decision-making or a career
+transitioner looking to break into the HR analytics field, this course equips you with the expertise to excel in data-driven HR roles.Gain
+a Competitive Advantage: In a competitive job market, having data analytics skills sets you apart as a sought-after HR professional.
+Enhance your employability and open doors to exciting career opportunities with this valuable skillset.Be Future-Ready: In an era where
+data is transforming every aspect of business, being proficient in data analytics ensures you stay relevant and future-ready in the
+rapidly evolving HR landscape. Have basic HR Knowledge.Have basic computer Literacy skillsMust have a desire and curiosity to learn.No
+prior experience in data analytics is required. Don’t worry if you’re new to data analytics – we’ve got you covered! Our masterclass
+starts with the fundamentals, introducing you to key data analysis techniques, statistical tools, and data visualization methods. Through
+interactive exercises and hands-on projects, you’ll build your analytical prowess and learn to interpret HR data with confidence. If you
+are in search of a unique learning experience this is the place for you. We guarantee you will learn market-aligned skills through our
+practical and comprehensive curriculum. A recap on how learners are able to grasp the content Data analytics for HR professionals, also
+known as HR analytics or people analytics, refers to the use of data analysis and data-driven techniques to gain insights, make informed
+decisions, and optimize human resources practices within an organization. It involves collecting, processing, and analyzing HR-related
+data to identify patterns, trends, and correlations that can inform HR strategies and contribute to better workforce management.Data
+analytics in HR aims to move HR practices from a subjective and intuition-based approach to an evidence-based, data-driven approach. By
+leveraging data, HR professionals can make more objective, fact-based decisions that align with organizational goals and positively impact
+employee experiences and overall business outcomes. Theory is essential, but practice makes perfect! Delve into practical HR scenarios,
+where you’ll apply your newly acquired data analytics skills to real HR challenges. From predicting employee turnover to optimizing talent
+acquisition strategies, you’ll emerge with the ability to turn raw data into actionable insights that drive organizational success. Data
+analytics in HR aims to move HR practices from a subjective and intuition-based approach to an evidence-based, data-driven approach. By
+leveraging data, HR professionals can make more objective, fact-based decisions that align with organizational goals and positively impact
+employee experiences and overall business outcomes. Every career begins with a foundational-level certificate, and for AWS, that
+certificate is AWS Cloud Practitioner. This course provides in-depth knowledge of not just one AWS service but instead gives an overall
+understanding of AWS. If you have little to no experience with AWS, this course is designed to help you obtain the knowledge and skills
+required to become an AWS Certified Cloud Practitioner. By taking this course, you will gain an understanding of key AWS technologies,
+their use cases, and the costs and benefits of working with AWS Cloud environments. © 2024 Moringa School. All rights reserved. Network
+specialists supervise the working and operations of networks and ensure that they run smoothly. They collect network performance data,
+troubleshoot issues, track network protection, forecast problems, and maintain the network. AWS Cloud Practitioner Exams Find out the
+pacing options available, price, and more information about this course. In this course, you’ll learn A SysOps Admin handles and maintains
+the computer server. His duties include operating and running the server. He is also in charge of user protection and access. The primary
+responsibility of the AWS SysOps administrator is to configure AWS cloud management and track and control its services. Applicants must
+show interest in tech & learning cloud computing.Have a functional laptop & access to stable internet.Be proficient in EnglishMust attend
+all classes & take the exams on the last day of training.Must be available to attend the 3-day online training. The jobs you get with AWS
+cloud certification are the following:-1. AWS Cloud ArchitectA cloud architect is responsible for transforming a project’s technical
+details into the design and architecture to drive the final product. The cloud architect is also responsible for bridging the gap between
+cloud-based solutions and complicated business challenges.2. SysOps AdministratorA SysOps Admin handles and maintains the computer server.
+His duties include operating and running the server. He is also in charge of user protection and access. The primary responsibility of the
+AWS SysOps administrator is to configure AWS cloud management and track and control its services.3. Cloud DeveloperCloud developers design
+apps that run on the internet. A cloud developer’s day-to-day responsibilities are similar to that of the software engineer or web
+developer. They spend a lot of time researching customer requirements, designing solutions and systems, coding, debugging, etc. So they
+also have to deal with issues like security and performance of the system architecture.4. AWS Networking SpecialistNetwork specialists
+supervise the working and operations of networks and ensure that they run smoothly. They collect network performance data, troubleshoot
+issues, track network protection, forecast problems, and maintain the network.5. Cloud Software EngineerCloud Software Engineers solely
+work with cloud computing systems. They help determine the functioning of a system and provide guidance to programmers who assist in
+writing the software code. They might improve the functioning of existing systems or create new ones. If you are in search of a unique
+learning experience this is the place for you. We guarantee you will learn market-aligned skills through our practical and comprehensive
+curriculum.Practical & Marketing Aligned trainingTechnical Mentor SupportLive in-person instructor-led classesAccess to a global community
+of learners all over Africa Cloud developers design apps that run on the internet. A cloud developer’s day-to-day responsibilities are
+similar to that of the software engineer or web developer. They spend a lot of time researching customer requirements, designing solutions
+and systems, coding, debugging, etc. So they also have to deal with issues like security and performance of the system architecture.
+Intake is ongoing for theJuly 4thclass A cloud architect is responsible for transforming a project’s technical details into the design and
+architecture to drive the final product. The cloud architect is also responsible for bridging the gap between cloud-based solutions and
+complicated business challenges. By the end of this course, you’ll understand AWS services and how they are leveraged to build
+applications and provide products and services in t

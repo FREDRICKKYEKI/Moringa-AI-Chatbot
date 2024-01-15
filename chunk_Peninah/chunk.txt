@@ -1,0 +1,188 @@
+s seeking to transition into mobile application
+development.Entrepreneurs interested in creating their own mobile apps. This is the most common role in mobile development. Mobile app
+developers specialize in creating applications for either Android (using Java or Kotlin) or iOS (using Swift or Objective-C) platforms.
+They are responsible for designing, coding, testing, and maintaining mobile applications. In essence, mobile development is about
+leveraging technology and data to bridge the gap between human needs and digital solutions. It’s the means by which we transform concepts
+into user-friendly applications that not only meet user expectations but also contribute to the success of organizations and businesses in
+our increasingly mobile-centric world. Many mobile developers choose to work as freelancers or consultants. They can take on projects for
+various clients and enjoy flexibility in their work schedules. Find out the pacing options available, price, and more information about
+this course; Mobile development, often referred to as app development, is the process of designing and building applications for mobile
+devices. It is the art and science of transforming ideas into tangible digital experiences tailored specifically for smartphones and
+tablets. Instructor led remote classes Cross-platform developers use frameworks like React Native to build applications that can run on
+both Android and iOS with a single codebase. This approach can be cost-effective for companies and offers developers the ability to work
+on multiple platforms. Unlock Your Potential in Mobile App Development If you are in search of a unique learning experience this is the
+place for you. We guarantee you will learn market-aligned skills through our practical and comprehensive curriculum.Project-based
+learningTechnical Mentor SupportInteractive workshops and group discussionsAccess to a dedicated online platform for course materials and
+resources.Access to a global community of learners all over Africa Mobile development, often referred to as app development, is the
+process of designing and building applications for mobile devices. It is the art and science of transforming ideas into tangible digital
+experiences tailored specifically for smartphones and tablets.Similar to creating any masterpiece, mobile development involves a
+combination of creative design, coding expertise, and seamless integration of various components. From crafting intuitive user interfaces
+to building robust back-end functionality, mobile developers work to provide users with a seamless and engaging experience.In essence,
+mobile development is about leveraging technology and data to bridge the gap between human needs and digital solutions. It’s the means by
+which we transform concepts into user-friendly applications that not only meet user expectations but also contribute to the success of
+organizations and businesses in our increasingly mobile-centric world. Mobile development was previously outside the skills of web
+developers. In this course, you’ll learn to build a mobile app using JavaScript. First, you’ll explore setting up your development
+environment and learn the fundamentals of application development. Next, we’ll discover how to create a component(feature) and use the
+core components provided by the React Native library. Finally, you’ll learn how to compile your project into an app that can be loaded on
+an actual device and distributed through both the Android and iOS app stores. This course covers JavaScript and the front-end framework
+React. You’ll also learn to create hybrid mobile applications, using the React Native framework. On the server side, you’ll learn to
+implement NoSQL databases using MongoDB, work within a Node.js environment and Express framework, and communicate to the client side
+through a RESTful API. Flexible installment plans are available Book Your Seat forFebruary 26th, 2024 Our course offers a unique blend of
+theoretical understanding and practical application, empowering you to: Mobile product managers oversee the development and launch of
+mobile apps. They bridge the gap between development teams and business stakeholders, ensuring that the app aligns with the company’s
+goals and user expectations. Students are required to dedicate 23 weeks to learning for them to succeed in this course. If you are in
+search of a unique learning experience this is the place for you. We guarantee you will learn market-aligned skills through our practical
+and comprehensive curriculum. Experienced mobile developers can transition into roles as technical writers or trainers, where they create
+documentation, tutorials, or courses to help others learn mobile development. Ksh 174, 000 Students are required to dedicate 23 weeks to
+learning for them to succeed in this course.8 hours of study from 8 am-5 pm23 weeks Similar to creating any masterpiece, mobile
+development involves a combination of creative design, coding expertise, and seamless integration of various components. From crafting
+intuitive user interfaces to building robust back-end functionality, mobile developers work to provide users with a seamless and engaging
+experience. Have basic computer skills.Proficiency in English – both spoken and written.Must have a computer or laptop ( core i5 – i7, 8GB
+RAM, 500GB memory).All classes are fully online. You are required to have access to stable internet.Must have a desire and curiosity to
+learn.Availability to attend all classes Our course offers a unique blend of theoretical understanding and practical application,
+empowering you to:Stay Ahead of the Curve– Mobile technology evolves at lightning speed. Our curriculum keeps pace with the latest trends,
+frameworks, and best practices, ensuring you’re always one step ahead.Expert Guidance– Learn from industry experts who bring their real-
+world experience into the classroom. Benefit from their mentorship and insights, setting you up for success.Hands-On Learning– Theory is
+essential, but practice makes perfect. Dive into coding exercises, collaborate on projects, and see your skills in action.In-Demand
+Skills– Stand out in a competitive job market with skills that are in high demand. Mobile app developers are sought after in various
+industries, and we’ll prepare you to excel.Career Support– Our commitment doesn’t end with the program. We provide career support to help
+you build your resume, prepare for interviews, and connect with potential employers.  You’ll master Flask, a Python web framework, before
+using it to create their own JSON API along with scalable front ends with React, creating slick, functional, and interactive applications.
+All students are required to complete an introductory pre-work one week before the start of class. Find out the pacing options available,
+the price, and more information about this course. © 2024 Moringa School. All rights reserved. Become a Moringa Certified Software
+Engineer and enjoy up to 12 months of alumni support from our Career Services Department after graduation. All students are required to
+complete an introductory pre-work one week before the start of class. During pre-work, students will get accustomed to our online learning
+management system (Canvas), set up their computing environment, and familiarise themselves with the basics of the programming languages
+that will prepare them for day 1 of the program. Flatiron School Back-end developers create the logic that instructs applications on how
+to interpret user input and what feedback to give to the user after executing the submitted request. Intake is ongoing for theFebruary
+26th, 2024Class Our Full Stack Software Engineering Curriculum covers both Back-End and Front-End programming technologies so you can
+become a full-stack developer. It’s a more extensive course of study than the average school offers but our goal is to teach you more than
+simply knowing how to code The Full-Stack Software Engineering Curriculum covers both Back-End and Front-End programming technologies
+using Python. It is an extensive course of study that not only teaches how to simply code but how to learn and tackle novel problems. By
+the end of your course, you will graduate as a full-stack developer. Practical Hands-on LearningGet job-ready with practical, hands-on
+learning. You’ll learn the in-demand market languages and skills, labs, and real-world portfolio development.Technical Mentorship1:1s with
+your instructor to work on technical concepts, plan out your pacing or check-in about your program milestones.Learn in CommunityYou may be
+learning online, but you’re not alone. You can schedule 1:1s with your instructor for added guidance.Career Coaching and Graduate
+SupportReceive career coaching and job-hunting support for up to 12 months post-graduation. Students will engage in 20-25 hours of
+learning weekly including one 3-hour lecture per week.You can either join live lectures or watch recordings as your schedule allows2-3
+hours of learning online each weekday(Evenings)8-10 hours of online learning on weekendsYou will have 1:1 sessions with your
+instructorAdditional helpdesk support on Saturdays from 9am to 12pm EAT USD 2, 000 (Ksh 200,000)Installment plans are available on
+thisinstallment plans document Students explore version control using git commands including cloning, branching, merging, rolling back
+commits, forking, and submitting pull requests. Course IncludesHTML, CSS, JavaScript, React, SQL, Python, Flask, JSON, and Redux
+Frameworks. During pre-work, students will get accustomed to our online learning management system (Canvas), set up their computing
+environment, and familiarise themselves with the basics of the programming languages that will prepare them for day 1 of the program.
+Students master the basic building blocks of how the web is rendered and become fluent in the language that makes the web beautiful. They
+additionally learn how to conceive of and build UIs for web apps by writing well-structured HTML and CSS. Become acertified
+professionalinthe most exciting careersof today and tomorrow To grow as a software engineer, you must be agile and able to learn and
+adapt, no matter the challenge that you’re given. In our program, you’ll hone communication and collaboration skills, and you’ll become
+part of the technical community as you build and share a Github portfolio. You’ll gain a thorough understanding of back-end development
+basics, while learning a new language, Python. Next, learners will get comfortable with object-oriented programming and storing
+information in databases using SQL and object-relational mapping. Front-end developers are good in HTML, CSS, JavaScript, and other front-
+end frameworks and technologies 30 Weeks They are good at creating algorithms that fetch and manipulate data stored in database systems
+using backend frameworks like Ruby, Python, and SQL. Africa’s top Tech Bootcamp – Moringa School partners with America’s Top Tech Bootcamp
+– Flatiron School, to bring you a part-time Software Engineering Course that puts you on the path to career freedom! Course IncludesHTML,
+CSS, JavaScript, React, SQL, Python, Flask, JSON, and Redux Frameworks.The Full-Stack Software Engineering Curriculum covers both Back-End
+and Front-End programming technologies using Python.It is an extensive course of study that not only teaches how to simply code but how to
+learn and tackle novel problems. By the end of your course, you will graduate as a full-stack developer. Working professionals who would
+like to study in the evening as they learn coding skills.University graduates who would like to gain practical experience in the
+workplace.High school graduates looking to get into the tech field.University students who want to supplement their degree while
+studying.Tech entrepreneurs who want to learn new languages and skills. Learners will experience ReactJS, a component-based JavaScript
+framework, and have the opportunity to pick up key industry skills by building a project that interacts with an API The program completes
+with a large-scale group project that will be guided by your technical instructor. You’ll receive plenty of instructor feedback along the
+way while diving deep into various advanced technologies needed to bring your concepts to life. JavaScript powers the user experience of
+the web. Students learn the basics of JavaScript syntax, its functional architecture, and different approaches to the object model.
+Students then learn the Document Object Model (DOM) Javascript API provided by the browser to dynamically interact with HTML. Students use
+native “vanilla” JavaScript (versus a library). Students then explore the popular Javascript framework React. Front-end developers create
+websites and applications that match user needs and expectations. Roles include designing the structure of websites and apps, optimizing
+for mobile devices, and creating features that promote ease of use. To grow as a software engineer, you must be agile and able to learn
+and adapt, no matter the challenge you are given. Communication and collaboration skills, building a project portfolio on Github, and
+being part of the tech community are some additional aspects of becoming a successful software engineer. Kickstart your journey with us.
+Online  Data Science Jobs are among the most sought-after roles according to Linkedin reports. At the end of this phase, students will be
+able to use skills to collect, organize and visualize data with the goal of providing actionable insights. Students will go through
+training with our professional development trainers in Project Management and Career Readiness. Now more than ever, industries are
+leveraging data to monitor behaviors and trends. Data Scientists are equipped with the knowledge of how to make use of data, tell a story,
+and derive insights for businesses. In order for businesses to succeed in this day and age, they need Data Scientists to fill the gaps,
+use data to set business goals, and find opportunities that could not be considered were it not for the data insights. © 2024 Moringa
+School. All rights reserved. 25 weeks Enroll now for theFebruary 12th, 2024intake Flatiron School The credits are rolling on a movie
+you’ve just concluded watching and Netflix automatically queues the preview for another movie that you might like; You’re doing some
+online shopping on Jumia and while scrolling down the product description, you notice a section that says “Most popular” that has the same
+product from different vendors at different prices; this is Data Science at work and businesses are always looking for talented
+individuals to help them analyze and draw actionable insights from their data in order to make informed business decisions. In your final
+project, learners work individually or in groups to apply the technical and soft skills training and knowledge. Students will be required
+to create a large-scale data science and/or machine learning project. This final project provides an in-depth opportunity for you to
+demonstrate your learning accomplishments and get a feel for what working on a large-scale data science project is really like. Students
+will go through training with our professional development trainers in Leading self and working with others. Students will go through
+training with our professional development trainers in Communicating for Impact & Entrepreneurial Thinking. To become a data scientist,
+you will need some understanding of Software Engineering fundamentals, Statistics, and the ability to apply all the knowledge in new and
+dynamic domains. This phase of the course focuses on a variety of Data Science techniques. Students learn about unsupervised learning
+techniques like clustering and dimensionality reduction. Students will be introduced to threading and multiprocessing to be able to work
+with big data. In doing so, you’ll learn about PySpark and AWS, and how to use those tools to build a recommendation system. You’ll also
+learn about deep learning, neural networks and how to perform sentiment analysis. In this phase, students learn about machine learning
+with a heavy focus on supervised learning. For starters, learners get into regression analysis and a new form of regression — logistic
+regression. In building regression models, students also learn penalization terms, preventing overfitting through regularization, and
+using cross-validation to validate regression models. Online | Mon to Fri from 8am – 5pm During orientation, you learn more about Moringa,
+our policies, learning model, learning platform, classroom structure, and learning schedule. In this phase, students will be introduced to
+fundamentals of python for Data Science. You’ll learn how to use Jupyter Notebooks, and will be familiarized with popular Python libraries
+that are used in data science such as Numpy and Pandas. To organize your data, you’ll learn about data structures, relational databases,
+ways to retrieve data, and the fundamentals of SQL for data querying structured databases. Furthermore, you will learn how to access data
+from various sources using API’s and perform Web scraping. Our Data Science course will teach you the technical and soft skills that will
+have you adapt faster, learn how to learn, and stay relevant in the industry for a long time. You will also learn about Dat Science
+Principles, and Software Engineering principles and dive deep into python programming. This is a course for the passionately curious that
+want to work with Data to: In phase 2, students learn about the fundamentals of probability theory like combinations and permutations.
+They also learn about statistical distributions and how to create samples, then apply this knowledge by running A/B experiments. At the
+end of this phase students will be able to build their first data science model using linear regression. Being a data scientist entails
+dealing with all aspects of a project. Often, in big companies, team leaders in charge of people with specialized skills are data
+scientists; their skill set allows them to overlook a project and guide them from start to finish. At the end of this phase, students will
+be able to build and implement the most important machine learning techniques. Become aHot Assetin the most in-demand career pathways in
+tech of the 21st century The Data Science pre-work covers introductory Data Science concepts. By the end of pre-work you will be prepared
+to dive into the course material and you will be at the same level with your coursemates. They need to test ecosystems for the businesses
+and prepare them for data scientists to run their algorithms. In short, they make sure that the data is ready to be processed and analyzed
+Ksh 174,000 ( USD 1740 )Download fees installment plans on theData Science Full-time fees installation plans document Data analysts are
+responsible for different tasks such as visualizing, transforming and manipulating the data. Sometimes they are also responsible for web
+analytics tracking and A/B testing analysis. All applicants need to meet the criteria outlined below to gain admission and succeed in the
+25 weeks program:- Data Storytelling lies right in the middle of pure, raw data and human communication. A data storyteller needs to take
+on some data, simplify it, focus it on a specific aspect, analyze its behavior, and use his insights to create a compelling story that
+helps people better understand the data. Find out the pacing options available, price, and more information about this Data Science Course
+at Moringa. Students get a 1 week break to relax and boost energies to complete the remaining modules. This is a course for the
+passionately curious that want to work with Data to:Help businesses leverage data for innovation and successInnovate and predict future
+trends in business and other industriesLearn how to analyze data, and provide data-driven insights to make decisionsElevate their careers
+or switch to Data Science in as little as 25 weeks  Data Science Jobs are among the most sought-after roles according to Linkedin reports.
+At the end of this phase, students will be able to use skills to collect, organize and visualize data with the goal of providing
+actionable insights. Students will go through training with our professional development trainers in Project Management and Career
+Readiness. Now more than ever, industries are leveraging data to monitor behaviors and trends. Data Scientists are equipped with the
+knowledge of how to make use of data, tell a story, and derive insights for businesses. In order for businesses to succeed in this day and
+age, they need Data Scientists to fill the gaps, use data to set business goals, and find opportunities that could not be considered were
+it not for the data insights. © 2024 Moringa School. All rights reserved. 25 weeks Enroll now for theFebruary 12th, 2024intake Flatiron
+School The credits are rolling on a movie you’ve just concluded watching and Netflix automatically queues the preview for another movie
+that you might like; You’re doing some online shopping on Jumia and while scrolling down the product description, you notice a section
+that says “Most popular” that has the same product from different vendors at different prices; this is Data Science at work and businesses
+are always looking for talented individuals to help them analyze and draw actionable insights from their data in order to make informed
+business decisions. In your final project, learners work individually or in groups to apply the technical and soft skills training and
+knowledge. Students will be required to create a large-scale data science and/or machine learning project. This final project provides an
+in-depth opportunity for you to demonstrate your learning accomplishments and get a feel for what working on a large-scale data science
+project is really like. Students will go through training with our professional development trainers in Leading self and working with
+others. In-person & Online | Mon to Fri from 8am – 5pm To become a data scientist, you will need some understanding of Software
+Engineering fundamentals, Statistics, and the ability to apply all the knowledge in new and dynamic domains. Students will go through
+training with our professional development trainers in Communicating for Impact & Entrepreneurial Thinking. This phase of the course
+focuses on a variety of Data Science techniques. Students learn about unsupervised learning techniques like clustering and dimensionality
+reduction. Students will be introduced to threading and multiprocessing to be able to work with big data. In doing so, you’ll learn about
+PySpark and AWS, and how to use those tools to build a recommendation system. You’ll also learn about deep learning, neural networks and
+how to perform sentiment analysis. In this phase, students learn about machine learning with a heavy focus on supervised learning. For
+starters, learners get into regression analysis and a new form of regression — logistic regression. In building regression models,
+students also learn penalization terms, preventing overfitting through regularization, and using cross-validation to validate regression
+models. Become ahot assetin the most in-demand career pathways in tech of the 21st century During orientation, you learn more about
+Moringa, our policies, learning model, learning platform, classroom structure, and learning schedule. In this phase, students will be
+introduced to fundamentals of python for Data Science. You’ll learn how to use Jupyter Notebooks, and will be familiarized with popular
+Python libraries that are used in data science such as Numpy and Pandas. To organize your data, you’ll learn about data structures,
+relational databases, ways to retrieve data, and the fundamentals of SQL for data querying structured databases. Furthermore, you will
+learn how to access data from various sources using API’s and perform Web scraping. Ksh 200, 000Download fee installment plans on theData
+Science Full-time Hybrid fees installation plans document Our Data Science course will teach you the technical and soft skills that will
+have you adapt faster, learn how to learn, and stay relevant in the industry for a long time. You will also learn about Dat Science
+Principles, and Software Engineering principles and dive deep into python programming. See below the pacing options available, price, and
+more information about this Data Science Course at Moringa. This is a course for the passionately curious that want to work with Data to:
+In phase 2, students learn about the fundamentals of probability theory like combinations and permutations. They also learn about
+statistical distributions and how to create samples, then apply this knowledge by running A/B experiments. At the end of this phase
+students will be able to build their first data science model using linear regression. Being a data scientist entails dealing with all
+aspects of a project. Often, in big companies, team leaders in charge of people with specialized skills are data scientists; their skill
+set allows them to overlook a project and guide them from start to finish. At the end of this phase, students will be able to build and
+implement the most important machine learning techniques. The Data Science pre-work covers 
