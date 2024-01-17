@@ -56,6 +56,87 @@
             "Absolutely! The program is designed to accommodate learners with no prior coding experience."
         ]
     },
+        {
+        "tag": "Software_Engineering_Course_Content",
+        "questions": [
+            "What specific technologies will I learn in the Full Stack Software Engineering Curriculum?",
+            "Tell me more about the hands-on labs and projects included in the curriculum.",
+            "How is version control covered in the course?",
+            "What is the significance of learning both front-end and back-end technologies?",
+            "Can you provide details on the instructor-led technical mentorship sessions?",
+            "What is the structure of the large-scale group project at the end of the program?",
+            "Are there any additional resources provided for further learning?",
+            "Can I access course materials after completing the program?",
+            "How does the curriculum prepare students for real-world challenges?",
+            "What kind of coding assignments can I expect in the course?"
+        ],
+        "answers": [
+            "The curriculum includes HTML, CSS, JavaScript, React, SQL, Python, Flask, JSON, and Redux Frameworks.",
+            "Hands-on labs and projects are designed to simulate real-world scenarios and enhance practical skills.",
+            "Version control using git commands, including cloning, branching, merging, rolling back commits, forking, and submitting pull requests, is covered.",
+            "Learning both front-end and back-end technologies prepares you to become a versatile full-stack developer, capable of handling end-to-end development.",
+            "Technical mentorship sessions include 1:1s with your instructor to work on technical concepts, plan out your pacing, or check-in about your program milestones.",
+            "The large-scale group project at the end of the program is guided by your technical instructor and involves diving deep into various advanced technologies.",
+            "Additional resources, labs, and real-world portfolio development are part of the program to support further learning.",
+            "You can access course materials after completing the program for ongoing reference.",
+            "The curriculum is designed to present challenges similar to those faced in real-world software engineering, preparing you for professional scenarios.",
+            "Coding assignments range from basic exercises to complex projects, ensuring a comprehensive learning experience."
+        ]
+    },
+        {
+        "tag": "Part-time_Software Engineering",
+        "questions": [
+            "What programming languages are covered in the Part-Time Software Engineering Course?",
+            "How does the part-time course differ from the full-time course in terms of duration?",
+            "Can I join live lectures or watch recordings based on my schedule?",
+            "What are the pacing options available for part-time students?",
+            "Is there a difference in the curriculum between the part-time and full-time courses?",
+            "How does the part-time course accommodate working professionals?",
+            "Are there hands-on labs and real-world projects in the part-time course?",
+            "Can part-time students access technical mentorship and career coaching?",
+            "What is the pricing structure for the part-time course?",
+            "Is there alumni support provided after completing the part-time course?"
+        ],
+        "answers": [
+            "The Part-Time Software Engineering Course covers HTML, CSS, JavaScript, React, SQL, Python, Flask, JSON, and Redux Frameworks.",
+            "The part-time course has a duration of 30 weeks, providing a more flexible schedule for learners.",
+            "Students can either join live lectures or watch recordings based on their schedule, ensuring flexibility.",
+            "Part-time students engage in 20-25 hours of learning per week, including one 3-hour lecture and additional support on Saturdays.",
+            "While the core curriculum is similar, the part-time course is adapted to accommodate a longer duration and provide flexibility for working professionals.",
+            "The part-time course is designed to accommodate working professionals, allowing them to balance learning with other commitments.",
+            "Hands-on labs, real-world projects, and a large-scale group project are integral parts of the part-time course.",
+            "Part-time students have access to 1:1 technical mentorship and career coaching for up to 12 months post-graduation.",
+            "The cost of the part-time course is USD 2,000 (Ksh 200,000), with installment plans available.",
+            "Part-time students can enjoy up to 12 months of alumni support from the Career Services Department after graduation."
+        ]
+    },
+    {
+        "tag": "Part-time_Course_Content",
+        "questions": [
+            "Can you provide details on the hands-on labs and real-world projects included in the part-time course?",
+            "How is version control covered in the part-time course?",
+            "What is the structure of the large-scale group project at the end of the part-time course?",
+            "How does the part-time course prepare students for real-world challenges?",
+            "Are there additional resources provided for further learning in the part-time course?",
+            "What kind of coding assignments can part-time students expect?",
+            "How does the part-time course balance theoretical concepts with practical skills?",
+            "Is there flexibility in the schedule for part-time students?",
+            "How is the part-time course structured to cover both front-end and back-end technologies?",
+            "Can part-time students access course materials after completing the program?"
+        ],
+        "answers": [
+            "Hands-on labs and real-world projects in the part-time course simulate real-world scenarios and enhance practical skills.",
+            "Version control using git commands, including cloning, branching, merging, rolling back commits, forking, and submitting pull requests, is covered.",
+            "The large-scale group project at the end of the part-time course is guided by a technical instructor, providing an opportunity to dive deep into advanced technologies.",
+            "The part-time course is designed to present challenges similar to those faced in real-world software engineering, preparing students for professional scenarios.",
+            "Additional resources, labs, and real-world portfolio development are part of the part-time course to support further learning.",
+            "Coding assignments in the part-time course range from basic exercises to complex projects, ensuring a comprehensive learning experience.",
+            "The part-time course balances theoretical concepts with practical skills through a combination of lectures, labs, and projects.",
+            "Part-time students have flexibility in their schedule, with the option to join live lectures or watch recordings based on their availability.",
+            "The part-time course is structured to cover both front-end and back-end technologies, providing a comprehensive full-stack learning experience.",
+            "Part-time students can access course materials after completing the program for ongoing reference."
+        ]
+    },
     {
         "tag": "Mobile Development",
         "questions": [
