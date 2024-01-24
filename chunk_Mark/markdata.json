@@ -1,0 +1,222 @@
+
+[
+{
+        "tag": "Event",
+        "questions": [
+            "When is the next graduation ceremony?",
+            "Can I attend the graduation ceremony as a guest?",
+            "Is there a live stream available for the graduation ceremony?",
+            "How can I get an invitation to the graduation ceremony?",
+            "Tell me more about the dress code for the graduation ceremony.",
+            "What time does the graduation ceremony start?",
+            "Where is the graduation ceremony venue?",
+            "How many graduates are expected at the next ceremony?",
+            "Can I bring my family to the graduation ceremony?",
+            "Are there any special guests or speakers at the graduation ceremony?"
+        ],
+        "responses": [
+            "The next graduation ceremony is scheduled for 17 Nov, 2023, from 8:30 am to 1:00 pm at Visa Oshwal Community Centre.",
+            "We invite all stakeholders, friends, and family to join us in celebrating the achievements of our graduates.",
+            "There will be a live stream link for those unable to attend in person.",
+            "Invitations will be sent to stakeholders, friends, and family. You can contact us for more information.",
+            "The dress code is casual formal. Avoid rugged jeans, shorts, and tights for a respectful atmosphere.",
+            "The graduation ceremony starts at 8:30 am and concludes at 1:00 pm.",
+            "The venue for the graduation ceremony is Visa Oshwal Community Centre.",
+            "We expect approximately 996 graduates at the upcoming ceremony.",
+            "You can bring your family to share in the celebration.",
+            "We will have special guests and speakers to make the ceremony memorable."
+        ]
+    },
+    {
+        "tag": "Full_Stack_Software_Engineering",
+        "questions": [
+            "What is the duration of the Part-time Software Engineering course?",
+            "What programming languages are covered in the Full Stack Software Engineering Curriculum?",
+            "Are there any prerequisites for enrolling in the Software Engineering program?",
+            "How much time should I dedicate to learning each week?",
+            "Tell me about the hands-on learning experience in the Software Engineering program.",
+            "Can I work while enrolled in the Software Engineering program?",
+            "What support is provided for job placement after completing the program?",
+            "Is financial aid available for the Software Engineering program?",
+            "Are there any group projects in the Software Engineering program?",
+            "How is the curriculum structured?",
+            "Can I apply if I have no prior coding experience?"
+        ],
+        "responses": [
+            "The course duration is 30 weeks.",
+            "The curriculum covers HTML, CSS, JavaScript, React, SQL, Python, JSON, and Redux Frameworks.",
+            "No prior coding knowledge is required. The program is designed for beginners and experienced learners alike.",
+            "Students are required to dedicate 6 days to learning, with 20-25 hours per week, including 3 live lectures and additional helpdesk support on Saturdays.",
+            "The program offers practical hands-on learning with real-world projects to enhance your skills.",
+            "While the program is intensive, some students find a balance with part-time work.",
+            "We provide career coaching and job-hunting support for up to 12 months post-graduation.",
+            "Candidates can take a student loan, paying N90,720 as a commitment fee and the remaining balance after securing a job.",
+            "Group projects are a key component, fostering collaboration and practical application of skills.",
+            "The curriculum is structured to cover both front-end and back-end development technologies.",
+            "Absolutely! The program is designed to accommodate learners with no prior coding experience."
+        ]
+    },
+        {
+        "tag": "Software_Engineering_Course_Content",
+        "questions": [
+            "What specific technologies will I learn in the Full Stack Software Engineering Curriculum?",
+            "Tell me more about the hands-on labs and projects included in the curriculum.",
+            "How is version control covered in the course?",
+            "What is the significance of learning both front-end and back-end technologies?",
+            "Can you provide details on the instructor-led technical mentorship sessions?",
+            "What is the structure of the large-scale group project at the end of the program?",
+            "Are there any additional resources provided for further learning?",
+            "Can I access course materials after completing the program?",
+            "How does the curriculum prepare students for real-world challenges?",
+            "What kind of coding assignments can I expect in the course?"
+        ],
+        "answers": [
+            "The curriculum includes HTML, CSS, JavaScript, React, SQL, Python, Flask, JSON, and Redux Frameworks.",
+            "Hands-on labs and projects are designed to simulate real-world scenarios and enhance practical skills.",
+            "Version control using git commands, including cloning, branching, merging, rolling back commits, forking, and submitting pull requests, is covered.",
+            "Learning both front-end and back-end technologies prepares you to become a versatile full-stack developer, capable of handling end-to-end development.",
+            "Technical mentorship sessions include 1:1s with your instructor to work on technical concepts, plan out your pacing, or check-in about your program milestones.",
+            "The large-scale group project at the end of the program is guided by your technical instructor and involves diving deep into various advanced technologies.",
+            "Additional resources, labs, and real-world portfolio development are part of the program to support further learning.",
+            "You can access course materials after completing the program for ongoing reference.",
+            "The curriculum is designed to present challenges similar to those faced in real-world software engineering, preparing you for professional scenarios.",
+            "Coding assignments range from basic exercises to complex projects, ensuring a comprehensive learning experience."
+        ]
+    },
+        {
+        "tag": "Part-time_Software Engineering",
+        "questions": [
+            "What programming languages are covered in the Part-Time Software Engineering Course?",
+            "How does the part-time course differ from the full-time course in terms of duration?",
+            "Can I join live lectures or watch recordings based on my schedule?",
+            "What are the pacing options available for part-time students?",
+            "Is there a difference in the curriculum between the part-time and full-time courses?",
+            "How does the part-time course accommodate working professionals?",
+            "Are there hands-on labs and real-world projects in the part-time course?",
+            "Can part-time students access technical mentorship and career coaching?",
+            "What is the pricing structure for the part-time course?",
+            "Is there alumni support provided after completing the part-time course?"
+        ],
+        "answers": [
+            "The Part-Time Software Engineering Course covers HTML, CSS, JavaScript, React, SQL, Python, Flask, JSON, and Redux Frameworks.",
+            "The part-time course has a duration of 30 weeks, providing a more flexible schedule for learners.",
+            "Students can either join live lectures or watch recordings based on their schedule, ensuring flexibility.",
+            "Part-time students engage in 20-25 hours of learning per week, including one 3-hour lecture and additional support on Saturdays.",
+            "While the core curriculum is similar, the part-time course is adapted to accommodate a longer duration and provide flexibility for working professionals.",
+            "The part-time course is designed to accommodate working professionals, allowing them to balance learning with other commitments.",
+            "Hands-on labs, real-world projects, and a large-scale group project are integral parts of the part-time course.",
+            "Part-time students have access to 1:1 technical mentorship and career coaching for up to 12 months post-graduation.",
+            "The cost of the part-time course is USD 2,000 (Ksh 200,000), with installment plans available.",
+            "Part-time students can enjoy up to 12 months of alumni support from the Career Services Department after graduation."
+        ]
+    },
+    {
+        "tag": "Part-time_Course_Content",
+        "questions": [
+            "Can you provide details on the hands-on labs and real-world projects included in the part-time course?",
+            "How is version control covered in the part-time course?",
+            "What is the structure of the large-scale group project at the end of the part-time course?",
+            "How does the part-time course prepare students for real-world challenges?",
+            "Are there additional resources provided for further learning in the part-time course?",
+            "What kind of coding assignments can part-time students expect?",
+            "How does the part-time course balance theoretical concepts with practical skills?",
+            "Is there flexibility in the schedule for part-time students?",
+            "How is the part-time course structured to cover both front-end and back-end technologies?",
+            "Can part-time students access course materials after completing the program?"
+        ],
+        "answers": [
+            "Hands-on labs and real-world projects in the part-time course simulate real-world scenarios and enhance practical skills.",
+            "Version control using git commands, including cloning, branching, merging, rolling back commits, forking, and submitting pull requests, is covered.",
+            "The large-scale group project at the end of the part-time course is guided by a technical instructor, providing an opportunity to dive deep into advanced technologies.",
+            "The part-time course is designed to present challenges similar to those faced in real-world software engineering, preparing students for professional scenarios.",
+            "Additional resources, labs, and real-world portfolio development are part of the part-time course to support further learning.",
+            "Coding assignments in the part-time course range from basic exercises to complex projects, ensuring a comprehensive learning experience.",
+            "The part-time course balances theoretical concepts with practical skills through a combination of lectures, labs, and projects.",
+            "Part-time students have flexibility in their schedule, with the option to join live lectures or watch recordings based on their availability.",
+            "The part-time course is structured to cover both front-end and back-end technologies, providing a comprehensive full-stack learning experience.",
+            "Part-time students can access course materials after completing the program for ongoing reference."
+        ]
+    },
+    {
+        "tag": "Mobile Development",
+        "questions": [
+            "What is the duration of the Software Engineering Mobile Track?",
+            "Who is the ideal candidate for this mobile development course?",
+            "Can you provide an overview of the curriculum and technologies covered?",
+            "How is the learning experience structured for mobile development students?",
+            "What career opportunities are available after completing the mobile track?",
+            "Is there flexibility in the pacing options for the course?",
+            "Can you elaborate on the role of QA testers in mobile app development?",
+            "How do mobile developers use frameworks like React Native?",
+            "What are the prerequisites for enrolling in the course?",
+            "How does the course prepare students for real-world mobile development projects?"
+        ],
+        "answers": [
+            "The duration of the course is 23 weeks.",
+            "The ideal candidates are aspiring mobile app developers, junior developers, IT professionals, and entrepreneurs.",
+            "The curriculum covers JavaScript, React Native, MongoDB, Node.js, Express framework, and RESTful API.",
+            "The learning experience includes project-based learning, technical mentor support, and interactive workshops.",
+            "Job opportunities include roles such as mobile app developers, QA testers, and mobile product managers.",
+            "There are flexible installment plans available for the course.",
+            "QA testers are responsible for testing mobile apps to identify and report bugs, usability issues, and performance problems.",
+            "Cross-platform developers use frameworks like React Native to build applications for both Android and iOS with a single codebase.",
+            "Prerequisites include basic computer skills, proficiency in English, and access to stable internet.",
+            "The course combines theoretical understanding with practical application, preparing students for real-world mobile development challenges."
+        ]
+    }
+    ,
+    {
+        "tag": "Partnership",
+        "questions": [
+            "Tell me more about the partnership between Moringa School and Impact Hub Accra.",
+            "What benefits does the partnership offer to students?",
+            "How can students get involved in collaborative projects through the partnership?",
+            "Are there any events or workshops organized as part of the partnership?",
+            "Can students from other regions participate in the Impact Hub Accra partnership?",
+            "Who are the key individuals involved in the partnership?",
+            "What is the goal of the collaboration between Moringa School and Impact Hub Accra?",
+            "How does the partnership contribute to the overall learning experience?",
+            "Are there any internship opportunities through the partnership?",
+            "Can students access resources at Impact Hub Accra during the program?"
+        ],
+        "responses": [
+            "The partnership aims to foster collaboration and support for tech education. Key individuals involved include Nelly Agyemang-Gyamfi, Kelechi Victor Ofoegbu, and Setriakor Nyomi.",
+            "The partnership provides additional networking opportunities, access to resources, and collaborative projects for students.",
+            "Students can engage in collaborative projects by expressing interest and participating in events organized through the partnership.",
+            "Various events and workshops are organized as part of the partnership to enrich the student experience.",
+            "While the physical hub is in Accra, the partnership offers opportunities for remote collaboration, allowing students from other regions to participate.",
+            "The goal is to nurture African talent, advance tech in Africa, and create opportunities for students through collaborative projects.",
+            "The collaboration enhances the overall learning experience by providing real-world exposure and industry connections.",
+            "Internship opportunities may arise through the partnership, providing valuable industry experience for students.",
+            "Students can access resources at Impact Hub Accra, contributing to a rich and supportive learning environment.",
+            "Absolutely! The partnership creates opportunities for students to immerse themselves in a broader tech community."
+        ]
+    },
+    {
+        "tag": "Contact",
+        "questions": [
+            "How can I reach the Admissions team?",
+            "What is the email address for general inquiries?",
+            "Is there a WhatsApp contact for inquiries?",
+            "Can I visit the Ngong Lane Plaza in person for assistance?",
+            "What are the office hours for contacting the admissions team?",
+            "How soon can I expect a response to my email inquiry?",
+            "Is there a dedicated helpline for urgent matters?",
+            "Can I schedule a campus tour?",
+            "What social media channels can I use to connect with Moringa School?",
+            "Are there local offices or representatives for international inquiries?"
+        ],
+        "responses": [
+            "You can reach the Admissions team through the official Moringa School website or by emailing admissions@moringaschool.com.",
+            "For general inquiries, you can contact info@moringaschool.com.",
+            "You can contact the admissions team via WhatsApp at +254 798 123 852.",
+            "You can visit Ngong Lane Plaza in person for assistance. The address is Ngong Lane Plaza, 4th Floor, Ngong Lane, Nairobi, Kenya.",
+            "The office hours for contacting the admissions team are Monday to Friday, 9:00 am to 5:00 pm.",
+            "We strive to respond to email inquiries within 24-48 hours.",
+            "For urgent matters, you can contact the dedicated helpline at +254 798 123 852.",
+            "You can schedule a campus tour through the official Moringa School website.",
+            "Connect with Moringa School on social media through Facebook, Twitter, LinkedIn, and Instagram.",
+            "For international inquiries, you can reach out to our local offices or representatives who will provide assistance."
+        ]
+    }
+        ]
