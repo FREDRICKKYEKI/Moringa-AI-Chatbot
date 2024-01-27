@@ -76,5 +76,17 @@ Moringa School, a learning accelerator in Nairobi, Kenya, has experienced substa
 * Structure and length of questions and responses.
 * Common themes and word frequencies.
 
-![Alt Text](images/intents_bar_chart.png)
+![Intent distribution](images/intents_bar_chart.png)
+
+Findings;
+In the dataset, there are a total of 10 unique intents, each representing a specific category or topic.
+On average, each intent contains approximately 52.40 questions. This statistic provides insight into the typical number of questions associated with each intent.
+The median number of questions per intent is 30. This means that half of the intents have 30 or fewer questions, while the other half contains more than 30 questions. The median helps us understand the central tendency of question counts.
+
+![Alt Text](images/question_response_lengths_histogram.png)
+
+* The blue bars (questions) are clustered more towards the left side of the graph, indicating that most questions are shorter in length. The tallest blue bar, indicating the highest frequency, falls in the range of 0-10 words approximately.
+* The red bars (responses) show a wider distribution across the word count, suggesting that responses have a more varied length. The tallest red bar is in the range of 10-20 words.
+* The blue bars (questions) have a peak frequency much higher than the red bars (responses), suggesting that there is a common word count range where most questions fall.
+
 
