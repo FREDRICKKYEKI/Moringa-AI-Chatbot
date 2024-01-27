@@ -2,6 +2,7 @@
 ## Moringa-AI-Chatbot
 AI Chatbot for Moringa School
 ![](./images/director_shot.jpeg)
+
 **Authors**: 
 * Fredrick 
 * Angela 
