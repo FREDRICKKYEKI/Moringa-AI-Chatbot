@@ -24,4 +24,6 @@ AI Chatbot for Moringa School
 
   ***
   ## Overview
+The primary objective of this project is to develop an ** AI chatbot for Moringa School's website** . The chatbot aims to understand user queries, connect users to key information about courses and enrollment, and provide technical support for any issues faced by visitors. The chatbot will leverage Natural Language Toolkit (NLTK) for natural language processing, ensuring a comprehensive understanding of user inquiries.
+
 
