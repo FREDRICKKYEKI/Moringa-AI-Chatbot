@@ -58,8 +58,21 @@ Moringa School, a learning accelerator in Nairobi, Kenya, has experienced substa
 
 2. Web Scraper**: Utilizes links from scraped_links.json to extract text content from corresponding web pages. Text data is then saved in moringa_text_corpus.json.
 
-* Data Files:
+* **Data Files**:
 
 * **scraped_links.json**: Contains unique URLs obtained during link scraping.
 * **moringa_text_corpus.json**: Stores text content in a structured format, associating each link with a list of unique text snippets.
 
+***
+## Exploratory Data Analysis (EDA)
+**Objectives**:
+
+* Thoroughly examine the dataset of intents, questions, and responses.
+* Understand the distribution and nature of the data.
+* Identify patterns and uncover insights to guide the AI Chatbot development.
+**Key Areas of Analysis**:
+
+* Diversity of intents.
+* Structure and length of questions and responses.
+* Common themes and word frequencies.
+![Alt Text](images/intents_bar_chart.jpg)
