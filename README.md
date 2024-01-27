@@ -16,10 +16,12 @@ AI Chatbot for Moringa School
 - [Overview](#overview)
 - [Business Problem](#businessproblem)
 - [Data Understanding](#dataunderstanding)
+- [Data Preparation](#datapreparation)
 - [Exploratory Data Analysis (EDA) ](#exploratorydataanalysis(EDA))
 - [Modeling](#modeling)
 - [Evaluations](#evaluations)
 - [Conclusions and Recommendations](#conclusionsandrecommendations)
 
   ***
-  
+  ## Overview
+
