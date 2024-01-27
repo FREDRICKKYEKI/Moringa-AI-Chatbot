@@ -1,8 +1,11 @@
 # Capstone Project
-**
+
+***
+
 ![](./images/image 2.png)
 
-**
+***
+
 ## Moringa-AI-Chatbot
 AI Chatbot for Moringa School
 
