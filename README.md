@@ -1,16 +1,16 @@
 # Capstone Project
 ## Moringa-AI-Chatbot
 AI Chatbot for Moringa School
-![](./images/director_shot.jpeg)
+![](./images/image 2.png)
 
 **Authors**: 
-* Fredrick 
-* Angela 
-* Mark
-* Peninnah
-* Dennis
-* Samuel
-* Kelvin
+* Fredrick Kyeki
+* Angela Nyaga
+* Mark Kimanthi
+* Peninah Gituku
+* Dennis Mutuku
+* Samuel Gichaga
+* Kelvin Muia
 
 ### Contents
 - [Overview](#overview)
@@ -151,7 +151,12 @@ Moringa School, a learning accelerator in Nairobi, Kenya, has experienced substa
 ![Alt Text](images/model6.png)
 ![Alt Text](images/model7.png)
 
+***
 
+## Evaluation
+
+***
+## Conclusions and Recommendations
 
 
 
