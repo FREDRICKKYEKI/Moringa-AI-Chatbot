@@ -76,17 +76,39 @@ Moringa School, a learning accelerator in Nairobi, Kenya, has experienced substa
 * Structure and length of questions and responses.
 * Common themes and word frequencies.
 
+**Intent distribution**
+
 ![Intent distribution](images/intents_bar_chart.png)
 
-Findings;
-In the dataset, there are a total of 10 unique intents, each representing a specific category or topic.
-On average, each intent contains approximately 52.40 questions. This statistic provides insight into the typical number of questions associated with each intent.
-The median number of questions per intent is 30. This means that half of the intents have 30 or fewer questions, while the other half contains more than 30 questions. The median helps us understand the central tendency of question counts.
+**Findings**
+* In the dataset, there are a total of 10 unique intents, each representing a specific category or topic.
+* On average, each intent contains approximately 52.40 questions. This statistic provides insight into the typical number of questions associated with each intent.
+* The median number of questions per intent is 30. This means that half of the intents have 30 or fewer questions, while the other half contains more than 30 questions. The median helps us understand the central tendency of question counts.
+
+**Question and Response Length Analysis**
 
 ![Alt Text](images/question_response_lengths_histogram.png)
 
+**Findings**
 * The blue bars (questions) are clustered more towards the left side of the graph, indicating that most questions are shorter in length. The tallest blue bar, indicating the highest frequency, falls in the range of 0-10 words approximately.
 * The red bars (responses) show a wider distribution across the word count, suggesting that responses have a more varied length. The tallest red bar is in the range of 10-20 words.
 * The blue bars (questions) have a peak frequency much higher than the red bars (responses), suggesting that there is a common word count range where most questions fall.
 
+**Word Frequency Analysis**
 
+![Alt Text](images/most_common_words_bar_chart.png)
+![Alt Text](images/Capture.png)
+
+**Findings**
+* The analysis provides insights into the key themes and topics present in the dataset.
+* The most common words reflect a strong emphasis on courses, data science, Moringa, and educational aspects.
+* With 'course' being the most frequent word, the dataset places a substantial emphasis on educational offerings.
+* 'data,' 'science,' and 'moringa' indicate a strong focus on data science education, aligning with industry and institutional themes.
+* The repetition of terms like 'student,' 'develop,' and 'learn' underscores a learner-centric approach in the dataset.
+**Bi-grams and Tri-grams Analysis**
+![Alt Text](images/most_common_ngrams_subplot.png)
+
+**Findings**
+
+* On the left, the bi-grams bar chart shows that "data science" is the most frequent bi-gram, followed by "moringa school" and others.
+* On the right, the tri-grams bar chart indicates "data science course" as the most frequent tri-gram, with a notable drop in frequency for subsequent tri-grams
