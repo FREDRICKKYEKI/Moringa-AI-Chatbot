@@ -112,3 +112,48 @@ Moringa School, a learning accelerator in Nairobi, Kenya, has experienced substa
 
 * On the left, the bi-grams bar chart shows that "data science" is the most frequent bi-gram, followed by "moringa school" and others.
 * On the right, the tri-grams bar chart indicates "data science course" as the most frequent tri-gram, with a notable drop in frequency for subsequent tri-grams
+
+***
+## Modeling
+
+**Base Model Performance**
+
+![Alt Text](images/base_model.png)
+![Alt Text](images/base_model1.png)
+
+**Findings**
+*The base model demonstrates a high training accuracy of approximately 98%, suggesting effective learning from the training data*.
+*However, a significant performance gap is observed, with the validation accuracy plateauing at 30-40%, raising concerns about overfitting*.
+*The validation loss notably increases in later epochs, reaching around 9.8, further reinforcing overfitting concerns*.
+*To address these issues, recommendations include incorporating both questions and responses in the training data for a more comprehensive understanding, implementing regularization techniques to mitigate overfitting, and exploring performance improvement measures such as learning rate tuning and optimizing hidden layers*.
+*Additionally, testing different vectorization methods like TFIDF and embeddings is suggested, with the option to consider alternative deep learning models if necessary*.
+
+**Train on both questions and responses**
+
+![Alt Text](images/model.png)
+![Alt Text](images/model1.png)
+
+**Findings**
+*The model exhibits notable improvement, with training accuracy at approximately 99.42% and validation accuracy at around 58.78%*.
+*Despite this progress, there is potential for further enhancement in the validation accuracy*.
+
+**Regularization - Dropout regularization**
+
+![Alt Text](images/model2.png)
+![Alt Text](images/model3.png)
+**Optimize the number of hidden layers:**
+
+![Alt Text](images/model4.png)
+![Alt Text](images/model5.png)
+
+**Term Frequency * Inverse Document Frequency (TFIDF) vectorization**
+
+![Alt Text](images/model6.png)
+![Alt Text](images/model7.png)
+
+
+
+
+
+
+
