@@ -20,4 +20,6 @@ AI Chatbot for Moringa School
 - [Modeling](#modeling)
 - [Evaluations](#evaluations)
 - [Conclusions and Recommendations](#conclusionsandrecommendations)
-- [Repository Structure](#repository-structure)
+
+  ***
+  
