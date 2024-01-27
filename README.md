@@ -11,3 +11,13 @@ AI Chatbot for Moringa School
 * Dennis
 * Samuel
 * Kelvin
+
+### Contents
+- [Overview](#overview)
+- [Business Problem](#businessproblem)
+- [Data](#data)
+- [Methods](#methods)
+- [Results](#results)
+- [Built with](#built-with)
+- [Authors](#authors)
+- [Repository Structure](#repository-structure)
