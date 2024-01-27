@@ -75,4 +75,6 @@ Moringa School, a learning accelerator in Nairobi, Kenya, has experienced substa
 * Diversity of intents.
 * Structure and length of questions and responses.
 * Common themes and word frequencies.
-![Alt Text](images/intents_bar_chart.jpg)
+
+![Alt Text](images/intents_bar_chart.png)
+
