@@ -25,6 +25,8 @@
 ## Moringa-AI-Chatbot
 AI Chatbot for Moringa School
 
+***
+
 **Authors**: 
 * Fredrick Kyeki
 * Angela Nyaga
