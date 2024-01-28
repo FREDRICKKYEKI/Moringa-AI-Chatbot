@@ -28,7 +28,12 @@ const ChatLogoDiv = styled.div`
 export const Brand = () => {
   return (
     <div>
-      <P>AI Chatbot</P>
+      <P>
+        Talk to{" "}
+        <span>
+          <b className="color-prim">Tawi</b>
+        </span>
+      </P>
       <Img src="moringa_logo.png" alt="moringa_logo" />
       <ChatLogoDiv>
         <ChatLogo src="logo.svg" alt="moringa_logo" />

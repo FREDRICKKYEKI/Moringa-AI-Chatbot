@@ -7,6 +7,42 @@
   --sec-light: #101f3cad;
 }
 
+.color-prim {
+  color: var(--prim);
+}
+
+.color-sec {
+  color: var(--sec);
+}
+
+.color-tert {
+  color: var(--tert);
+}
+
+.color-prim-light {
+  color: var(--prim-light);
+}
+
+.color-sec-light {
+  color: var(--sec-light);
+}
+
+.bg-prim {
+  background-color: var(--prim);
+}
+
+.bg-sec {
+  background-color: var(--sec);
+}
+
+.bg-tert {
+  background-color: var(--tert);
+}
+
+.bg-prim-light {
+  background-color: var(--prim-light);
+}
+
 @font-face {
   font-family: Gotham Rounded;
   src: url(fonts/GothamRounded-Book.otf);

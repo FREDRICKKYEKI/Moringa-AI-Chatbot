@@ -103,6 +103,14 @@ async function parsePrediction(
  */
 export async function getBotResponse(userInput: string) {
   try {
+    if (greet_inputs.includes(userInput.toLowerCase())) {
+      return createGreeting(userInput);
+    }
+
+    if (bye_inputs.includes(userInput.toLowerCase())) {
+      return createBye(userInput);
+    }
+
     const model = await loadModel();
 
     const { vector } = await vectorizeUserInput(userInput);
@@ -127,4 +135,34 @@ export const loadingBubbleState: ConversationProps = {
   author: null,
   text: "Typing...",
   time: new Date(),
+};
+
+export const greet_inputs = ["hey", "hello", "hi", "whassup", "how are you ?"];
+
+export const greet_responses = ["Hello there!", "Hi!", "Hey !", "Hi there!"];
+
+export const bye_inputs = ["bye", "see you", "goodbye", "see you later"];
+
+export const createGreeting = (userInput: string) => {
+  const randomIndex = Math.floor(Math.random() * greet_responses.length);
+  const greeting: PredictionProps = {
+    id: crypto.randomUUID(),
+    user_input: userInput,
+    response: greet_responses[randomIndex] + " How can I help you?",
+    time: new Date().toLocaleDateString(),
+  };
+
+  return greeting;
+};
+
+export const createBye = (userInput: string) => {
+  const randomIndex = Math.floor(Math.random() * bye_inputs.length);
+  const bye: PredictionProps = {
+    id: crypto.randomUUID(),
+    user_input: userInput,
+    response: bye_inputs[randomIndex] + "Thanks for visiting!",
+    time: new Date().toLocaleTimeString(),
+  };
+
+  return bye;
 };

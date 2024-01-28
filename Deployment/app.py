@@ -64,7 +64,6 @@ def vectorize():
 
     # vectorize the text
     vectorized_txt = vectorizer.transform(prep_text)
-    print(vectorized_txt)
     return make_response({"user_input": body.get("user_input"),
                           "vector": vectorized_txt.todense().tolist(),
                           "time": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")

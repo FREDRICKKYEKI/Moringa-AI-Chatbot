@@ -68,12 +68,13 @@ export const PromptInput = () => {
       loadingBubbleState,
     ]);
 
+    const conversationCopy: ConversationProps[] = [
+      ...conversation,
+      userPrompt,
+      loadingBubbleState,
+    ];
+
     getBotResponse(value).then((response) => {
-      const conversationCopy: ConversationProps[] = [
-        ...conversation,
-        userPrompt,
-        loadingBubbleState,
-      ];
       conversationCopy.pop();
       setConversation([
         ...conversationCopy,

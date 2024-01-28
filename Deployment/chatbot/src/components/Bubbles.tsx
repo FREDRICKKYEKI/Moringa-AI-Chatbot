@@ -48,11 +48,25 @@ function LoadingBubble() {
 }
 
 function BotBubble(props: ConversationProps) {
+  let text = props.text;
+  if (text.includes("website")) {
+    text = text.replace(
+      "website",
+      `<a href="https://moringaschool.com/" target="_blank">website</a>`
+    );
+  }
   return (
     <div className="bot-bubble-wrapper">
       <BotDiv id={`bubble-${props.id}`}>
         <BotImg src="logo.svg" alt="chat_logo" />
-        <p className="">{props.text}</p>
+        <p
+          dangerouslySetInnerHTML={{
+            __html: props.text.replace(
+              "website",
+              `<a href="https://moringaschool.com/" target="_blank">website</a>`
+            ),
+          }}
+        ></p>
       </BotDiv>
     </div>
   );

@@ -26,14 +26,11 @@ export const Responses = () => {
   useEffect(() => {
     const lastConv = conversation[conversation.length - 1];
     if (!lastConv) return;
-    const recentBubble = document.getElementById(`bubble-${lastConv.id}`);
-    if (recentBubble) {
-      recentBubble.scrollIntoView({ behavior: "smooth" });
-    }
+    document.getElementById("conv-wrapper")?.scrollTo(0, 100000000);
   }, [conversation]);
 
   return (
-    <ConversationWrapper className="conv-wrapper">
+    <ConversationWrapper id="conv-wrapper" className="conv-wrapper">
       {conversation.length !== 0 ? (
         conversation.map((conv: ConversationProps) => (
           <Bubble key={conv.id} {...conv} />

@@ -45,10 +45,9 @@ def get_response_list(class_: str = None) -> list[str]:
     responses = []
     for intent in intents:
         # **
-        if class_ and intent["tag"] == class_:
+        if intent["tag"] == class_:
             responses += intent["responses"]
-        else:
-            responses += intent["responses"]
+
     return responses
 
 def classify_text(text: str) -> dict:
@@ -76,6 +75,7 @@ def similarity(input_str: str, category: str) -> str:
     """
     max_ratio = 0
     most_similar_str = None
+    input_str = input_str.lower()
 
     for str_item in get_response_list(category):
         similarity_ratio = SequenceMatcher(None, input_str, str_item).ratio()
