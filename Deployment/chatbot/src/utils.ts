@@ -7,6 +7,12 @@ const on_fail_response =
 
 type authorType = "user" | "bot" | "system" | null;
 
+function url(route: string) {
+  if (window && (window as any).mode)
+    return `${window.location.href}/${route}`;
+  return `http://localhost:3333/${route}`;
+}
+
 /**
  * Represents a conversation between the user and the bot.
  */
@@ -36,7 +42,7 @@ interface PredictionProps {
  * @returns The vectorized user input.
  */
 async function vectorizeUserInput(userInput: string) {
-  const response = await fetch("http://localhost:3333/vectorize", {
+  const response = await fetch(url("vectorize"), {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
@@ -77,7 +83,7 @@ async function parsePrediction(
   userInput: string,
   prediction: Float32Array | Int32Array | Uint8Array
 ) {
-  const response = await fetch("http://localhost:3333/response", {
+  const response = await fetch(url("response"), {
     method: "POST",
     headers: {
       "Content-Type": "application/json",

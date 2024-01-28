@@ -28,7 +28,6 @@ def page_not_found(_):
     return (jsonify({"error": "Not found"}), 404)
 
 
-
 @app.route('/<path:resource>')
 def get_resource(resource):
     return send_from_directory(__public_dir__, resource)
@@ -41,14 +40,12 @@ def status():
     """
     return jsonify({"status": "OK"})
 
-
 @app.get("/")
 def index():
     """
     Return index file
     """
-    return render_template('index.html', title="", movies=[], home=True)
-
+    return render_template('index.html', mode="window.mode=1")
 
 @app.post("/vectorize")
 def vectorize():
