@@ -34,6 +34,8 @@ AI Chatbot for Moringa School
 * Samuel Gichaga
 * Kelvin Muia
 
+***
+
 ### Contents
 - [Overview](#overview)
 - [Business Understanding](#businessunderstanding)
