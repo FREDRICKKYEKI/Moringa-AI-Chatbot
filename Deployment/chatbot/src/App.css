@@ -2,4 +2,61 @@
   --prim: #fa510f;
   --sec: #101f3c;
   --tert: #0a96c1;
+  --light-gray: #efefef;
+  --prim-light: #fa520fa1;
+  --sec-light: #101f3cad;
+}
+
+@font-face {
+  font-family: Gotham Rounded;
+  src: url(fonts/GothamRounded-Book.otf);
+}
+
+@font-face {
+  font-family: Gotham Rounded;
+  src: url(fonts/GothamRounded-Bold.otf);
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: Gotham Rounded;
+  src: url(fonts/GothamRounded-Medium.otf);
+  font-weight: 500;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Gotham Rounded;
+  color: var(--sec);
+}
+
+body {
+  background-color: var(--light-gray);
+  height: 100vh;
+}
+
+#root {
+  height: 100%;
+}
+._brand {
+  position: relative;
+}
+
+.user-bubble-wrapper {
+  display: flex;
+  padding: 10px;
+  justify-content: flex-end;
+}
+
+.bot-bubble-wrapper {
+  display: flex;
+  padding: 10px;
+  justify-content: flex-start;
+}
+
+[data-loading="true"] {
+  opacity: 0.5;
+  border: 1px solid var(--light-gray);
 }
