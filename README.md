@@ -96,6 +96,7 @@ Moringa School, a learning accelerator in Nairobi, Kenya, has experienced substa
 * Thoroughly examine the dataset of intents, questions, and responses.
 * Understand the distribution and nature of the data.
 * Identify patterns and uncover insights to guide the AI Chatbot development.
+  
 **Key Areas of Analysis**:
 
 * Diversity of intents.
