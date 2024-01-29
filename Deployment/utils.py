@@ -4,6 +4,8 @@ This file contains the functions used for text classification and similarity
 """
 import json
 from difflib import SequenceMatcher
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
 from joblib import load
 import numpy as np
 import nltk
@@ -28,6 +30,16 @@ lemmer = nltk.stem.WordNetLemmatizer()
 with open("../Final_Intents.json") as f:
     intents = json.load(f)
 
+responses = []
+questions =[]
+for intent in intents:
+    responses += intent["responses"]
+    questions += intent["questions"]
+
+# Initialize the TF-IDF vectorizer
+tfidf_vectorizer = TfidfVectorizer()
+
+
 def clean_text(sentence):
     lower = sentence.lower()
     ignoreLetters = ['?', '!', '.', ',', '/']
@@ -47,7 +59,6 @@ def get_response_list(class_: str = None) -> list[str]:
         # **
         if intent["tag"] == class_:
             responses += intent["responses"]
-
     return responses
 
 def classify_text(text: str) -> dict:
@@ -69,7 +80,6 @@ def classify_text(text: str) -> dict:
 
     return results
 
-
 def similarity(input_str: str, category: str) -> str:
     """Gets the most similar string
     """
@@ -84,6 +94,29 @@ def similarity(input_str: str, category: str) -> str:
             most_similar_str = str_item
 
     return most_similar_str
+
+def similarity_(question, class_):
+    # Combine the question and answer lists
+    corpus = get_response_list(class_)
+
+    # Initialize the TF-IDF vectorizer
+    tfidf_vectorizer = TfidfVectorizer()
+
+    # Fit and transform the corpus
+    tfidf_matrix = tfidf_vectorizer.fit_transform(corpus)
+
+    # Transform the question into TF-IDF representation
+    question_tfidf = tfidf_vectorizer.transform([question])
+
+    # Calculate cosine similarity between the question and each answer
+    similarity_scores = cosine_similarity(question_tfidf, tfidf_matrix)
+
+    # Find the index of the answer with the highest similarity score
+    max_similarity_index = similarity_scores.argmax()
+
+    # Return the answer corresponding to the highest similarity score
+    return corpus[max_similarity_index]
+
 
 
 # entity classification

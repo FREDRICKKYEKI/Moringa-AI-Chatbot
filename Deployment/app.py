@@ -3,13 +3,13 @@
 Returns the status of our application
 """
 import datetime
+import uuid
 from flask import Flask, jsonify, render_template, send_from_directory,\
     request, make_response
 from flask_cors import CORS
 import nltk
 from config import __port__, __public_dir__, __template_dir__
-from utils import  vectorizer, clean_text, label_encoder, similarity
-import uuid
+from utils import  vectorizer, clean_text, label_encoder, similarity, similarity_
 
 
 # download the punkt tokenizer
@@ -90,7 +90,7 @@ def response():
     max_index = vector.index(max_value)
     class_key = max_index % len(list(label_encoder.classes_))
     category = label_encoder.classes_[class_key]
-    bot_response = similarity(body.get("user_input"), category)
+    bot_response = similarity_(body.get("user_input"), category)
 
     return make_response({
         "id": uuid.uuid4(),
