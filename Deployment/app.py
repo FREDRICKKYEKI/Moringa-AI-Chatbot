@@ -30,6 +30,9 @@ def page_not_found(_):
 
 @app.route('/<path:resource>')
 def get_resource(resource):
+    """Serve static resources
+    """
+    print(__public_dir__+resource)
     return send_from_directory(__public_dir__, resource)
 
 

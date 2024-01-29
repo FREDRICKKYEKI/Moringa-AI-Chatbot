@@ -1,1 +1,80 @@
-:root{--prim: #fa510f;--sec: #101f3c;--tert: #0a96c1;--light-gray: #efefef;--prim-light: #fa520fa1;--sec-light: #101f3cad}.color-prim{color:var(--prim)}.color-sec{color:var(--sec)}.color-tert{color:var(--tert)}.color-prim-light{color:var(--prim-light)}.color-sec-light{color:var(--sec-light)}.bg-prim{background-color:var(--prim)}.bg-sec{background-color:var(--sec)}.bg-tert{background-color:var(--tert)}.bg-prim-light{background-color:var(--prim-light)}@font-face{font-family:Gotham Rounded;src:url(fonts/GothamRounded-Book.otf)}@font-face{font-family:Gotham Rounded;src:url(fonts/GothamRounded-Bold.otf);font-weight:700}@font-face{font-family:Gotham Rounded;src:url(fonts/GothamRounded-Medium.otf);font-weight:500}*{margin:0;padding:0;box-sizing:border-box;font-family:Gotham Rounded;color:var(--sec)}body{background-color:var(--light-gray);height:100vh}#root{height:100%}._brand{position:relative}.user-bubble-wrapper{display:flex;padding:10px;justify-content:flex-end}.bot-bubble-wrapper{display:flex;padding:10px;justify-content:flex-start}[data-loading=true]{opacity:.5;border:1px solid var(--light-gray)}
+:root {
+  --prim: #fa510f;
+  --sec: #101f3c;
+  --tert: #0a96c1;
+  --light-gray: #efefef;
+  --prim-light: #fa520fa1;
+  --sec-light: #101f3cad;
+}
+.color-prim {
+  color: var(--prim);
+}
+.color-sec {
+  color: var(--sec);
+}
+.color-tert {
+  color: var(--tert);
+}
+.color-prim-light {
+  color: var(--prim-light);
+}
+.color-sec-light {
+  color: var(--sec-light);
+}
+.bg-prim {
+  background-color: var(--prim);
+}
+.bg-sec {
+  background-color: var(--sec);
+}
+.bg-tert {
+  background-color: var(--tert);
+}
+.bg-prim-light {
+  background-color: var(--prim-light);
+}
+@font-face {
+  font-family: Gotham Rounded;
+  src: url(fonts/GothamRounded-Book.otf);
+}
+@font-face {
+  font-family: Gotham Rounded;
+  src: url(fonts/GothamRounded-Bold.otf);
+  font-weight: 700;
+}
+@font-face {
+  font-family: Gotham Rounded;
+  src: url(fonts/GothamRounded-Medium.otf);
+  font-weight: 500;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Gotham Rounded;
+  color: var(--sec);
+}
+body {
+  background-color: var(--light-gray);
+  height: 100vh;
+}
+#root {
+  height: 100%;
+}
+._brand {
+  position: relative;
+}
+.user-bubble-wrapper {
+  display: flex;
+  padding: 10px;
+  justify-content: flex-end;
+}
+.bot-bubble-wrapper {
+  display: flex;
+  padding: 10px;
+  justify-content: flex-start;
+}
+[data-loading="true"] {
+  opacity: 0.5;
+  border: 1px solid var(--light-gray);
+}
