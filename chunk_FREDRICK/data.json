@@ -124,5 +124,32 @@
             "The duration to complete the Software Engineering Mobile Track at Moringa School depends on the specific program. You can find detailed information on the duration by referring to the official Moringa School course catalog or contacting the admissions team.",
             "Success stories and testimonials from individuals who completed the Software Engineering Mobile Track can be found on the official Moringa School website or by reaching out to the alumni network. These stories highlight their achievements and experiences."
         ]
+    },
+    {
+        "tag": "Quality_Assurance_Testers",
+        "questions": [
+            "What role do Quality Assurance Testers play in the software development process?",
+            "Can you provide details about the training and curriculum for Quality Assurance Testers at Moringa School?",
+            "What skills are emphasized in the Quality Assurance Tester programs offered by Moringa School?",
+            "Are there any prerequisites for individuals interested in becoming Quality Assurance Testers at Moringa School?",
+            "How does Moringa School prepare students for real-world testing scenarios and challenges in Quality Assurance?",
+            "Tell me about the instructors and industry professionals involved in teaching Quality Assurance Testing at Moringa School.",
+            "Are there any practical projects or case studies conducted by students in the Quality Assurance Tester programs?",
+            "What career opportunities are available for graduates specializing in Quality Assurance Testing?",
+            "How long does it take to complete the Quality Assurance Tester programs at Moringa School?",
+            "Can you share success stories or testimonials from individuals who completed the Quality Assurance Tester programs?"
+        ],
+        "responses": [
+            "Understand the crucial role Quality Assurance Testers play in ensuring the quality of software during the development process.",
+            "Explore the training and curriculum designed for individuals aspiring to become Quality Assurance Testers at Moringa School.",
+            "Discover the key skills emphasized in the Quality Assurance Tester programs, equipping students for success in software testing.",
+            "Check the prerequisites for individuals interested in pursuing a career as Quality Assurance Testers at Moringa School to streamline the enrollment process.",
+            "Learn how Moringa School's programs prepare students for real-world testing scenarios and challenges in the field of Quality Assurance.",
+            "Meet the experienced instructors and industry professionals dedicated to teaching Quality Assurance Testing at Moringa School.",
+            "Explore practical projects and case studies conducted by students in the Quality Assurance Tester programs, showcasing their testing expertise.",
+            "Understand the diverse career opportunities available for graduates specializing in Quality Assurance Testing after completing the programs.",
+            "Find out the expected duration of the Quality Assurance Tester programs at Moringa School to plan your learning journey.",
+            "Read success stories and testimonials from individuals who successfully completed the Quality Assurance Tester programs, highlighting their achievements and experiences."
+        ]
     }
 ]
