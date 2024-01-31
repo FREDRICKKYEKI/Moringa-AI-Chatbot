@@ -1,56 +1,33 @@
-# Capstone Project
-
-***
-
-
-
-
-
-
-
-
-![](./images/image2.png)
-
-
-
-
-
-
-
-
-
-
-***
-
-## Moringa-AI-Chatbot
+# Data Science Capstone Project - TAWI AI Chatbot
 AI Chatbot for Moringa School
-
 ***
-
-**Authors**: 
-* Fredrick Kyeki
-* Angela Nyaga
-* Mark Kimanthi
-* Peninah Gituku
-* Dennis Mutuku
-* Samuel Gichaga
-* Kelvin Muia
-
+![](./images/image2.png)
 ***
 
 ### Contents
 - [Overview](#overview)
-- [Business Understanding](#businessunderstanding)
-- [Business Problem](#businessproblem)
-- [Objectives of the Chatbot](#objectivesofthechatbot)
-- [Data Understanding](#dataunderstanding)
-- [Data Preparation](#datapreparation)
-- [Exploratory Data Analysis (EDA) ](#exploratorydataanalysis(EDA))
+- [Business Understanding](#business-understanding)
+- [Business Problem](#business-problem)
+- [Objectives of the Chatbot](#objectives-of-the-chatbot)
+- [Data Understanding](#data-understanding)
+- [Exploratory Data Analysis (EDA) ](#exploratory-data-analysis-eda)
 - [Modeling](#modeling)
-- [Evaluations](#evaluations)
-- [Conclusions and Recommendations](#conclusionsandrecommendations)
+- [Evaluation](#evaluation)
+- [Conclusions and Recommendations](#conclusions-and-recommendations)
+- [Deployment](#deployment)
+***
+
+**Authors**: 
+* [Fredrick Kyeki](https://github.com/FREDRICKKYEKI)
+* [Angela Nyaga](https://github.com/KarimiNyaga)
+* [Mark Kimanthi](https://github.com/MarkusPinto)
+* [Peninah Gituku](https://github.com/PennyGituku)
+* [Dennis Mutuku](https://github.com/DennisMuendo)
+* [Samuel Gichaga](https://github.com/Samuelgichanga)
+* [Kelvin Muia](https://github.com/ksila01)
 
   ***
+  
 ## Overview
 The primary objective of this project is to develop an **AI chatbot for Moringa School's website**. The chatbot aims to understand user queries, connect users to key information about courses and enrollment, and provide technical support for any issues faced by visitors. The chatbot will leverage **Natural Language Toolkit (NLTK)** for natural language processing, ensuring a comprehensive understanding of user inquiries.
 
@@ -80,14 +57,14 @@ Moringa School, a learning accelerator in Nairobi, Kenya, has experienced substa
 
 * **Source of Data**: The project obtained data by scraping Moringa School's websites, employing two Python scripts: link_scraper.py and web_scraper.py.
 
-1. Link Scraper**: Utilizes BeautifulSoup to extract hyperlinks from Moringa School's website pages, saving the links to a JSON file named scraped_links.json.
+1. **[Link Scraper](moringa_scraper/link_scraper.py)**: Utilizes BeautifulSoup to extract hyperlinks from Moringa School's website pages, saving the links to a JSON file named scraped_links.json.
 
-2. Web Scraper**: Utilizes links from scraped_links.json to extract text content from corresponding web pages. Text data is then saved in moringa_text_corpus.json.
+2. **[Web Scraper](moringa_scraper/web_scraper.py)**: Utilizes links from scraped_links.json to extract text content from corresponding web pages. Text data is then saved in moringa_text_corpus.json.
 
 * **Data Files**:
 
-* **scraped_links.json**: Contains unique URLs obtained during link scraping.
-* **moringa_text_corpus.json**: Stores text content in a structured format, associating each link with a list of unique text snippets.
+ * **[scraped_links.json](moringa_scraper/scraped_links.json)**: Contains unique URLs obtained during link scraping.
+ * **[moringa_text_corpus.json](moringa_scraper/scraped_links.json)**: Stores text content in a structured format, associating each link with a list of unique text snippets.
 
 ***
 ## Exploratory Data Analysis (EDA)
@@ -124,7 +101,9 @@ Moringa School, a learning accelerator in Nairobi, Kenya, has experienced substa
 **Word Frequency Analysis**
 
 ![Alt Text](images/most_common_words_bar_chart.png)
-![Alt Text](images/Capture.png)
+
+**Word Cloud**
+![Alt Text](images/Capture.PNG)
 
 **Findings**
 * The analysis provides insights into the key themes and topics present in the dataset.
@@ -221,3 +200,52 @@ Based on the analysis and models developed, here are the conclusions and recomme
    - Monitor performance metrics and user satisfaction to measure the effectiveness of the chatbot and identify areas for enhancement.
 
 By addressing these recommendations and focusing on continuous improvement, the chatbot AI system can deliver a more engaging, personalized, and effective user experience, ultimately enhancing user satisfaction and achieving the desired business outcomes.
+
+## Deployment
+
+This model was deployed using the following technologies:
+1. __Flask__: We used flask to expose the necessary APIs needed for the chatbot like:
+    - `/vectorize`: this API endpoint vectorizes the user input.
+    - `/response`: this API endpoint fetches a response using __Cosine Similarity__ depending on the `tag` prediction.
+2. __ReactJS__: This was used to create the front-end of the app, i.e the web UI.
+3. __TensorFlow JS__: This was used to deserialize our model and enable it to be used on the front-end (this was used because `Streamlit` doesn't allow one to use a custom user-interface).
+
+## Project structure:
+```
+📦 
+├─ .gitignore
+├─ .ipynb_checkpoints
+│  ├─ index-checkpoint.ipynb
+│  └─ moringa-checkpoint.txt
+├─ Deployment
+│  ├─ __init__.py
+│  ├─ app.py
+│  ├─ chatbot
+│  ├─ config.py
+│  ├─ pickles
+│  ├─ requirements.txt
+│  ├─ utils.py
+│  └─ wsgi.py
+├─ Final_Intents.json
+├─ LICENSE
+├─ Moringa_Chatbot_Slides.pdf
+├─ README.md
+├─ chunk_files**
+├─ images
+├─ index.ipynb
+├─ moringa.txt
+└─ moringa_scraper
+   ├─ .ipynb_checkpoints
+   │  ├─ moringa_text_corpus-checkpoint.json
+   │  └─ web_scraper-checkpoint.py
+   ├─ __init__.py
+   ├─ link_scraper.py
+   ├─ moringa_text_corpus.json
+   ├─ scraped_links.json
+   └─ web_scraper.py
+```
+©generated by [Project Tree Generator](https://woochanleee.github.io/project-tree-generator)
+
+## License :page_with_curl:
+
+This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
